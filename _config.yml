@@ -51,3 +51,7 @@ jekyll-archives:
   permalinks:
     tag: '/voyages/:name/'
 
+collections:
+  posts:
+    output: true
+    permalink: /voyages/:year/:month/:day/:title/
