@@ -1,96 +1,101 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta content='width=device-width, initial-scale=1' name='viewport'/>
-        {% feed_meta %}
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C700italic%2C400%2C700%2C300' media='all' rel='stylesheet' type='text/css'/>
+<head>
+    <meta charset="utf-8">
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+    {% feed_meta %}
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C700italic%2C400%2C700%2C300'
+          media='all' rel='stylesheet' type='text/css'/>
 
-        <link href='/css/style.css' rel='stylesheet' type='text/css'/>
+    <link href='/css/style.css' rel='stylesheet' type='text/css'/>
 
-        <title>
-            {{ page.title }}
-        </title>
+    <title>
+        {{ page.title }}
+    </title>
 
-        <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js' type='text/javascript'></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js' type='text/javascript'></script>
 
-    </head>
+</head>
 
-    <body>
-        <div id='pagebwrap'>
+<body>
+<div id='pagebwrap'>
 
-            <div class='site-headerbwrap' id='mastheadbwrap' role='banner'>
-                <div class='site-brandingbwrap'>
-                    <div class='container brandingbwrap'>
+    <div class='site-headerbwrap' id='mastheadbwrap' role='banner'>
+        <div class='site-brandingbwrap'>
+            <div class='container brandingbwrap'>
 
-<div class="headersec section" id="headersec"><div class="widget Header" id="Header1">
-<div id="header-inner">
-<div class="titlewrapper">
-<h1 class="site-title">
-    <a href="/">{{ site.title }}</a>
-</h1>
-</div>
-<h2 class="site-description">
-</h2>
-</div>
-</div></div>
-
-
-                    </div><!-- .container branding-->
-                </div><!-- .site-branding-->
-
-                <div class='container navmenubwrap'>
-                    <div class='main-navigationbwrap' id='site-navigationbwrap' role='navigation'>
-                        <h1 class='menu-togglebwrap'>Menu</h1>
-                        <a class='skip-linkbwrap screen-reader-textbwrap' href='#contentbwrap'>Skip to content</a>
-                        <div class='menubwrap'>
-                            <ul>
-                                <!-- <li><a expr:href='data:blog.homepageUrl'>Home</a></li> -->
-
-                                <li><a href='/voyages/'>Voyages</a>
-                                </li>
-
-                                <li><a href='/recettes/'>Recettes</a>
-                                </li>
-
-                                <li><a href='/conseils/'>Conseils</a>
-                                </li>
-
-                                <li><a href='/nous/'>Nous</a>
-                                    <!-- <ul class='children'></ul> -->
-                                </li>
-
-                            </ul>
+                <div class="headersec section" id="headersec">
+                    <div class="widget Header" id="Header1">
+                        <div id="header-inner">
+                            <div class="titlewrapper">
+                                <h1 class="site-title">
+                                    <a href="/">{{ site.title }}</a>
+                                </h1>
+                            </div>
+                            <h2 class="site-description">
+                            </h2>
                         </div>
-                    </div><!-- #site-navigation -->
-                </div> <!-- .container navmenu-->
+                    </div>
+                </div>
 
-            </div><!-- #masthead -->
 
-            <div class='wide contenitor'>
-                <div class='site-contentbwrap container' id='contentbwrap'>
+            </div><!-- .container branding-->
+        </div><!-- .site-branding-->
 
-                    <div class='content-areabwrap sixteen columns' id='primarybwrap'>
-                        <div class='site-mainbwrap' id='mainbwrap' role='main'>
+        <div class='container navmenubwrap'>
+            <div class='main-navigationbwrap' id='site-navigationbwrap' role='navigation'>
+                <h1 class='menu-togglebwrap'>Menu</h1>
+                <a class='skip-linkbwrap screen-reader-textbwrap' href='#contentbwrap'>Skip to content</a>
+                <div class='menubwrap'>
+                    <ul>
+                        <!-- <li><a expr:href='data:blog.homepageUrl'>Home</a></li> -->
 
-                            {{ content }}
+                        <li><a href='/voyages/'>Voyages</a>
+                        </li>
 
-                        </div><!-- #main -->
-                    </div><!-- #primary -->
+                        <li><a href='/recettes/'>Recettes</a>
+                        </li>
 
-                </div><!-- #content -->
-            </div><!-- wide contenitor-->
+                        <li><a href='/conseils/'>Conseils</a>
+                        </li>
 
-            <div class='site-footerbwrap' id='colophonbwrap' role='contentinfo'>
-                <div class='site-infobwrap'>
-                    <!-- Do not edit or remove credits without our permission: newbloggerthemes.com -->
-                    Design by <a href='http://www.iografica.it/' target='_blank'>Iografica.it</a> | Blogger Theme by <a href='http://newbloggerthemes.com/' target='_blank' title='NewBloggerThemes.com'>NewBloggerThemes.com</a>
-                </div><!-- .site-info -->
-            </div><!-- #colophon -->
-        </div><!-- #page -->
+                        <li><a href='/nous/'>Nous</a>
+                            <!-- <ul class='children'></ul> -->
+                        </li>
 
-        <script src='/js/theme-libs.js' type='text/javascript'></script>
+                    </ul>
+                </div>
+            </div><!-- #site-navigation -->
+        </div> <!-- .container navmenu-->
 
-    </body>
+    </div><!-- #masthead -->
+
+    <div class='wide contenitor'>
+        <div class='site-contentbwrap container' id='contentbwrap'>
+
+            <div class='content-areabwrap sixteen columns' id='primarybwrap'>
+                <div class='site-mainbwrap' id='mainbwrap' role='main'>
+
+                    {{ content }}
+
+                </div><!-- #main -->
+            </div><!-- #primary -->
+
+        </div><!-- #content -->
+    </div><!-- wide contenitor-->
+
+    <div class='site-footerbwrap' id='colophonbwrap' role='contentinfo'>
+        <div class='site-infobwrap'>
+            <!-- Do not edit or remove credits without our permission: newbloggerthemes.com -->
+            Design by <a href='http://www.iografica.it/' target='_blank'>Iografica.it</a> | Blogger Theme by <a
+                href='http://newbloggerthemes.com/' target='_blank'
+                title='NewBloggerThemes.com'>NewBloggerThemes.com</a>
+        </div><!-- .site-info -->
+    </div><!-- #colophon -->
+</div><!-- #page -->
+
+<script src='/js/theme-libs.js' type='text/javascript'></script>
+
+</body>
 </html>
 
