@@ -1,0 +1,14 @@
+#map {
+    width: 100%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.leaflet-interactive {
+    fill: green;
+    stroke: red;
+    stroke-width: 1;
+}
+.leaflet-interactive:hover {
+    fill: red;
+}
