@@ -13,16 +13,40 @@ layout: default
     {{ content }}
 </div>
 
+<div class="footer-navigation">
+<div>
 {% if page.previous %}
-<div>
-    <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
-</div>
+    <a class="img-summary img-navigation" href="{{ page.previous.url }}">
+        <img src="{{ page.previous.image }}"/>
+        <div class="dark-layer"></div>
+        <div class="navigation-title">
+            Aventure précédente :<br/>
+            {{ page.previous.title }}
+        </div>
+    </a>
 {% endif %}
+</div>
+<div>
+    <!-- <a href="{{ site.url }}">Retour à l'accueil</a> -->
+    <a class="img-summary img-navigation" href="{{ site.url }}">
+        <img src="{{ page.image }}"/>
+        <div class="dark-layer"></div>
+        <div class="navigation-title">Retour à l'accueil</div>
+    </a>
+</div>
+<div>
 {% if page.next %}
-<div>
-    <a href="{{ page.next.url }}">{{ page.next.title }}</a>
-</div>
+    <a class="img-summary img-navigation" href="{{ page.next.url }}">
+        <img src="{{ page.next.image }}"/>
+        <div class="dark-layer"></div>
+        <div class="navigation-title">
+            Aventure suivante :<br/>
+            {{ page.next.title }}
+        </div>
+    </a>
 {% endif %}
+</div>
+</div><!-- end footer -->
 
 </article>
 
