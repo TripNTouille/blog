@@ -1,0 +1,16 @@
+{% include distinct_countries.liquid %}
+{
+  "type": "FeatureCollection",
+  "features": [{% for countries in site.data.countries %}{% for distinct_country in distinct_countries %}{% if countries.country == distinct_country %}
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "{{countries.country}}",
+      },
+      "geometry": {
+        "type": "{{countries.type}}",
+        "coordinates": {{countries.coordinates}}
+      }
+    },{% endif %}{% endfor %}{% endfor %}
+  ]
+}

@@ -1,0 +1,8 @@
+{% assign distinct_countries = "" | split: "" %}
+{% for post in site.posts %}
+  {% for tag in post.tags %}
+    {% unless distinct_countries contains tag %}
+      {% assign distinct_countries = distinct_countries | push: tag %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
