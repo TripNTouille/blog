@@ -27,6 +27,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
     jekyll-auto-image (1.1.3)
       jekyll
     jekyll-feed (0.11.0)
@@ -62,6 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.8.5)
+  jekyll-archives
   jekyll-auto-image
   jekyll-feed (~> 0.6)
   tzinfo-data

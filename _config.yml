@@ -23,12 +23,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-auto-image
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +43,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll-archives:
+  enabled:
+    - tags
+  layout: 'tag'
+  permalinks:
+    tag: '/voyages/:name/'
+

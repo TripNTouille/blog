@@ -35,7 +35,7 @@ layout: default
                                             }).addTo(map);
 
                                             function onCountryClick(e) {
-                                                window.location = '/search/label/' + e.target.feature.properties.ISO2;
+                                                window.location = '/voyages/' + e.target.feature.properties.ISO2;
                                             }
 
                                             L.geoJson(countries, {

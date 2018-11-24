@@ -2,24 +2,5 @@
 layout: default
 title: Voyages
 ---
+{% include list-post.html posts=site.posts %}
 
-<div class='blog-posts hfeed'>
-
-    {% for post in site.posts %}
-    <div class='post-outer'>
-        <article class="post hentry">
-            <div class="post-body entry-content">
-                <a class="img-summary" href="{{ post.url }}">
-                    <img src="{{ post.image }}"/>
-                </a>
-                <header class="entry-header header-list">
-                    <h2 class="post-title entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                </header>
-                <!-- <div>{{ post.excerpt }}</div> -->
-                <div>BSFDLKSDF SDLFKHSDF JLFHSDBLF LSBDFB FSLDSDIHSLDIHFSLHDFLIHSFL SLIDHF LISDHFLI HSDFHSDHFSDHFLHSD fisd fùl</div>
-            </div>
-        </article>
-    </div>
-    {% endfor %}
-
-</div>
