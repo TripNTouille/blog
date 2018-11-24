@@ -6,9 +6,8 @@
 }
 .leaflet-interactive {
     fill: green;
-    stroke: red;
-    stroke-width: 1;
+    stroke-width: 0;
 }
 .leaflet-interactive:hover {
-    fill: red;
+    fill: #02ff02;
 }

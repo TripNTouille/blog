@@ -9,7 +9,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 function onCountryClick(e) {
-    window.location = '/voyages/' + e.target.feature.properties.name + '/';
+    window.location = '/voyages/' + e.target.feature.properties.name.toLowerCase() + '/';
 }
 
 L.geoJson(countries, {
@@ -17,6 +17,7 @@ L.geoJson(countries, {
 }).addTo(map);
 
 function onEachFeature(feature, layer) {
+    layer.bindTooltip(feature.properties.name);
     layer.on({
         click : onCountryClick,
     });

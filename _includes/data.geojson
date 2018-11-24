@@ -1,7 +1,7 @@
 {% include distinct_countries.liquid %}
 {
   "type": "FeatureCollection",
-  "features": [{% for countries in site.data.countries %}{% for distinct_country in distinct_countries %}{% if countries.country == distinct_country %}
+  "features": [{% for countries in site.data.countries %}{% assign country = countries.country | downcase %}{% for distinct_country in distinct_countries %}{% if country == distinct_country %}
     {
       "type": "Feature",
       "properties": {
