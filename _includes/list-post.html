@@ -10,8 +10,7 @@
                 <header class="entry-header header-list">
                     <h2 class="post-title entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 </header>
-                <!-- <div>{{ post.excerpt }}</div> -->
-                <div>BSFDLKSDF SDLFKHSDF JLFHSDBLF LSBDFB FSLDSDIHSLDIHFSLHDFLIHSFL SLIDHF LISDHFLI HSDFHSDHFSDHFLHSD fisd fùl</div>
+                <div>{{ post.excerpt | strip_html }}</div>
             </div>
         </article>
     </div>
