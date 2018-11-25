@@ -4,8 +4,10 @@
 var countries = {% include data.geojson %};
 var map = L.map('map').setView([44.7779, 17.7165],  4);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+var gl = L.mapboxGL({
+    accessToken: "{{ site.mapbox_token }}",
+    style: 'mapbox://styles/mapbox/light-v9',
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
 }).addTo(map);
 
 function onCountryClick(e) {
