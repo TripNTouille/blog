@@ -22,6 +22,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /:categories/:year/:month/:day/:title/
 excerpt_separator: <!--fin extrait-->
+mapbox_token: "pk.eyJ1IjoiZnJhbmNvaXMybWV0eiIsImEiOiJjam92dHo3ZzAwbGN4M3VvZHR0NWhoZmJkIn0.VEQcpAFfNceyDQiBkH9MJw"
 
 # Build settings
 markdown: kramdown
