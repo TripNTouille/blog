@@ -18,8 +18,8 @@ email: your-email@example.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 permalink: /:categories/:year/:month/:day/:title/
 excerpt_separator: <!--fin extrait-->
 mapbox_token: "pk.eyJ1IjoiZnJhbmNvaXMybWV0eiIsImEiOiJjam92dHo3ZzAwbGN4M3VvZHR0NWhoZmJkIn0.VEQcpAFfNceyDQiBkH9MJw"
@@ -31,17 +31,13 @@ plugins:
   - jekyll-auto-image
   - jekyll-archives
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - scripts/
+  - .travis.xml
 
 jekyll-archives:
   enabled:
