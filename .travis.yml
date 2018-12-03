@@ -1,4 +1,10 @@
 language: ruby
+
 rvm:
   - 2.5.3
-  - jekyll
+
+install:
+  - bundle install
+
+script:
+  - bundle exec jekyll build
