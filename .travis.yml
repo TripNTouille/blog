@@ -16,6 +16,6 @@ deploy:
   keep-history: true
   local-dir: _site
   target-branch: gh-pages
-  fqdn: tripntouille.com
+  fqdn: www.tripntouille.com
   on:
     branch: master
