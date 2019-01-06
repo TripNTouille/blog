@@ -711,7 +711,7 @@ nav#site-navigationbwrap.main-navigationbwrap.fix{
 	padding-bottom:2em !important;
 }
 .wide.contenitor{
-		background: url(http://1.bp.blogspot.com/-xRxG5AR1vRQ/U1xsrisL2RI/AAAAAAAAIqg/nwfoVOmK9ls/s1600/shadow.png) top center no-repeat;
+		background: url(/img/shadow.png) top center no-repeat;
 }
 /*--------------------------------------------------------------
 10.1 Posts and pages
@@ -771,7 +771,7 @@ article .footer-navigation {
     display: flex;
     justify-content: space-between;
     padding: 1em 0;
-    background: url(http://1.bp.blogspot.com/-xRxG5AR1vRQ/U1xsrisL2RI/AAAAAAAAIqg/nwfoVOmK9ls/s1600/shadow.png) top center no-repeat #fff;
+    background: url(/img/shadow.png) top center no-repeat #fff;
     border-top: 1px solid #ccc;
 }
 article .footer-navigation > div {
@@ -869,7 +869,7 @@ object {
 13.0 Footer
 --------------------------------------------------------------*/
 .site-footerbwrap {
-	// background: url(http://1.bp.blogspot.com/-xRxG5AR1vRQ/U1xsrisL2RI/AAAAAAAAIqg/nwfoVOmK9ls/s1600/shadow.png) top center no-repeat #fff;
+	// background: url(/img/shadow.png) top center no-repeat #fff;
 	padding:1em 0em;
 	border-top: 1px solid #ccc;
 }
