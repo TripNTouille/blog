@@ -50,3 +50,6 @@ collections:
   posts:
     output: true
     permalink: /voyages/:year/:month/:day/:title/
+  recipes:
+    output: true
+    permalink: /recettes/:title
