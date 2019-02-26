@@ -821,6 +821,12 @@ article .post-photos {
 article .post-photos img {
     // padding: 1%;
 }
+article.recipe .first-photo {
+    max-height: 300px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
 .entry-metabwrap {
 	border-top: 2px dotted #eee;
 	border-bottom: 2px dotted #eee;

@@ -1,6 +1,83 @@
 ---
 layout: default
+comments: true
 ---
 
-{{ content }}
+<article class="post hentry recipe">
+    <header class="entry-header">
+        <h2 class="post-title entry-title">
+            {{ page.title }}
+        </h2>
+    </header>
+
+    <div class="post-body entry-content">
+        {{ content }}
+    </div>
+
+    <div class="footer-navigation">
+        <div>
+            {% if page.previous %}
+            <a class="img-summary img-navigation" href="{{ page.previous.url }}">
+                <img src="{{ page.previous.image }}"/>
+                <div class="dark-layer"></div>
+                <div class="navigation-title">
+                    Recette précédente :<br/>
+                    {{ page.previous.title }}
+                </div>
+            </a>
+            {% endif %}
+        </div>
+        <div>
+            <a class="img-summary img-navigation" href="{{ site.url }}">
+                <img src="{{ page.image }}"/>
+                <div class="dark-layer"></div>
+                <div class="navigation-title">Retour à l'accueil</div>
+            </a>
+        </div>
+        <div>
+            {% if page.next %}
+            <a class="img-summary img-navigation" href="{{ page.next.url }}">
+                <img src="{{ page.next.image }}"/>
+                <div class="dark-layer"></div>
+                <div class="navigation-title">
+                    Recette suivante :<br/>
+                    {{ page.next.title }}
+                </div>
+            </a>
+            {% endif %}
+        </div>
+    </div><!-- end footer-navigation -->
+
+    {% if layout.comments and jekyll.environment != 'development' %}
+    <div class="footer-comments">
+        <div id="disqus_thread"></div>
+        <script>
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+             */
+            /*
+            var disqus_config = function () {
+            this.page.url = '{{ site.url }}/{{ page.url }}';  // page's canonical URL variable
+            this.page.identifier = '{{ page.url }}'; // page's unique identifier variable
+            };
+            */
+
+            (function() { // DON'T EDIT BELOW THIS LINE
+
+            // shortname depending on the environment
+            var is_prod = ('{{ jekyll.environment }}' == 'production');
+            var disqus_shortname = 'tripntouille' + (is_prod ? '' : '-dev');
+
+            var d = document, s = d.createElement('script');
+            s.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div><!-- end footer-comments -->
+    {% endif %}
+
+</article>
 
