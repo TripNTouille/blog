@@ -1,0 +1,11 @@
+---
+layout: default
+title: Recettes
+---
+
+{% assign recipes_by_country = site.recipes | group_by:"country" %}
+{% for country in recipes_by_country %}
+  <h2 class="recipe-group" id='{{ country.name }}'>{{ country.name }}</h2>
+  {% include list-post.html posts=country.items %}
+{% endfor %}
+

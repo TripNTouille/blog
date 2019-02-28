@@ -759,6 +759,14 @@ article .img-summary {
     height:300px;
     padding-right:2%;
 }
+@media only screen and (max-width: 767px) {
+    article .header-list {
+        width: 100%;
+    }
+    article .img-summary {
+        width: 100%;
+    }
+}
 article .img-summary img {
     flex-shrink: 0;
     min-width: 100%;
@@ -766,6 +774,11 @@ article .img-summary img {
 }
 article .img-summary img:hover {
     opacity: 0.85;
+}
+.recipe-group {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 article .footer-navigation {
     display: flex;

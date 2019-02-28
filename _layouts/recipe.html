@@ -16,35 +16,37 @@ comments: true
 
     <div class="footer-navigation">
         <div>
-            {% if page.previous %}
-            <a class="img-summary img-navigation" href="{{ page.previous.url }}">
-                <img src="{{ page.previous.image }}"/>
-                <div class="dark-layer"></div>
-                <div class="navigation-title">
-                    Recette précédente :<br/>
-                    {{ page.previous.title }}
-                </div>
-            </a>
-            {% endif %}
-        </div>
-        <div>
-            <a class="img-summary img-navigation" href="{{ site.url }}">
+            <a class="img-summary img-navigation" href="{{ site.url }}/recettes-type/#{{ page.course }}">
                 <img src="{{ page.image }}"/>
                 <div class="dark-layer"></div>
-                <div class="navigation-title">Retour à l'accueil</div>
+                <div class="navigation-title">
+                    Toutes nos recettes
+                    {% case page.course %}
+                        {% when 'entree' %}
+                        d'entrées
+                        {% when 'plat' %}
+                        de plats
+                        {% when 'dessert' %}
+                        de désserts
+                    {% endcase %}
+                </div>
+            </a>
+        </div>
+        <div><!-- TODO voir s'il y a une meilleure solution -->
+            <a class="img-summary img-navigation" href="{{ site.url }}/voyages/{{ page.post.url }}">
+                <img src="{{ page.post.image }}"/>
+                <div class="dark-layer"></div>
+                <div class="navigation-title">Où avons nous découvert cette recette</div>
             </a>
         </div>
         <div>
-            {% if page.next %}
-            <a class="img-summary img-navigation" href="{{ page.next.url }}">
-                <img src="{{ page.next.image }}"/>
+            <a class="img-summary img-navigation" href="{{ site.url }}/recettes-pays/#{{ page.country }}">
+                <img src=""/><!-- TODO ajouter une image générique de carte -->
                 <div class="dark-layer"></div>
                 <div class="navigation-title">
-                    Recette suivante :<br/>
-                    {{ page.next.title }}
+                    Nos recettes du même pays
                 </div>
             </a>
-            {% endif %}
         </div>
     </div><!-- end footer-navigation -->
 

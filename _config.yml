@@ -38,13 +38,18 @@ exclude:
   - README.md
   - scripts/
   - .travis.xml
+  - config
 
 jekyll-archives:
   enabled:
     - tags
-  layout: 'tag'
+    - categories
+  layouts:
+    tag: list-posts-with-map
+    category: list-posts
   permalinks:
     tag: '/voyages/:name/'
+    category: '/recettes/:name'
 
 collections:
   posts:
