@@ -780,6 +780,10 @@ article .img-summary img:hover {
     font-weight: bold;
     text-transform: uppercase;
 }
+.recipe-ingredients {
+    font-weight: bold;
+    text-transform: uppercase;
+}
 article .footer-navigation {
     display: flex;
     justify-content: space-between;
