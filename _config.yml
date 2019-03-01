@@ -58,3 +58,17 @@ collections:
   recipes:
     output: true
     permalink: /recettes/:title
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
