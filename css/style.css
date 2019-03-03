@@ -819,7 +819,7 @@ article .post-content {
     margin-left: 0 !important;
     padding-bottom: 1em;
 }
-article .post-quote {
+.post-quote {
     padding-bottom: 1em;
     padding-left: 1em;
     font-style: italic;
