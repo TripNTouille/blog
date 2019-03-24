@@ -2,7 +2,7 @@
 ---
 
 var countries = {% include data.geojson %};
-var map = L.map('map').setView([44.7779, 17.7165],  4);
+var map = L.map('map').setView([38.754083, 70.576172], 3);
 
 var gl = L.mapboxGL({
     accessToken: "{{ site.mapbox_token }}",
