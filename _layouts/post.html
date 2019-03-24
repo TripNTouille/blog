@@ -18,7 +18,11 @@ comments: true
         <div>
             {% if page.previous %}
             <a class="img-summary img-navigation" href="{{ page.previous.url }}">
-                <img src="{{ page.previous.image }}"/>
+                {% if assets[page.previous.image] %}
+                  {% asset '{{ page.previous.image }}' magick:resize="300" alt="" %}
+                {% else %}
+                  <img src="{{ page.previous.image }}"/>
+                {% endif %}
                 <div class="dark-layer"></div>
                 <div class="navigation-title">
                     Etape précédente :<br/>
@@ -37,7 +41,11 @@ comments: true
         <div>
             {% if page.next %}
             <a class="img-summary img-navigation" href="{{ page.next.url }}">
-                <img src="{{ page.next.image }}"/>
+                {% if assets[page.next.image] %}
+                  {% asset '{{ page.next.image }}' magick:resize="300" alt="" %}
+                {% else %}
+                  <img src="{{ page.next.image }}"/>
+                {% endif %}
                 <div class="dark-layer"></div>
                 <div class="navigation-title">
                     Etape suivante :<br/>
