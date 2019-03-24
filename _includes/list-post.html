@@ -5,7 +5,11 @@
         <article class="post hentry">
             <div class="post-body entry-content">
                 <a class="img-summary" href="{{ post.url }}">
-                    <img src="{{ post.image }}"/>
+                    {% if assets[post.image] %}
+                      {% asset '{{ post.image }}' magick:resize="450" alt="" %}
+                    {% else %}
+                      <img src="{{ post.image }}"/>
+                    {% endif %}
                 </a>
                 <header class="entry-header header-list">
                     <h2 class="post-title entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>

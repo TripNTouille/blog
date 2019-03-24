@@ -9,6 +9,7 @@ points:
 - - Kurume
   - 33.2962
   - 130.5584
+image: IMG_20190307_221503.jpg
 ---
 
 Arrivée à Fukuoka

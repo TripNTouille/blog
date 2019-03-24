@@ -6,6 +6,7 @@ points:
 - - Beppu
   - 33.2891
   - 131.4495
+image: IMG_20190310_165636.jpg
 ---
 
 Nous avançons en bus jusqu'à Beppu, ville réputée pour ses dizaines de
