@@ -1073,6 +1073,10 @@ object {
         .container .offset-by-fourteen,
         .container .offset-by-fifteen { padding-left: 0; }
 
+        .post-links {
+          margin: 5px 0 15px !important;
+        }
+
     }
 
 /* #Mobile (Landscape)
