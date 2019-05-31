@@ -2,7 +2,15 @@
 ---
 
 var countries = {% include data.geojson %};
-var map = L.map('map').setView([38.754083, 70.576172], 3);
+var map = L.map('map');
+var bounds = countries.features.map(function(country) {
+  var point = country.geometry.coordinates[0][0];
+  if (country.geometry.type == "MultiPolygon") {
+    point = point[0];
+  }
+  return point.slice(0).reverse();
+});
+map.fitBounds(bounds);
 
 var gl = L.mapboxGL({
     accessToken: "{{ site.mapbox_token }}",
