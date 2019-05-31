@@ -1077,6 +1077,9 @@ object {
           margin: 5px 0 15px !important;
         }
 
+        .recipe-ingredients {
+          margin-top: 20px;
+        }
     }
 
 /* #Mobile (Landscape)
