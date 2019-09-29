@@ -21,6 +21,7 @@ points:
 - - Bungalow de Yukiko
   - 34.748501
   - 133.683102
+image: IMG_20190414_070658.jpg
 ---
 
 En ce début de printemps, l'optimisme japonais nous envahis : la floraison
