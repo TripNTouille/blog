@@ -7,76 +7,65 @@ post:
   url: "/voyages/2018/05/15/france-nous-exportons-la-dolce-vita/"
 ---
 
-<p class="ten columns">
 Dessert coloré et estival
-</p>
+{:.ten.columns}
 <!--fin extrait-->
 
-<p class="sixteen columns first-photo">
-    <a href="https://lh3.googleusercontent.com/5DT72ROvFn4E2dq1eLLUEToa7xVraU2e1HVzT6rE2wEvnsyXPylpq_HVNK0ngmfDjk7Qt1SdSZUSgmI78uxyqwDLISdnvY3xR6UJMcnp4no5SzjbLCOnKpy7xCCnH8XCJq7-dgYjeOS-lQ-5hI9Rj_g_o0XZqTS53UfBPwdVDJDDxWxCxnxrIIJV9NO1J9XS3DjU6mLteKQO8DgBafMhM2dK22EhURiavWYdguz98qKbaYYJFkomZO3bpKZofiS6l8iILqmieTMq8eqRDJNYm3ZIKwi3_EGwBNg2aBPOetwteCqWPS59pPWVP_GpvzEmJ4eJxkP3Kw8ny6gZOFjsDkMbJ1DgZ2NcISOJmINX7o65vbY3vj3wDGn5_a81LV2Fm_mJytrX4huAFCQZOe51icsfz5-mB8OmMQDpCFz1PGv34fsI31M3GZR5vhZgTtwZbCBiHku9t8BpqXuJbr9xDCI51oVAeluKSMzMLmwEQNwxI9fg4Z7Ndwj7APJY8tzxxknm04RL_OUKsahMjS6qZG4ammlvkQ9p-Zj93yo3STVCc2YW6lx0wsxa3e-KboSpHZgLVvNEicipEB8Yix6nLsPlY9H3zpJP_5AxiPf2uPqmLN_9D3awtZqGZYgeUv1Bq2aRMtLR3_E0N00P2CDPTdEmz2_2RLowFOPjywCusnHaX13vNhHC0lpDYFgy8DuL4KZwaqQ4eNsQOEXzzdhUHKqf">
-        <img src="https://lh3.googleusercontent.com/5DT72ROvFn4E2dq1eLLUEToa7xVraU2e1HVzT6rE2wEvnsyXPylpq_HVNK0ngmfDjk7Qt1SdSZUSgmI78uxyqwDLISdnvY3xR6UJMcnp4no5SzjbLCOnKpy7xCCnH8XCJq7-dgYjeOS-lQ-5hI9Rj_g_o0XZqTS53UfBPwdVDJDDxWxCxnxrIIJV9NO1J9XS3DjU6mLteKQO8DgBafMhM2dK22EhURiavWYdguz98qKbaYYJFkomZO3bpKZofiS6l8iILqmieTMq8eqRDJNYm3ZIKwi3_EGwBNg2aBPOetwteCqWPS59pPWVP_GpvzEmJ4eJxkP3Kw8ny6gZOFjsDkMbJ1DgZ2NcISOJmINX7o65vbY3vj3wDGn5_a81LV2Fm_mJytrX4huAFCQZOe51icsfz5-mB8OmMQDpCFz1PGv34fsI31M3GZR5vhZgTtwZbCBiHku9t8BpqXuJbr9xDCI51oVAeluKSMzMLmwEQNwxI9fg4Z7Ndwj7APJY8tzxxknm04RL_OUKsahMjS6qZG4ammlvkQ9p-Zj93yo3STVCc2YW6lx0wsxa3e-KboSpHZgLVvNEicipEB8Yix6nLsPlY9H3zpJP_5AxiPf2uPqmLN_9D3awtZqGZYgeUv1Bq2aRMtLR3_E0N00P2CDPTdEmz2_2RLowFOPjywCusnHaX13vNhHC0lpDYFgy8DuL4KZwaqQ4eNsQOEXzzdhUHKqf=w996-h611-no"
-             width=900
-             alt="tarte aux fraises"/>
-    </a>
-</p>
+![tarte aux fraises](https://lh3.googleusercontent.com/5DT72ROvFn4E2dq1eLLUEToa7xVraU2e1HVzT6rE2wEvnsyXPylpq_HVNK0ngmfDjk7Qt1SdSZUSgmI78uxyqwDLISdnvY3xR6UJMcnp4no5SzjbLCOnKpy7xCCnH8XCJq7-dgYjeOS-lQ-5hI9Rj_g_o0XZqTS53UfBPwdVDJDDxWxCxnxrIIJV9NO1J9XS3DjU6mLteKQO8DgBafMhM2dK22EhURiavWYdguz98qKbaYYJFkomZO3bpKZofiS6l8iILqmieTMq8eqRDJNYm3ZIKwi3_EGwBNg2aBPOetwteCqWPS59pPWVP_GpvzEmJ4eJxkP3Kw8ny6gZOFjsDkMbJ1DgZ2NcISOJmINX7o65vbY3vj3wDGn5_a81LV2Fm_mJytrX4huAFCQZOe51icsfz5-mB8OmMQDpCFz1PGv34fsI31M3GZR5vhZgTtwZbCBiHku9t8BpqXuJbr9xDCI51oVAeluKSMzMLmwEQNwxI9fg4Z7Ndwj7APJY8tzxxknm04RL_OUKsahMjS6qZG4ammlvkQ9p-Zj93yo3STVCc2YW6lx0wsxa3e-KboSpHZgLVvNEicipEB8Yix6nLsPlY9H3zpJP_5AxiPf2uPqmLN_9D3awtZqGZYgeUv1Bq2aRMtLR3_E0N00P2CDPTdEmz2_2RLowFOPjywCusnHaX13vNhHC0lpDYFgy8DuL4KZwaqQ4eNsQOEXzzdhUHKqf=w900)
+{:.sixteen.columns.first-photo}
 
-<div>
-<div class="four columns">
-<div class="recipe-ingredients">Ingrédients pour le sablé breton</div>
-<ul>
-<li>125 g de farine</li>
-<li>2 jaunes d’oeuf</li>
-<li>175 g de beurre salé</li>
-<li>90 g de sucre glace</li>
-<li>80 g d’amande en poudre</li>
-<li>1 pincée de fleur de sel</li>
-</ul>
+<div class="four columns" markdown="1">
+Ingrédients pour le sablé breton :
+{:.recipe-ingredients}
+
+- 125 g de farine
+- 2 jaunes d’oeuf
+- 175 g de beurre salé
+- 90 g de sucre glace
+- 80 g d’amande en poudre
+- 1 pincée de fleur de sel
 </div>
-<div class="ten columns">
-<p>
-Battez le beurre, le sucre et les amandes. Ajoutez les jaunes d’oeuf puis la farine et le sel pour former une boule.
-</p>
-<p>
-Lissez la crème pâtissière sur le sablé refroidit puis placez les fraises coupées en deux en rosace sur la tarte.
-</p>
-<p>
-Étalez sur une plaque et placez une seconde plaque par-dessus. Enfournez 35 à 40 minutes à 180 °C.
-</p>
-</div>
+
+<div class="ten columns" markdown="1">
+1. Battez le beurre, le sucre et les amandes. Ajoutez les jaunes d’oeuf puis la farine et le sel pour former une boule.
+
+2. Lissez la crème pâtissière sur le sablé refroidit puis placez les fraises coupées en deux en rosace sur la tarte.
+
+3. Étalez sur une plaque et placez une seconde plaque par-dessus. Enfournez 35 à 40 minutes à 180 °C.
 </div>
 
 <div class="sixteen columns"></div>
 
-<div>
-<div class="four columns">
-<div class="recipe-ingredients">Ingrédients pour la crème pâtissière :</div>
-<ul>
-<li>250 ml de lait</li>
-<li>2 jaunes d’oeuf</li>
-<li>20 g de sucre</li>
-<li>1 gousse de vanille</li>
-<li>25 g de farine</li>
-</ul>
+<div class="four columns" markdown="1">
+Ingrédients pour la crème pâtissière :
+{:.recipe-ingredients}
+
+- 250 ml de lait
+- 2 jaunes d’oeuf
+- 20 g de sucre
+- 1 gousse de vanille
+- 25 g de farine
 </div>
-<div class="ten columns">
-<p>
-Infusez la vanille dans le lait chaud pendant 15 minutes. Blanchissez les jaunes d’oeuf avec le sucre puis ajoutez la farine. Mettez la moitié du lait dans ce mélange puis remettez le tout dans la casserole. Faites épaissir en chauffant doucement. Réservez au frigo.
-</p>
-</div>
+
+<div class="ten columns" markdown="1">
+1. Infusez la vanille dans le lait chaud pendant 15 minutes.
+
+2. Blanchissez les jaunes d’oeuf avec le sucre puis ajoutez la farine.
+
+3. Mettez la moitié du lait dans ce mélange puis remettez le tout dans la casserole. Faites épaissir en chauffant doucement.
+
+4. Réservez au frigo.
 </div>
 
 <div class="sixteen columns"></div>
 
-<div>
-<div class="four columns">
-<div class="recipe-ingredients">Ingrédients pour la garniture :</div>
-<ul>
-<li>500 g de belles fraises</li>
-</ul>
+<div class="four columns" markdown="1">
+Ingrédients pour la garniture :
+{:.recipe-ingredients}
+
+- 500 g de belles fraises
 </div>
-<div class="ten columns">
-<p>
-Lissez la crème pâtissière sur le sablé refroidit puis placez les fraises coupées en deux en rosace sur la tarte.
-</p>
-</div>
+
+<div class="ten columns" markdown="1">
+1. Lissez la crème pâtissière sur le sablé refroidit puis placez les fraises coupées en deux en rosace sur la tarte.
 </div>

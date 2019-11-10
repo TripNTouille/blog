@@ -6,51 +6,41 @@ post:
   url: "/voyages/2018/05/01/toscane-fiorella-sienne/"
 ---
 
-<p class="ten columns">
 Pour le dimanche après-midi !
-</p>
+{:.ten.columns}
 <!--fin extrait-->
 
-<p class="sixteen columns first-photo">
-    <a href="/img/crepe.jpg">
-        <img src="/img/crepe.jpg"
-             width=900
-             alt="crepes"/>
-    </a>
-</p>
+![crèpes]({% asset 'crepe.jpg' @path %})
+{:.sixteen.columns.first-photo}
 
-<div class="four columns">
-<div class="recipe-ingredients">Ingrédients :</div>
-<ul>
-<li>250 g de farine</li>
-<li>2 c à soupe de sucre</li>
-<li>1/2 c à café de sel</li>
-<li>2 c à soupe d'huile d’olive</li>
-<li>20 g de beurre salé</li>
-<li>3 oeufs</li>
-<li>1/2 l de lait</li>
-<li>3 c à soupe de grand marnier</li>
-</ul>
+<div class="four columns" markdown="1">
+Ingrédients :
+{:.recipe-ingredients}
+
+- 250 g de farine
+- 2 c à soupe de sucre
+- 1/2 c à café de sel
+- 2 c à soupe d'huile d’olive
+- 20 g de beurre salé
+- 3 oeufs
+- 1/2 l de lait
+- 3 c à soupe de grand marnier
 </div>
 
-<div class="ten columns">
-<p>
+<div class="ten columns" markdown="1">
 1. Dans un grand saladier, battez la
 farine, le sucre, le sel.
-</p>
-<p class="ten columns">
+
 2. Ajoutez le lait progressivement puis les
 oeufs un à un suivi du grand marnier.
-</p>
-<p class="ten columns">
+
 3. Laissez reposer la pâte une heure ou
 deux au frais.
-</p>
-<p class="ten columns">
+
 4. Faites chauffer une poêle avec du
 beurre et mettre-y une louche de pâte,
 faites dorer les deux côtés de la crêpe.
-Agrémentez-la de sucre roux et de jus de
+
+5. Agrémentez-la de sucre roux et de jus de
 citron.
-</p>
 </div>

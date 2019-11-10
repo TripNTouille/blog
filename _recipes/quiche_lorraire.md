@@ -6,55 +6,35 @@ post:
   url: "/voyages/2018/04/15/piombino-rome"
 ---
 
-<p class="ten columns">
 Recette bien de chez nous !
-</p>
+{:.ten.columns}
+
 <!--fin extrait-->
 
-<p class="sixteen columns first-photo">
-    <a href="/img/quiche.jpg">
-        <img src="/img/quiche.jpg"
-             width=900
-             alt="une quiche lorraine"/>
-    </a>
-</p>
+![une quiche lorraine]({% asset 'quiche.jpg' @path %})
+{:.sixteen.columns.first-photo}
 
-<div class="four columns">
-<div class="recipe-ingredients">Ingrédients :</div>
-<ul>
-<li>1 pâte brisée</li>
-<li>200 g de lardons fumés
-en petits dés</li>
-<li>1 gros oignon</li>
-<li>3 oeufs</li>
-<li>20 cl de crème fraîche</li>
-<li>20 cl de lait</li>
-<li>2 poignées de conté rapé</li>
-<li>1 pincée de poivre</li>
-<li>1 pincée de noix de muscade</li>
-</ul>
+<div class="four columns" markdown="1">
+Ingrédients :
+{:.recipe-ingredients}
+
+- 1 pâte brisée
+- 200 g de lardons fumés en petits dés
+- 1 gros oignon
+- 3 oeufs
+- 20 cl de crème fraîche
+- 20 cl de lait
+- 2 poignées de conté rapé
+- 1 pincée de poivre
+- 1 pincée de noix de muscade
 </div>
 
-<div class="ten columns">
-<p>
-1. Garnissez un moule avec la pâte à
-tarte puis piquez-la à l’aide d’une fourchette
-de part en part.
-</p>
-<p>
-2. Dans une poêle faites revenir les
-oignons avec un peu de beurre, ajoutez-y
-les lardons et faites-les dorer.
-</p>
-<p>
-3.Mélangez les oeufs, la crème, le lait
-dans un saladier. Ajoutez le poivre, une
-pincée de muscade. Rajoutez les lardons,
-mélangez et versez sur la pâte. Saupoudrez
-du fromage rapé.
-</p>
-<p>
-4. Cuisez-la 45 à 50 minutes au four thermostat
-6 (180°C).
-</p>
+<div class="ten columns" markdown="1">
+1. Garnissez un moule avec la pâte à tarte puis piquez-la à l’aide d’une fourchette de part en part.
+
+2. Dans une poêle faites revenir les oignons avec un peu de beurre, ajoutez-y les lardons et faites-les dorer.
+
+3. Mélangez les oeufs, la crème, le lait dans un saladier. Ajoutez le poivre, une pincée de muscade. Rajoutez les lardons, mélangez et versez sur la pâte. Saupoudrez du fromage rapé.
+
+4. Cuisez-la 45 à 50 minutes au four thermostat 6 (180°C).
 </div>
