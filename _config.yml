@@ -36,6 +36,7 @@ plugins:
   - jekyll-auto-image
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
