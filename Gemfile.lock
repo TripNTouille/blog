@@ -57,6 +57,8 @@ GEM
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -105,6 +107,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-auto-image
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
   mini_magick
   tzinfo-data
 
