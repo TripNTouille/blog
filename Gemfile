@@ -24,6 +24,9 @@ group :jekyll_plugins do
   # génération de pages par tags
   gem "jekyll-archives"
   gem "jekyll-assets"
+  # SEO and co.
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

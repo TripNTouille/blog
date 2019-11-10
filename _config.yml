@@ -15,14 +15,19 @@
 # in the templates via {{ site.myvariable }}.
 title: Trip'n Touille
 email: contact@tripntouille.com
-description: 
+description: "Escapade en cuisine avec les habitants du monde : des recettes grapillées en infiltrant les cuisines, des rencontres époustouflantes épiçant les plats et des bonnes adresses relevant le voyage. Le tout avec notre regard curieux sur le monde."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.tripntouille.com/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+# twitter_username:
+# github_username:
 permalink: /:categories/:year/:month/:day/:title/
 excerpt_separator: <!--fin extrait-->
 mapbox_token: "pk.eyJ1IjoiZnJhbmNvaXMybWV0eiIsImEiOiJjam92dHo3ZzAwbGN4M3VvZHR0NWhoZmJkIn0.VEQcpAFfNceyDQiBkH9MJw"
+
+# settings for SEO tag
+author: "Julie Plozner & Sylvain Gournay"
+logo: /favicon.ico
+lang: fr_FR
 
 # Build settings
 markdown: kramdown
@@ -30,6 +35,8 @@ plugins:
   - jekyll-feed
   - jekyll-auto-image
   - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
