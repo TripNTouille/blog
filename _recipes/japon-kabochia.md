@@ -4,6 +4,7 @@ country: japon
 course: plat
 post:
   url: "/voyages/todo/"
+image: https://lh3.googleusercontent.com/_Jx2e35fvlUv7fASWYJLfTZBfRw0vxN7_QZWx_1qso_U3FSWzSJc3Zd1dyrR-v0Y8CJ98SWW1z1Swqoi5gkvRJ9O_kdMJcYN7Bjb7WQTxmcx5EsU0GCDncRYEVKJtmBRw7lQkZtOo4IWH_0xlinnB5xrstn39LTIszN6-E_UNV5KiPrATG-BYzLG8ZlI1CdommBNjNMxsileI6a-PdcV2ZP-ZZBB8jGA3PTa_sgTbPTVTwS5yCINtJgolXjGoLIfM3RPRYFGg558GCG061Nsca2H1FTS1D-Awx8vhG0aQYifRyPEbD4NbqJGG5KHrOx46Y9GACChUXZsjXqZJwG7YZAoB75sa20GtGsoWYvAp45XEbzT4xQInGcWZ5n7gxpQuXgOslwBtakDziLpp09ImYBiI8WkI35HhHlgwHfiRdV5e6GmxN8l5IhNxKzJFMqKoLi35OuDSr3tLW7P7pw_J-jbspyQPUuQlZ7XGF1rojcqIB56Kprh_j4WNbSlY4XcTHnuMkuG3kjgpaeXRqQr8zn61E7m0m2neLCPIU8u_2EwZVwLGTlruIkWWVBieU6-5y1s0VMIUjosQEIrASPcBPr8coUPGFMlm8taikCLb6g5dIfp_eB-dMf6Q-iQDIbuDTA8c0ZdDFLGnNZD_e5LJcAXbBhVvRJ94eCmEq4JRukfOgVV9pHtyj-WK1KwDermR9_v_2MxcjM_lukQPIXNWWFzfcgFHZt-Mm_HwElNFTaAcr1Z=w900
 ---
 
 Courge à la peau vert foncé et la chaire d'un orange vif, la kabochia vous étonnera par sa texture velouté et son goût rappelant la chataîgne.
@@ -11,7 +12,7 @@ Courge à la peau vert foncé et la chaire d'un orange vif, la kabochia vous ét
 
 <!--fin extrait-->
 
-![alternative text]({% asset 'IMG_20190414_070658.jpg' @path %})
+![kabochia]({{ page.image }})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">

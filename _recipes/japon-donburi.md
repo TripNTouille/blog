@@ -4,6 +4,7 @@ country: japon
 course: plat
 post:
   url: "/voyages/todo/"
+image: https://images.happycow.net/venues/1024/97/40/hcmp97401_604501.jpeg
 ---
 
 Ce plat végétarien japonais se compose de riz et de plusieurs préparation de légumes. En voici la recette de Iwao.
@@ -11,7 +12,7 @@ Ce plat végétarien japonais se compose de riz et de plusieurs préparation de 
 
 <!--fin extrait-->
 
-![alternative text]({% asset 'IMG_20190414_070658.jpg' @path %})
+![alternative text]({{ page.image }})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">
