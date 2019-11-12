@@ -4,13 +4,14 @@ country: france
 course: dessert
 post:
   url: "/voyages/2018/05/01/toscane-fiorella-sienne/"
+image: crepe.jpg
 ---
 
 Pour le dimanche après-midi !
 {:.ten.columns}
 <!--fin extrait-->
 
-![crèpes]({% asset 'crepe.jpg' @path %})
+![crèpes]({% asset '{{ page.image }}' @path %})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">

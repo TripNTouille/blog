@@ -4,6 +4,7 @@ country: france
 course: entree
 post:
   url: "/voyages/2018/04/15/piombino-rome"
+image: quiche.jpg
 ---
 
 Recette bien de chez nous !
@@ -11,7 +12,7 @@ Recette bien de chez nous !
 
 <!--fin extrait-->
 
-![une quiche lorraine]({% asset 'quiche.jpg' @path %})
+![une quiche lorraine]({% asset '{{ page.image }}' @path %})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">
