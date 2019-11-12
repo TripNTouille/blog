@@ -24,6 +24,8 @@ permalink: /:categories/:year/:month/:day/:title/
 excerpt_separator: <!--fin extrait-->
 mapbox_token: "pk.eyJ1IjoiZnJhbmNvaXMybWV0eiIsImEiOiJjam92dHo3ZzAwbGN4M3VvZHR0NWhoZmJkIn0.VEQcpAFfNceyDQiBkH9MJw"
 
+image: /img/default-image.png
+
 # settings for SEO tag
 author: "Julie Plozner & Sylvain Gournay"
 logo: /favicon.ico
