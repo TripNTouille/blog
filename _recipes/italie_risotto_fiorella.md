@@ -4,6 +4,7 @@ country: italie
 course: plat
 post:
   url: "/voyages/todo/"
+image: https://lh3.googleusercontent.com/czqFf9a6yysBAul3RqqG2R93r-h3E-dHmy-KPbfFZ_Kj2Zz-va3BGcdCLl5ScYgavclEkgSwvIvcv39Z-C1GGNhtfilqy-SgJIbvzDg8ZjqwNnafIhoq9sqLVJXIT-aajVzlfMGU_VqW7tFf0CrIEvu78upTn49_d5w7z44S8exadzkjPR8LqQ5r6J21gApmBXNfv2uyPI40Eu5awc3a0JTLKocLqPpZjzdA25pBgIFQ-OGv5pBVGgEryt2YZRcblnBaEeUMX5ZM7b37kgX2jCYO0DeUvOF7NLNvKWb6QYUnho0aRkZ-cphEhmVyiW4GqbbFZh5FlgVb4PTxh8FYRcI-lJBk_IfthtRRX3lZJchKI80hWOq4d2Kuxm1ixKSF-PBv0AB69zGWA7xdUBQaTM7zZzvqsgO4VDo_hjN1KWRgJQHaQiZM4v94mSTLydM2V7FXXr4BdYjUzIBA89t9X29vWARhdtuZo2Dopq2my-p9C_MkKVRAkVjo3Vv2hE0ONgIMUOTscfNTN9ocwgKnOKQeYlX2hnggwVd6LOItm-gDd4FCfpZN0BJJAO7fYSQspazmbJ-5_huzQSscEsntsOhvREYH7KwyFCBLk8-ZDOSFPN1WBohj-K96eieFTz0DxjVM_5dIUzIJLYvnsrfjF36BaST2zvRO8UbHz5UHohhPHrE967OCneJK2KCMLYUc1C12JjwXEcj0xMfruax3A-MmIcHkcWvI9ns5X8JM3KY0VScR=w900
 ---
 
 Le risotto est un art en Italie, nous vous en dévoilons les secrets... du moins ceux que l'on connait !
@@ -11,7 +12,7 @@ Le risotto est un art en Italie, nous vous en dévoilons les secrets... du moins
 
 <!--fin extrait-->
 
-![alternative text]({% asset 'IMG_20190414_070658.jpg' @path %})
+![pret pour le risotto]({{ page.image }})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">
