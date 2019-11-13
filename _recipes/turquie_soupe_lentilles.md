@@ -4,6 +4,7 @@ country: turquie
 course: plat
 post:
   url: "/voyages/todo/"
+image: https://lh3.googleusercontent.com/lDwyRvpBgXLC89WXIPhbjXpcv4ptmldAowDaTUotzd91M0KFERNbQGvBqtY3xdBJ7Qwyu9qOTtSURhIVjfoCQH8KvRo2YywUtcs07g5ADAhOsD4Ie2JZvGVB1-xeAJwyHNjXsQd1T0YwntTTILwbA0CFC-Es93aPX31xGvZiYJfpLAEiq7e48rRnmcSmQhuQaxczjTJtbXRQT-XQyrODdaQquuEE_XwkUIO2zpKgf6sr51BSETvbCyoW0q77YnM1kUL36toMhSphbrqz9FKKT0M0Di3v3KO6f8op0fAxeclyreid_sL0erYavwAJZzvO5SsIJ5d5ios3wMI3p1l3JUrPIbSPoqxR9aKK6EnmlHjOhJ52BkRlZk3P0DWe4qb9T71Rjz4jE2GhciYuvK9hj4RpG61UulfnG2Kb340uf9onsTrQSteDZkMfQ8KzFBZ0kXQCnmeNIMHY68ApQIudVxMHCjJCKd6GlGK0zCxk8qpIN5OH0ocVsSYFIi-1-NDbGdfacp0C9gkvuWcjVBdEHOfjfWE9wlZkqZFT1uzmWqilG4JCUjnaDeVK9T5hiD2oZR7nAagrB-QLgVnGiNZ-TZIfEK0yQZ37HwOCtITbb9OJekH3OTg3R5Jvjd_56rTn_AAtGcsqwQYcQY6EVlq9E5lDhMlKRFrSvG_VvmbecUQsSx1XlV_UAo4P8Dlj7AoicyWTjDuBHgUzInHl33d3SyWEJIcFOEwbmIahejx3jF4989qW=w900
 ---
 
 Les soupes sont très populaires dans les cuisines familliales turque, voici la soupe de lentilles.
@@ -11,7 +12,7 @@ Les soupes sont très populaires dans les cuisines familliales turque, voici la 
 
 <!--fin extrait-->
 
-![alternative text]({% asset 'IMG_20190414_070658.jpg' @path %})
+![lentilles]({{ page.image }})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">
