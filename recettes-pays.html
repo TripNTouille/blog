@@ -3,6 +3,6 @@ layout: default
 title: Recettes
 ---
 
-{% assign recipes_by_country = site.recipes | group_by:"country" %}
+{% assign recipes_by_country = site.recipes | group_by:"country" | sort_natural: "name" %}
 {% include list-by-group.html groups=recipes_by_country %} 
 {% asset page-utils.js %}
