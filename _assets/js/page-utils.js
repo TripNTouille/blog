@@ -3,6 +3,5 @@
 function switch_visibility(header_node) {
     $header = $(header_node);
     $content = $header.next();
-    $content.slideToggle(500, function() {
-    });
+    $content.slideToggle(500);
 };
