@@ -1,0 +1,9 @@
+{% for  group in include.groups %}
+  {% if include.groups.first != group %}
+  <div class="sixteen columns separator"></div>
+  {% endif %}
+  <h2 class="recipe-group" id='{{ group.name }}' onclick="switch_visibility(this)">{{ group.name }}</h2>
+  {% include list-post.html posts=group.items %}
+{% endfor %}
+
+{% asset page-utils.js %}
