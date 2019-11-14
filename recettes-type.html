@@ -4,8 +4,5 @@ title: Recettes
 ---
 
 {% assign recipes_by_type = site.recipes | group_by:"course" %}
-{% for type in recipes_by_type %}
-  <h2 class="recipe-group" id="{{ type.name }}">{{ type.name }}</h2>
-  {% include list-post.html posts=type.items %}
-{% endfor %}
-
+{% include list-by-group.html groups=recipes_by_type %} 
+{% asset page-utils.js %}

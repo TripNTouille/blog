@@ -791,6 +791,10 @@ article .footer-navigation {
     background: url(/img/shadow.png) top center no-repeat #fff;
     border-top: 1px solid #ccc;
 }
+.separator {
+    background: url(/img/shadow.png) top center no-repeat #fff;
+    border-top: 1px solid #ccc;
+}
 article .footer-navigation > div {
     min-width: 33%;
 }
