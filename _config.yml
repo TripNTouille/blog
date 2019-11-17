@@ -60,6 +60,10 @@ jekyll-archives:
     tag: '/voyages/:name/'
     category: '/recettes/:name'
 
+algolia:
+  application_id: WMZ445EG6N
+  index_name: prod_tripntouille
+
 collections:
   posts:
     output: true

@@ -27,6 +27,8 @@ group :jekyll_plugins do
   # SEO and co.
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
+  # Search provided by Algolia
+  gem "jekyll-algolia"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
