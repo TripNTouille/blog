@@ -75,6 +75,9 @@
                             <!-- <ul class='children'></ul> -->
                         </li>
 
+                        <li>
+                          <a onclick="toggle_display('searchpanel');">Recherche</a>
+                        </li>
                     </ul>
                 </div>
             </div><!-- #site-navigation -->
@@ -83,9 +86,23 @@
     </div><!-- #masthead -->
 
     <div class='wide contenitor'>
+
         <div class='site-contentbwrap container' id='contentbwrap'>
 
+            <div id="searchpanel" style="display: none;">
+                <div id="searchbox">
+                    <!-- SearchBox widget will appear here -->
+                </div>
+                <div id="hits">
+                    <!-- Hits widget will appear here -->
+                </div>
+                <div id="poweredby">
+                    <!-- Powered by widget will appear here -->
+                </div>
+            </div>
+
             <div class='content-areabwrap sixteen columns' id='primarybwrap'>
+
                 <div class='site-mainbwrap' id='mainbwrap' role='main'>
 
                     {{ content }}

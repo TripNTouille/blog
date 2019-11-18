@@ -175,3 +175,34 @@
   text-align: center;
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%); }
+
+#searchpanel {
+  margin: 0 auto; }
+
+.ais-SearchBox {}
+
+.ais-SearchBox-input {
+  width: 90% !important; }
+
+.ais-SearchBox button {
+  width: 3%;
+  padding: 5px; }
+
+.ais-Hits {
+  width: 90.8%;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-radius: 3px;
+  z-Index: 100;
+  position: absolute; }
+
+.hit_title {
+  font-weight: bold; }
+
+.hit_content {
+  padding: 0 2rem;
+  text-align: justify; }
+
+.ais-PoweredBy {
+  justify-content: flex-end; }
