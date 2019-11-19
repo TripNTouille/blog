@@ -8,7 +8,7 @@ install:
 
 script:
   - bundle exec jekyll build
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then bundle exec jekyll algolia; fi
+  - if [ "$TRAVIS_BRANCH" = "master" ]; then bundle exec jekyll algolia; else echo "Skipping algolia index on $TRAVIS_BRANCH"; fi
 
 deploy:
   - provider: pages
