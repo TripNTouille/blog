@@ -194,7 +194,7 @@
   border: 1px solid #ccc;
   border-top: none;
   border-radius: 3px;
-  z-Index: 100;
+  z-Index: 2000;
   position: absolute; }
 
 .hit_title {

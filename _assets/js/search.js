@@ -1,6 +1,22 @@
-function toggle_display(node_id) {
+// detects if the user has scrolled down
+function _user_has_scrolled_down() {
+  return $(window).scrollTop() > 0;
+}
+
+// toggles the display of node
+// returns true if the node is displayed after function call
+function _toggle_display(node_id, force_display) {
   const element = document.getElementById(node_id);
-  element.style.display = (element.style.display === 'none' ? '' : 'none');
+  const is_not_displayed = element.style.display === 'none';
+  const to_be_displayed = is_not_displayed || force_display;
+  element.style.display = (to_be_displayed ? '' : 'none');
+  return to_be_displayed;
+}
+
+// displays the node (if needed) and scrolls to it
+function toggle_display(node_id) {
+  if (_toggle_display(node_id, _user_has_scrolled_down()))
+    $('html,body').animate({scrollTop: 0}, 500);
 }
 
 (function start_search_engine() {
