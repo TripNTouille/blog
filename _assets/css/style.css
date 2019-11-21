@@ -513,7 +513,7 @@ Sticky nav
 	position: fixed !important;
     top: 0;
     left: 0;
-    z-index: 1000;
+    z-index: 3000;
     width: 100%;
     max-width: 100%;
 	background:#fff;
