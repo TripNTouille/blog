@@ -18,6 +18,7 @@ gem "jekyll", "~> 3.8.5"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "sprockets", "~> 3.7"
   gem "jekyll-feed", "~> 0.6"
   # Plugin pour l'affichage de l'image résumé de post
   gem "jekyll-auto-image"
@@ -29,6 +30,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   # Search provided by Algolia
   gem "jekyll-algolia"
+  # CMS like editing
+  gem "jekyll-admin"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
