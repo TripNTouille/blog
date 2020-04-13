@@ -17,9 +17,7 @@ Arrivée à Fukuoka
 
 {% include photo.html photo="IMG_20190307_221503.jpg" alt="Bol avec baguettes" %}
 
-Nous quittons Paris pour 20h de voyage et 8h de décalage horaire pour
-arriver à Fukuoka.  Nous logeons dans le Marine Hotel, central, propre et
-très bon marché, où vous aurez sûrement la surprise de découvrir des
+Après notre expérience d’une année de voyage dans les Balkans en 2018, nous reprenons la route ce 1er mars 2019. Mais cette fois-ci, c’est le monde à l’envers : nous décollons de Paris pour survoler la terre et nous retrouver à l’autre bout du globe en un claquement de doigts. Après 20h de vol, 10 000 km de voyage et 8h de décalage : nous atterrissons au Japon, dans la ville de Fukuoka située au Sud du pays. Nous logeons dans le Marine Hotel, central, propre et très bon marché, où vous aurez sûrement la surprise de découvrir des
 prospectus d'hôtesses japonaises, qui doivent être aussi présents que les
 bibles dans nos hôtels.
 {:.ten.columns.post-content}
