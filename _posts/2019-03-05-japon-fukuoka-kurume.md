@@ -62,10 +62,7 @@ Deux jours à Kurume
 
 {% include photo.html photo="IMG_20190307_202109.jpg" alt="Famille" %}
 
-Nous partons pour deux jours chez Takahiro, Atsuko et leurs deux filles
-dans la banlieue éloignée de Fukuoka, à Kurume.
-Pour cela, nous achetons deux billets de train en borne à la gare de
-Fukuoka. Bon à savoir : si vous décidez d'aller plus loin que la station
+Nous nous sentons tels des enfants découvrant un monde où tout est nouveau. Boudha gigantesque, végétation luxuriante, boutiques colorées, alphabet indéchiffrable, gestuelle... Nous perdons nos repères et décidons dès le lendemain d’aller vivre dans le logement Air bnb de Takahiro et Atsuko à Kurume, banlieue de Fukuoka, pour mieux comprendre ce nouvel univers. Bon à savoir : si vous décidez d'aller plus loin que la station
 pour laquelle vous avez acheté votre billet, il est possible - avant de
 passer les petites portes de sortie de la station - de payer le complément en
 borne!
@@ -76,9 +73,7 @@ borne!
 - Mais surtout l'application [hyperdia](https://play.google.com/store/apps/details?id=com.hyperdia.android.activity&hl=en_US)
 {% endrecommend %}
 
-Immersion parfaite pour une arrivée au Japon puisque nos hôtes nous
-invitent à diner un curry familial dans leur maisonette spariate oú nous
-déplions les futons sur les tatamis du salon.
+Un métro bondé nous avale et se lance à vive allure. Tel un serpent, il se faufile entre les buildings, suspendus à quelques dizaines de mètres du sol. La ville s’étale à perte de vue et les minutes s’égrainent. Une heure plus tard, nous poussons la porte de maisonnette de cette jeune famille. Ils occupent la chambre et nous ouvrons nos futons sur les tatamis du salon, qui est aussi le terrain de jeu de leurs deux petites filles. Dans cette cabane en pleine ville, ils nous invitent à partager un curry maison au dîner et leurs enfants nous enseignent quelques grues sauvages et lys en origami pour prolonger la soirée.
 {:.ten.columns.post-content}
 
 {% recommend %}
