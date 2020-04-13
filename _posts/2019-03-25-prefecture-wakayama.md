@@ -1,8 +1,8 @@
 ---
-title: "JAPON - Préfecture de Wakayama : sentier de Kumano Kodo et côte de Shirahama"
+title: 'JAPON - Préfecture de Wakayama : sentier de Kumano Kodo et côte de Shirahama'
 tags:
 - japon
-points :
+points:
 - - Shirahama
   - 33.677983
   - 135.366964
@@ -18,11 +18,7 @@ image: IMG_20190328_161553.jpg
 Randonnée sur le sentier de pèlerinage de Kumano Kodo
 {:.sixteen.columns.post-quote}
 
-Un ferry nous porte jusqu'au sud de l'île principale du Japon : Honshu. Sur
-le bateau, une pèlerine nous fait rêver en évoquant un sentier jumelé avec
-celui de Compostelle, qui relie 3 trois temples symboliques... 5 jours de
-marche, de nombreux sommets et des sentiers rocailleux sous les pins. Nous
-sommes conquis et partons y marcher quelques jours.
+Après ces quelques jours d’isolement en montagne, nous reprenons un petit train local pour atteindre la côte Est de l’île de Shikuko et reprenons un ferry jusqu'à Honshu, l'île principale du Japon. Sur le bateau, nous écoutons des pèlerins évoquer un sentier jumelé avec celui de Compostelle qui relie trois temples symboliques : Le Kumano Kodo. Cinq jours de marche, de nombreux sommets et des sentiers rocailleux sous les pins dans un climat plus doux, nous sommes conquis et partons y marcher quelques jours.
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
@@ -30,12 +26,8 @@ sommes conquis et partons y marcher quelques jours.
 {% include photo.html photo="IMG_20190328_161553.jpg" alt="Forêt de pins" %}
 {% include photo.html photo="IMG_20190327_130447.jpg" alt="Vue panoramique" %}
 
-Nous y ressentons le calme contemplatif tant décrit dans les romans dévorés
-sur le chemin : vent soufflant dans la forêt, brume montant dans la vallée,
-pluie fine de printemps et les premiers cerisiers en fleur ! Petit plaisir
-supplémentaire  : nous déplions notre tente pour la première fois dans ce
-nouveau voyage et en s'y glissant à la tombée de la nuit, nous y trouvons
-quelques grains de sable de la Cappadoce 🌾
+Lors de ce pèlerinage, nous ressentons le calme contemplatif tant décrit dans les romans de Soseki : vent soufflant dans la forêt, brume montant dans la vallée et pluie fine de printemps. Petit plaisir supplémentaire : nous déplions notre tente pour la première fois dans ce nouveau voyage et en s'y glissant à la tombée de la nuit, nous y trouvons quelques grains de sable de la Cappadoce, souvenir du voyage de l’année passée.
+Sur le Kumano Kodo, on raconte que si l’on relie les trois temples, on renaîtra dans le futur. Nous en découvrons deux ; laissons-nous la liberté de revivre dans un autre monde.
 {:.ten.columns.post-content}
 
 {% recommend %}
