@@ -18,7 +18,7 @@ image: IMG_20190328_161553.jpg
 Randonnée sur le sentier de pèlerinage de Kumano Kodo
 {:.sixteen.columns.post-quote}
 
-Après ces quelques jours d’isolement en montagne, nous reprenons un petit train local pour atteindre la côte Est de l’île de Shikuko et reprenons un ferry jusqu'à Honshu, l'île principale du Japon. Sur le bateau, nous écoutons des pèlerins évoquer un sentier jumelé avec celui de Compostelle qui relie trois temples symboliques : Le Kumano Kodo. Cinq jours de marche, de nombreux sommets et des sentiers rocailleux sous les pins dans un climat plus doux, nous sommes conquis et partons y marcher quelques jours.
+Après ces quelques jours d’isolement en montagne, nous prenons un ferry jusqu'à Honshu, l'île principale du Japon. Sur le bateau, nous écoutons des pèlerins évoquer un sentier jumelé avec celui de Compostelle qui relie trois temples symboliques : Le Kumano Kodo. Cinq jours de marche, de nombreux sommets et des sentiers rocailleux sous les pins dans un climat plus doux, nous sommes conquis et partons y marcher quelques jours.
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
@@ -80,15 +80,9 @@ qui nous y accueillera
 Rencontre avec Yoshi et Non-Chan dans leur Minshuku Boukai à Sirahama
 {:.sixteen.columns.post-quote}
 
-Changement de décors, nous quittons le calme des sentiers pour deux
-semaines dans la Minshuku du Boukai ! On vous dresse le tableau : Yoshi
-nous accueille. Il a quitté l'industrie de la musique à Tokyo pour
-reprendre l'hôtel familial et devenir pêcheur renommé à Shirahama.
-Non-Chan, sa femme, prestigieuse formatrice des Okami à Tokyo (femme
-représentant un lieu, accueillant les clients en kimono élégant) le rejoint
-pour gérer l'hôtel. Pour accompagner cette belle équipe, ajoutez une
-dizaine de salariés ne parlant que japonais + Yuji et Alexia, deux chefs en
-voyage, venant aider comme nous !
+Changement de décors, nous quittons le calme des sentiers pour deux semaines dans la Minshuku du Boukai ( auberge familiale avec futon, tatamis et cuisine traditionnelle ). On vous dresse le tableau : Yoshi, le propriétaire, nous accueille. Il a quitté l’industrie de la musique à Tokyo pour reprendre l’hôtel familial et devenir pêcheur renommé à Shirahama : il est l’un des rares à être capable de glisser une tige en métal dans le corps du poisson pour le paralyser sans le tuer, gardant ainsi l’animal frais.
+Non-Chan, sa femme, était prestigieuse formatrice des Okami à Tokyo ( femmes représentant un lieu, accueillant les clients en kimono élégant ). Elle l’a rejoint pour gérer l’hôtel.
+Pour accompagner ce couple, ajoutez une dizaine de salariés ne parlant que japonais et nous deux, l’équipe est maintenant au complet !
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -98,11 +92,7 @@ voyage, venant aider comme nous !
 {% include photo.html photo="IMG_20190331_231406.jpg" alt="Portrait de Non-chan" %}
 {% include photo.html photo="IMG_20190323_172101.jpg" alt="Yoshi+ table avec tous les plats" %}
 
-Notre rôle ? Plier les futons, aspirer les tatamis, replier les Yukatas et
-faire la plonge des milliers de ramequins d'une cuisine "Japanese style" !
-Cerise sur le gâteau, nos hôtes sont fêtards et généreux... Nous avons
-ainsi mangé des plats succulents, appris les secrets des sushi party 🍣,
-des gyozas et Tsukiyaki...
+Notre rôle ? Plier les futons, aspirer les tatamis, replier les Yukatas et faire la plonge des milliers de ramequins d’une cuisine « Japanese style » ! Cerise sur le gâteau, nos hôtes sont fêtards et généreux. Nous avons ainsi mangé des plats succulents, appris les secrets des sushi party, des gyozas et Sukiyaki que l’on vous partage dans les pages suivantes. Ils ont emmené Sylvain en mer cueillir des algues vertes pour parfumer les bouillons et nous avons testé le karaoké à la mode japonaise !! Peur de rien.
 {:.ten.columns.post-content}
 
 <!-- en commentaire
