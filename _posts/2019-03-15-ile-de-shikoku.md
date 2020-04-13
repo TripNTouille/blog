@@ -63,7 +63,7 @@ Tarif: environ 70€ / 2 personnes
 {% include photo.html photo="IMG_20190318_160014.jpg" alt="Canyon" %}
 {% include photo.html photo="IMG_20190314_204902.jpg" alt="Kimono" %}
 
-Au petit matin, la neige a disparu et nous partons à l’aube découvrir les environs. Nous tombons par hasard sur le pont Kazurabashi. Ce pont accroché par des lianes de kiwi et de glycine tressées était autrefois une voie de communication fondamentale pour relier les deux berges du torrent. Aujourd’hui, c’est une attraction touristique qui invite les curieux à se balancer à 14 mètres au-dessus de l’eau agitée, de quoi se donner le vertige. Il est à peine 9h du matin, l’air se radoucit et nous profitons de cette construction au calme avant l’arrivée des visiteurs. Quelques rayons du soleil levant percent les lumières froides du mois de mars, annonçant peut-être la fin de l’hiver. Nous y découvrons nos premiers champs de thé vert.
+Au petit matin, la neige a disparu et nous partons à l’aube découvrir les environs. Nous tombons par hasard sur le pont Kazurabashi. Ce pont accroché par des lianes de kiwi et de glycine tressées était autrefois une voie de communication fondamentale pour relier les deux berges du torrent. Aujourd’hui, c’est une attraction touristique qui invite les curieux à se balancer à 14 mètres au-dessus de l’eau agitée, de quoi se donner le vertige. Il est à peine 9h du matin, l’air se radoucit et nous profitons de cette construction au calme avant l’arrivée des visiteurs. Quelques rayons du soleil levant percent les lumières froides du mois de mars, annonçant peut-être la fin de l’hiver. 
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190315_095637.jpg" alt="wine Bridge" %}
