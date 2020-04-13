@@ -90,6 +90,9 @@ deux passages : les hommes passent le petit rideau noir, les femmes le
 rouge, pour se mettre à nus dans une salle pleine de casiers.
 {:.ten.columns.post-content}
 
+TODO: mettre le lien vers le post suivant où on parle de ce qu'est un Onsen
+{:.ten.columns.post-content}
+
 {% recommend %}
 [Onsen de Kurume, 750¥ l'entrée](https://maps.app.goo.gl/u3qKs)
 {% endrecommend %}
