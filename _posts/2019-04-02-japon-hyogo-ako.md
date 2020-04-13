@@ -9,7 +9,7 @@ points:
 image: IMG_20190402_133409.jpg
 ---
 
-Nous quittons nos amis fêtards et la plage blanche de Shirahama pour rejoindre une famille en montagne. 12 petits trains locaux nous y portent et nous décidons de faire une pause sur la route le temps d'une nuit.
+Nous quittons nos amis fêtards et la plage blanche de Shirahama pour faire escale le temps d’une nuit chez deux femmes créatrices qui louent une petite chambre dans leur maison de pêcheur accrochée sur la côte venteuse du village de Ako.
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
@@ -19,7 +19,7 @@ Nous quittons nos amis fêtards et la plage blanche de Shirahama pour rejoindre 
 
 {% include photo.html photo="IMG_20190402_133409.jpg" alt="vue du logement, au dessus de l'atelier" %}
 
-Heureux hasard, nous arrivons chez deux amies créatrices qui louent une petite chambre dans leur maison de pêcheur accrochée sur la côte venteuse du village de Ako. L'aînée tisse les traditionnels tapis japonais ; une année de travail pour tisser la surface d'un tatami, patience patience !
+La cuisine au RDC est dans l’atelier. Le jour, nos hôtes y travaillent et le soir, elles nous laissent la clé de leur cabane : confiance totale ! On se déchausse pour rejoindre notre chambre en traversant la pièce d’exposition à l’étage. De la fenêtre, on voit les bâteaux de pêche qui restent au port à cette saison où pas un touriste ne semble visiter le coin. L’aînée crée les tapis traditionnels japonais ; une année de travail pour tisser la surface d’un tatami, patience patience ! 
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -28,17 +28,17 @@ Heureux hasard, nous arrivons chez deux amies créatrices qui louent une petite 
 
 {% include photo.html photo="IMG_20190402_133049.jpg" alt="créatrice de tapis traditionnel au travail" %}
 
-Son amie quand à elle réalise des luminaires en papier de riz d'une finesses élégante dans un atelier paré de panneaux japonais filtrant la lumière du jardin. 
+Son amie quant à elle réalise des luminaires en papier de riz d’une grande finesse dans un atelier paré de panneaux japonais filtrant la lumière du jardin.
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190402_132846.jpg" alt="créatrice de lampe en fin papier de riz" %}
 
-Cette rencontre reste un peu mystérieuse - la langue étant ici un obstacle - mais nous avons la sensation que ces deux copines ont décidé de dynamiser leur village endormi à coup de Airbnb typique, d'exposition de pièces haut de gamme et de flyer guidant les curieux sur le bord de mer en été... Elles nous laissent le souvenir de deux femmes ambitieuses pleines d'imagination !
+N’ayant aucune langue en commun, elles nous partagent leurs savoir-faire à coup de gestes et de Google translate. Nous avons la sensation que ces deux copines ont décidé de dynamiser leur village endormi à coup de Air bnb typique, d’exposition de pièces haut de gamme et de petits dépliants décrivant les sentiers de bord de mer jusqu’aux vieux phares.
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190402_133156.jpg" alt="le métier à tisser et le travail en cours" %}
 
-En partant de chez elle, vous pourrez également visiter le quartier en longeant la côte et admirer la mer ou en grimpant la petite colline à travers les rues aux ambiances artistiques jusqu'au temple Iwatsuhime. Cette ville est aussi célèbre au Japon pour sa légende nationale des 47 samouraïs, symbole d'honneur et de courage.
+ On ne saurait que trop vous conseiller de passer par leur maison lumineuse pour découvrir leur univers. En partant de chez elle, vous pourrez également visiter le quartier en longeant la côte et admirer la mer ou en grimpant la petite colline à travers les rues aux ambiances artistiques jusqu'au temple Iwatsuhime. Cette ville est aussi célèbre au Japon pour sa légende nationale des 47 samouraïs, symbole d'honneur et de courage.
 {:.ten.columns.post-content}
 
 {% recommend %}
