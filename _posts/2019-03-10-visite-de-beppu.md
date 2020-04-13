@@ -9,28 +9,26 @@ points:
 image: IMG_20190310_165636.jpg
 ---
 
-Nous avançons en bus jusqu'à Beppu, ville réputée pour ses dizaines de
-sources thermales fumantes, accrochées aux montagnes. Certains l'appellent
-ville des enfers ou cocote minute.
+Un bus nous fait transpercer les montagnes dans d’interminables tunnels pour rejoindre Beppu. Beppu est une ville réputée pour ses dizaines de sources thermales fumantes, accrochées aux montagnes lui donnant des airs d’enfer avec ses cheminées. Pour nous, c’était plutôt le paradis des bains bouillants appelés Onsen !
 {:.ten.columns.post-content}
 
 {% recommend %}
 [Trouver les bus en ligne](https://japanbusonline.com/en/AllRouteList)
 {% endrecommend %}
 
-Pour nous, c'était plutôt un paradis de balades au soleil et de bains
-bouillants lorsque la pluie printanière s'abattit sur la ville.
-{:.ten.columns.post-content}
-
 <!--fin extrait-->
 
 {% include photo.html photo="IMG_20190310_165636.jpg" alt="Chemin dans Babou" %}
 
-Nous étions installés dans une auberge de jeunesse chaleureuse à deux pas
-des rues commerçantes couvertes et de la gare. Chambres japonaises
-(tatamis, futons, portes coulissantes), cuisine luxueuse à disposition et
-une entrée pour un Onsens du coin offerte pour chaque nuitée...
+Nous sommes installés dans une auberge de jeunesse en bord de mer, à deux pas des rues commerçantes couvertes et de la gare. Nous y déroulons les futons sur les tatamis de notre chambre et découvrons une cuisine luxueuse à disposition et une entrée pour un Onsens du coin offerte pour chaque nuitée...
 {:.ten.columns.post-content}
+
+Le Onsen est un bain japonais très fréquenté encore aujourd’hui. L’eau vient de sources volcaniques. On s’y retrouve après le travail pour quelques instants de détente, de soins et d’échange avec les gens du quartier. Pudiques et timides, nous imitons les gestes et écoutons les discussions sans comprendre.
+Femmes et hommes se séparent à l’entrée. On se déshabille, se savonne assis sur de petits tabourets face à un miroir, avant de se tremper dans des bains chauds à en faire rougir la peau. Tel un oeuf dur dans sa cocotte (en japonais « Onsen Tamago » veut littéralement dire « oeuf cuit dans l’eau du bain »), nous oublions le froid mordant de l’hiver. Impossible d’y rester plus de 5-10 minutes tant le coeur accélère dans cette vapeur chaude.
+Après ce moment de détente, nous rejoignons de petits cabinets pour nous sécher, nouer notre Yukata (kimono de bain) et se rejoindre dans la partie commune pour déguster un thé vert fumant.
+{:.ten.columns.post-content}
+
+TODO aquarelle du Onsen
 
 {% recommend %}
 [L'auberge Dantan à Beppu](https://www.booking.com/hotel/jp/guest-house-danran.fr.html)
@@ -81,4 +79,3 @@ présentation et l'élégance des emballages japonais.
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190310_193009.jpg" alt="Tasse avec paquet de champignons" %}
-
