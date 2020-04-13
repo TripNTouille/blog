@@ -50,13 +50,7 @@ conseils de la personne à l'accueil.
 
 {% include photo.html photo="IMG_20190305_195145.jpg" alt="Façade restaurant"  %}
 
-Et pour terminer notre journée, nos estomacs sont en quête d'un dîner
-typique... séduits par la façade d'un petit troquet illuminé, nous faisons
-coulisser la porte de bois, passons les tissus accrochés au niveau de notre
-tête, et sommes accueillis par un bonjour général de l'équipe. Installés
-côte à côte face à la cuisine - comme de nombreux restaurants ici - nous
-commandons au hasard des plats "kasu". Quelle découverte : c'est un
-restaurant spécialiste des abats, notamment des tripes ! Avis aux amateurs.
+Pour notre première soirée au bout du monde, nous trouvons une devanture illuminée dont quelques symboles semblent évoquer de quoi manger. Nous poussons timidement la porte coulissante et entrons, salués chaleureusement par toute l’équipe, dans des vapeurs aux odeurs de friture. Le menu est en Kanji, nous y piochons donc quelques plats au hasard. Surprise surprise : c’est une triperie où l’on cuisine des abats inconnus dans nos livres de recettes françaises ! Vive la tripaille et le fou rire.
 {:.ten.columns.post-content}
 
 {% recommend %}
