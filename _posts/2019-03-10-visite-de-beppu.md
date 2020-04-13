@@ -23,16 +23,18 @@ Un bus nous fait transpercer les montagnes dans d’interminables tunnels pour r
 Nous sommes installés dans une auberge de jeunesse en bord de mer, à deux pas des rues commerçantes couvertes et de la gare. Nous y déroulons les futons sur les tatamis de notre chambre et découvrons une cuisine luxueuse à disposition et une entrée pour un Onsens du coin offerte pour chaque nuitée...
 {:.ten.columns.post-content}
 
-Le Onsen est un bain japonais très fréquenté encore aujourd’hui. L’eau vient de sources volcaniques. On s’y retrouve après le travail pour quelques instants de détente, de soins et d’échange avec les gens du quartier. Pudiques et timides, nous imitons les gestes et écoutons les discussions sans comprendre.
-Femmes et hommes se séparent à l’entrée. On se déshabille, se savonne assis sur de petits tabourets face à un miroir, avant de se tremper dans des bains chauds à en faire rougir la peau. Tel un oeuf dur dans sa cocotte (en japonais « Onsen Tamago » veut littéralement dire « oeuf cuit dans l’eau du bain »), nous oublions le froid mordant de l’hiver. Impossible d’y rester plus de 5-10 minutes tant le coeur accélère dans cette vapeur chaude.
-Après ce moment de détente, nous rejoignons de petits cabinets pour nous sécher, nouer notre Yukata (kimono de bain) et se rejoindre dans la partie commune pour déguster un thé vert fumant.
-{:.ten.columns.post-content}
-
-TODO aquarelle du Onsen
-
 {% recommend %}
 [L'auberge Dantan à Beppu](https://www.booking.com/hotel/jp/guest-house-danran.fr.html)
 {% endrecommend %}
+
+Le Onsen est un bain japonais très fréquenté encore aujourd’hui. L’eau vient de sources volcaniques. On s’y retrouve après le travail pour quelques instants de détente, de soins et d’échange avec les gens du quartier. Pudiques et timides, nous imitons les gestes et écoutons les discussions sans comprendre.
+Femmes et hommes se séparent à l’entrée. On se déshabille, se savonne assis sur de petits tabourets face à un miroir, avant de se tremper dans des bains chauds à en faire rougir la peau. Tel un oeuf dur dans sa cocotte (en japonais « Onsen Tamago » veut littéralement dire « oeuf cuit dans l’eau du bain »), nous oublions le froid mordant de l’hiver. Impossible d’y rester plus de 5-10 minutes tant le coeur accélère dans cette vapeur chaude.
+Après ce moment de détente, nous rejoignons de petits cabinets pour nous sécher, nouer notre Yukata (kimono de bain) et se rejoindre dans la partie commune pour déguster un thé vert fumant. 
+{:.ten.columns.post-content}
+
+TODO aquarelle du Onsen
+{:.ten.columns.post-content}
+
 
 Nous en avons essayé trois différents :
 {:.ten.columns.post-content}
