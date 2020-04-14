@@ -30,10 +30,13 @@ points:
 image: IMG_20190511_144410.jpg
 ---
 
-Kyoto, ancienne capitale du Japon, est une ville chic, douce et aérée. Entourée de montagnes, elle est dominée par de nombreux temples, pagodes et Tori rouge flamboyant. Nous connaissions bien évidemment cette image des toris, nous resterons cependant impressionnés par la quantité de porte menant à travers les différents temples et cimetières, une balade apportant son lot de méditation... si l'on en oublie les cent premiers mètres !
+Kyoto, ancienne capitale du Japon, est une ville chic, douce et aérée. Entourée de montagnes, elle est dominée par de nombreux temples, pagodes et Torii rouges flamboyants. Nous y avons flâné une semaine, nous perdant dans les méandres des temples, dans les rues couvertes croulant de boutiques et observant avec curiosité les touristes chinoises fagotées dans des kimonos flashy de location pour quelques clichés.
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
+
+En grimpant les nombreuses marches sous ces portes laquées, nous découvrons des cimetières sombres et humides, enfumés d’encens et gardés par des félins de pierre effrayants. Contraste mystique avec l’ambiance lumineuse et animée de la ville.
+{:.ten.columns.post-content}
 
 {% recommend %}
 Le temple et la colline la plus connu de Kyoto, [Fushimi Inari Taisha](http://ge0.me/k3gLK29GSO/Fushimi_Inari-taisha)
@@ -41,7 +44,7 @@ Le temple et la colline la plus connu de Kyoto, [Fushimi Inari Taisha](http://ge
 
 {% include photo.html photo="IMG_20190511_144410.jpg" alt="La plus connue des images de Kyoto" %}
 
-Nous y avons flâné une semaine, nous perdant dans les méandres des temples, dans les rues couvertes croulant de boutiques et observant avec curiosité les touristes chinoises fagotées dans des kimonos flashy de locations pour quelques clichés.
+TODO : mettre les Torri, les chinoises et une autre photo du loup en pierre un peu glauque sur une ligne.
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -52,15 +55,15 @@ Nous y avons flâné une semaine, nous perdant dans les méandres des temples, d
 
 {% include photo.html photo="IMG_20190512_101345.jpg" alt="En kimono... les chinoises" %}
 
-A Kyoto, nous avons retrouvé Michie, son époux Motoki et sa fille Moe pour quelques soirées animées. Il y a 3 semaines nous rencontrions Michie dans le village de Iwakuni : elle louait la maison de sa maman via Airbnb et nous avait offert une soirée de discussions passionnantes. Suite à cette rencontre, elle nous a surpris en nous invitant franchement à rester chez elle lors de notre séjour à Kyoto. Vous nous connaissez, nous ne laisserions pas passer une si belle invitation.
+À Kyoto, nous avons retrouvé Michie avec son époux Motoki et sa fille Moe. Michie et Moe travaillent dans le secteur de la santé et sont toutes deux fortes et déterminées. Quant à Motoki, il est professeur d’économie, spécialisé dans les échanges Japon-Afrique et est ferru de politique Européenne. Ils nous confient les clés de leur maison située dans un quartier résidentiel en banlieue de la ville. Aucun stress, aucune distance ; leur confiance nous touche et nous entrons dans l’intimité de leur foyer en leur cuisinant de petits plats français et partageant des soirées animées.
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190508_123604.jpg" alt="Michie et sa famille à Kyoto" %}
 
-Nous voilà donc avec eux, à cuisiner français contre le gîte, à débattre de la politique de nos pays et à découvrir la vie d'une famille citadine passionnée par la France. Alors que Michie et sa fille travaillent dans les soins et sont toutes deux fortes et déterminées, Motoki est professeur d'économie spécialisé dans les échanges Japon-Afrique ! Incroyable sujet n'est-ce pas !?
+Cette famille citadine est passionnée par la France ; culture, littérature, gastronomie, tout y passe, même le décryptage des gilets jaunes qu’ils souhaitent mieux comprendre, pour aller au-delà de leurs journaux nationaux ne relatant qu’un prisme d’interprétation. Dans un anglais fluide, ils sont les premiers à nous partager leur ressenti de la culture japonaise avec franchise : pour eux, la pression sociale poussant à faire partie d’un groupe (famille, quartier, club de sport, communauté religieuse) n’est pas toujours facile à porter.
 {:.ten.columns.post-content}
 
-Nos hôtes nous ont impressionnés par leur connaissance de la France : aussi bien sur sa culture, sa littérature que sa situation politique qu'ils nous demandaient de décoder pour compléter leurs médias sélectifs. Les gilets jaunes furent évidemment au programme de décryptage...
+TODO : ajouter la photo où on est tous assis au sol et la disposer à côté de celle où on est à table
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190310_165636.jpg" alt="Forêt de bamboo" %}
@@ -74,6 +77,9 @@ Le château Nijo est le lieu prisé par les Japonais, mais vous pourrez flâner 
 - Pour [acheter du papier et découvrir des trésors](http://ge0.me/83gK163R0I/Boutique_papiers)
 - Si vous cherchez à [acheter du tissu](http://ge0.me/03gLgxTzZ1/Nomura_Tailor)
 {% endrecommend %}
+
+TODO : mettre ces deux photos de la boutique de papiers sur une même ligne
+{:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190508_142633.jpg" alt="Une papetrie pleine de surprises" %}
 {% include photo.html photo="IMG_20190508_142651.jpg" alt="Eventails d'origami" %}
