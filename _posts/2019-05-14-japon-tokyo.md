@@ -1,5 +1,5 @@
 ---
-title: JAPON - Tokyo, entre délire et vertige
+title: JAPON - Tokyo, ville délirante qui donne le vertige
 tags:
 - japon
 points:
@@ -15,13 +15,13 @@ points:
 image: IMG_20190515_162013.jpg
 ---
 
-Tokyo nous a hâpés pour nos derniers jours japonais. À Tokyo, on marche tête en l'air pour apercevoir la cime des buildings caressant les nuages.
+Kyoto, Osaka, et pourquoi pas Tokyo tant qu’on y est ?! Tokyo nous a avalés pour nos derniers jours japonais. À Tokyo, on marche tête en l’air pour apercevoir la cime des buildings caressant les nuages.
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
 {% include photo.html photo="IMG_20190514_131634.jpg" alt="Les buildings surplombent les écolières" %}
 
-Tokyo rassemble les temples et parcs de Kyoto, le bruit et les couleurs d'Osaka, l'élégance japonaise, les boutiques cosmopolites, les demoiselles fans de Cosplay, le melting-pot de touristes, les échoppes entassées sous les rails, les ponts et routes suspendus glissant entre les immeubles et sur les rivières tels des serpents aériens, les métros bondés de travailleurs en costard tapant nerveusement sur leur smartphone ou effondrés de fatigue sur un siège...
+Tokyo rassemble les temples et parcs calmes de Kyoto, le bruit et les couleurs d’Osaka, l’élégance japonaise, les boutiques cosmopolites, les demoiselles fans de Cosplay, le melting-pot de touristes, les ponts et routes suspendus glissant entre les immeubles et sur les rivières tels des serpents aériens.
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -31,6 +31,9 @@ Vous aurez l'occasion
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190515_162013.jpg" alt="Un rythme effréné" %}
+
+TODO: ajouter avec cette photo du croisement celle des filles déguisées et celle du métro serpent
+{:.ten.columns.post-content}
 
 Tokyo nous semble massive, imposant un rythme effréné à ses habitants, mais aussi l'excitation d'une capitale grouillante et vivante ! Pour nous, ce sera l'occasion de visiter le marché au poisson (pâle copie de celui de Kii-Katsuura) et l'île plus calme du Sud.
 {:.ten.columns.post-content}
@@ -44,6 +47,7 @@ Tokyo nous semble massive, imposant un rythme effréné à ses habitants, mais a
 {% include photo.html photo="IMG_20190516_173621.jpg" alt="Vue du Sud, un air de New-York" %}
 
 Et si vous voulez un air de Japon plus traditionnel, vous pourrez vous balader dans les parcs et les différents temples de la ville. Certains sont même épargnés par la masse touristique, on y retrouve donc le calme qui nous a tant marqué à travers nos précédentes expériences dans le pays.
+À la nuit tombée, des vagues de japonais en costard engloutissent la ville. La journée touche à sa fin et les bureaucrates tapent encore nerveusement sur leur smartphone en marchant. Sous les rails des stations, les ruelles grouillent de monde entassé dans les échoppes pour dévorer une soupe avant de rentrer. Les métros bondés éparpillent progressivement les travailleurs effondrés de fatigue dans la mégalopole. Demain est un autre jour, il est temps de rentrer.
 {:.ten.columns.post-content}
 
 {% recommend %}

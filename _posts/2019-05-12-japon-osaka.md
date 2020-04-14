@@ -15,6 +15,9 @@ Quelques dizaines de kilomètres après Kyoto, nous visons Osaka. À peine desce
 <!--fin extrait-->
 
 {% include photo.html photo="IMG_20190512_163409.jpg" alt="La nourriture est une préocupation majeure à Osaka" %}
+ 
+TODO: ajouter deux autres photos de rues surchargées et les mettre sur une ligen avec le poisson.
+{:.ten.columns.post-content}
 
 Il y a de quoi manger absolument partout : poulpes, moules géantes, takoyaki, tapis de sushis ... ici, on s’explose la panse pour trois francs six sous !
 {:.ten.columns.post-content}
