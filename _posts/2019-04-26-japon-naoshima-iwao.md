@@ -12,7 +12,7 @@ points:
 image: IMG_20190505_172604.jpg
 ---
 
-Nous arrivons par hasard sur une minuscule île des plus connues : fameuse pour ses musées d'architecture contemporaine, elle accueille notamment Tadao Ando, l'un des architectes japonais de renom.
+Nous rejoignons Iwao pour deux semaines sur une minuscule île, fameuse pour ses musées d’architecture contemporaine, accueillant notamment Tadao Ando, l’un des architectes japonais de renom. 
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
@@ -23,7 +23,10 @@ Le site de [Benesse](http://benesse-artsite.jp/en/) pour plus d'informations
 
 {% include photo.html photo="IMG_20190426_132256.jpg" alt="île d'art et citrouille jaune" %}
 
-Chaque matin des milliers de touristes, européens, chinois et japonais, débarquent sur l'île pour consommer frénétiquement les lieux avant d'abandonner les villages à leur calme du soir, une fois le dernier ferry reparti.
+TODO : mettre 3 photos d'art : la citrouille, la maison du cahos qu'on avai visité, la mer ou une colline
+{:.ten.columns.post-content}
+
+Chaque matin, des milliers de touristes, européens, chinois et japonais débarquent sur l’île pour consommer frénétiquement les lieux, avant d’abandonner les villages à leur calme du soir, une fois le dernier ferry reparti.
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -31,7 +34,7 @@ Chaque matin des milliers de touristes, européens, chinois et japonais, débarq
 - [Art house project](http://benesse-artsite.jp/en/art/arthouse.html)
 {% endrecommend %}
 
-De ce tourbillon, nous ne verrons que les gourmands poussant la porte du café de Iwao.
+De ce tourbillon, nous ne verrons que les gourmands poussant la porte du café d’Iwao . 
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190505_195350.jpg" alt="Iwao tout sourire aux cuisines" %}
@@ -41,7 +44,7 @@ Rencontre avec Iwao dans sa caverne d'Ali Baba
 
 {% include photo.html photo="IMG_20190505_195408.jpg" alt="terrasse du café" %}
 
-Dans ce jardin potager occupé par les étagères de vaisselle d'occasion, les kimonos multicolores, les masques de collection et quelques tables, on y perd la notion du temps.
+Dans son jardin potager, occupé par des étagères de vaisselle d’occasion, des kimonos multicolores, des masques de collection et quelques tables, on y perd la notion du temps. 
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -50,12 +53,15 @@ Dans ce jardin potager occupé par les étagères de vaisselle d'occasion, les k
 
 {% include photo.html photo="IMG_20190505_172604.jpg" alt="interieur du café, la caverne d'Ali Baba" %}
 
-Pendant que Sylvain s'improvise serveur interculturel, Julie infiltre les cuisine et seconde Iwao pour préparer les yakitori, donburi, omelettes, zenzaï et kakigori !
+Pendant que Sylvain s’improvise serveur interculturel, Julie infiltre les cuisines et seconde Iwao pour préparer les yakitori, donburi, omelettes, zenzaï et kakigori !
+{:.ten.columns.post-content}
+
+TODO : mettre es photos du marché au puce et du jardin sur une ligne de 3 (il y a beaucoup de photo dans ce blog...)
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190504_123527.jpg" alt="kokeshi, poupées offertes avant les naissances" %}
 
-Ce bonhomme espiègle nous surprend par sa douceur et son calme dans les coups de feu du service. Du haut de ses 78 ans, il nous embarque dans une vie chargée de voyages et d'objets de famille glanés au fil des ans qui disparaissent progressivement pour combler les gens de passage.
+Ce bonhomme espiègle nous surprend par sa douceur et son calme dans les coups de feu du service. Du haut de ses 78 ans, il nous embarque dans une vie chargée de voyages et d’objets de famille, glanés au fil des ans qui disparaissent progressivement pour combler les gens de passage fouillant dans de vieilles males.
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190504_123442.jpg" alt="céramiques traditionnelles japonaises" %}
