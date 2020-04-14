@@ -1,5 +1,5 @@
 ---
-title: JAPON - Hiroshima et Iwakuni, le calme après la tempête
+title: JAPON - Hiroshima et Iwakuni, villes vivantes et pacifiques
 tags:
 - japon
 points:
@@ -27,31 +27,28 @@ points:
 image: IMG_20190417_140032.jpg
 ---
 
-A la visite de Hiroshima, ville vivante et pacifiste, et de Iwakuni et la magie de son pont.
+Visite de Hiroshima, ville vivante et pacifique et de Iwakuni, bourg où l'ambiance est suspendue autour de son pont aux cinq arches.
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
-Hiroshima, symbole d'histore... passée et future
+Hiroshima, symbole d'histoire... passée et future
 {:.sixteen.columns.post-quote}
 
 {% include photo.html photo="IMG_20190417_144414.jpg" alt="chateau de l'ère des samouraïs" %}
 
-Hiroshima, ville Japonaise que nous avions bien en tête depuis nos livres d'histoire sur les bancs de l'école. 
-{:.ten.columns.post-content}
-
-Hiroshima, ville disparue de la carte le 6 août 1945 à 8h15 suite à l'explosion d'une bombe atomique américaine 600 m au-dessus de son centre, en plein ciel.
+Ville japonaise que nous avions bien en tête depuis nos livres d’histoire sur les bancs de l’école. Ville disparue de la carte le 6 août 1945 à 8h15, suite à l’explosion d’une bombe atomique américaine à 600 m au-dessus de son centre, en plein ciel. 
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190423_224811.jpg" alt="le dome, vestige de l'ancienne Hiroshima" %}
 
-À cette heure matinale, Hiroshima est irradiée, explosée, brûlée puis soufflée par cette bombe. Des témoignages pudiques du musée, nous ressentons le désarroi des habitants : impossible de se protéger puisque cette arme en 4 temps vous impacte, au présent comme au futur.
+À cette heure matinale, Hiroshima est irradiée, explosée, brûlée puis soufflée par cette bombe. Dans les témoignages au musée, nous ressentons le désarroi des habitants : impossible de se protéger puisque cette arme en 4 temps vous impacte, au présent comme au futur.
 {:.ten.columns.post-content}
 
 {% recommend %}
 [Dôme de Genbaku](http://ge0.me/421StihRXe/Dôme_de_Genbaku), parmi les derniers vestiges de la bombe
 {% endrecommend %}
 
-Alors nous touristes, on s'interroge : sur l'horreur humaine passée, sur les prouesses scientifiques manipulées et sur les intérêts qui dépassent la raison humaine... écho au présent évidemment ! Quand va-t-on arrêter de penser patrie, puissance militaire ou force financière ?
+Alors nous touristes, on s’interroge : sur l’horreur humaine passée, sur les prouesses scientifiques manipulées et sur les intérêts qui dépassent la raison humaine... écho au présent évidemment ! Quand va-t-on arrêter de penser patrie, puissance militaire ou force financière ?
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -60,7 +57,7 @@ Alors nous touristes, on s'interroge : sur l'horreur humaine passée, sur les pr
 
 {% include photo.html photo="IMG_20190417_140032.jpg" alt="L'origami, message de paix pour le futur" %}
 
-Aujourd'hui, Hiroshima appelle à la paix : boulevards, cloches, musée, ils rappellent discrètement l'histoire aux passants puis nous plongent dans une ambiance vivante et pacifiste. 74 ans après cette matinée sombre, nous découvrons une ville verte, paisible, étendue, sereine, soufflant l'espoir d'un monde où les armes nucléaires n'existent plus et où l'on vit, ensemble !
+Aujourd’hui, Hiroshima appelle à la paix : boulevards, cloches, musée, ils rappellent discrètement l’histoire aux passants puis nous plongent dans une ambiance vivante et pacifique. 74 ans après cette matinée sombre, nous découvrons une ville verte, paisible, étendue, sereine, soufflant l’espoir.
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -72,10 +69,10 @@ Où loger à Hiroshima : [Cocostay Felice, petit appartement cosy](https://www.b
 Iwakuni, un pont entre deux mondes
 {:.ten.columns.post-quote}
 
-Après la pesanteur de Hiroshima nous arrivons dans un village, coincé entre rivières et montage.
+Après la pesanteur de Hiroshima nous arrivons dans un village, coincé entre rivières et montagnes. 
 {:.ten.columns.post-content}
 
-Michie nous y accueille dans la maison de sa maman pour quelques jours, face au pont de bois célèbre pour ses cinq arches. Dans ce paysage, nous flânons, dessinons à l'ombre des cerisiers ayant troqué leurs fleurs pour des feuilles vert vif et découvrons ce pont étiré sur le fleuve sous toutes ses facettes, changeant d'allure avec la lumière du soir. 
+Michie nous y loue une chambre dans sa maison de famille et nous passons la soirée à refaire le monde avec elle. Le lendemain matin, elle nous invite spontanément à séjourner chez elle et sa famille à Kyoto le mois suivant, ce que nous ferons évidemment.  Iwakuni est célèbre pour son pont de bois à cinq arches. Dans ce paysage, nous flânons, dessinons à l’ombre des cerisiers ayant troqué leurs fleurs pour des feuilles vert vif et découvrons ces ponts étirés sur le fleuve sous toutes leurs facettes, changeant d’allure avec la lumière du soir.
 {:.ten.columns.post-content}
 
 {% recommend %}

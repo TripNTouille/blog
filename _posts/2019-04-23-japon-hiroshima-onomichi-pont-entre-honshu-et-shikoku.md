@@ -15,8 +15,13 @@ points:
 image: IMG_20190423_143138.jpg
 ---
 
-Après notre passage à Iwakuni et curieux de ces bâtisseurs fous capables de suspendre des constructions de plusieurs km au dessus du vide, nous décidons de nous rendre à Onomichi où les îles menant à Shikoku ont été reliées par une succession de ponts plus longs les uns que les autres.
+L’ingénierie japonaise nous fascine, ces bâtisseurs fous sont capables de suspendre des constructions de plusieurs kilomètres au-dessus du vide. Après notre séjour à Iwakuni, nous décidons d'aller à Onomichi, pour observer ces oeuvres futuristes. Sept ponts gigantesques relient la ville d’Onomichi à Shikoku via un archipel d’iles dans la mer intérieure du Japon.
+ 
 <!--fin extrait-->
+{:.ten.columns.post-content}
+
+
+Pour cette route, nous troquons nos chaussures de marche contre des vélos, mode de transport qui donne des ailes après ces semaines à pieds. De quoi se donner le vertige !
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190423_143818.jpg" alt="hauts et longs, les ponts relient les îles jusque Shikoku" %}
