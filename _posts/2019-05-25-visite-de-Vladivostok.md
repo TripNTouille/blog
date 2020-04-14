@@ -12,6 +12,10 @@ Nous quittons Tokyo ensoleillé sous 30 degrés pour une ambiance de bout du mon
 {% include photo.html photo="R-sylvain-vladivostok.jpg" alt="Sylvain dans la brûme" %}
 {% include photo.html photo="R-vladivostok-roue.jpg" alt="Grande roue dans la brûme" %}
 
+
+TODO : mettre ces 3 photos en une ligne
+{:.ten.columns.post-content}
+
 Pas de touriste à l’horizon, juste quelques Russes, qui se hâtent, visages crispés, têtes rentrées dans les épaules, mains dans les poches d’épaisses parkas. Changement de décors : bruit des bolides klaxonnant sur les routes fracassées, odeur des pots d’échappement dans la poussière, trottoirs inexistants, que l’on se sent bien dans ce chaos. On en oublie presque que nous sommes des touristes puisqu’on nous aborde même en russe !
 {:.ten.columns.post-content}
 
@@ -21,19 +25,29 @@ Vladivostok se proclame le San Francisco russe avec son pont suspendu, ses colli
 TODO : ajouter lien auberge de jeunesse
 {:.ten.columns.post-content}
 
-{% include photo.html photo="R-vladivostock-chocgustatif.jpg" alt="Au restaurant" %}
-
+Choc gustatif à notre arrivée en Russie
+{:.sixteen.columns.post-quote}
 
 10 semaines au Japon, 210 repas basés sur le riz, le vinaigre de riz, la sauce soja, le sucre et le dashi. Pas une fois en 70 jours nous n’avons été lassés de la cuisine japonaise.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="R-vladivostock-chocgustatif.jpg" alt="Au restaurant" %}
+
 
 Poussant la porte d’un restaurant, nous fondons sur les canapés moelleux au son d’une musique traditionnelle. Les petits plats se succèdent sur notre table : crème de betterave au sel rose, purée de potiron au curry, écrasé de pois à la crème et au piment, éclats de noix au fromage, pizzas russes, aneth... Ces mets colorés explosent en bouche et sortent nos papilles de leur torpeur japonaise ! Nous ne contrôlons plus nos émotions, nos paupières se ferment de plaisir. Lorsque nous croquons l’aubergine farcie à la viande, sautée à l’ail, saupoudrée de persil et de coriandre, nous frissonnons ; c’est le plaisir absolu.
 {:.ten.columns.post-content}
 
 TODO ajouter lien restaurant géorgien
+{:.ten.columns.post-content}
+
+Le lendemain, nous découvrons un restaurant en sous sol proposant une multitude de Pelminis. Ambiance décontractée et décoration colorée accompagnent ces petites pâtes farcies. 
+{:.ten.columns.post-content}
+
 TODO : ajouter lien restaurant pelpini
 {:.ten.columns.post-content}
 
+TODO : ajouter photo restaurant
+{:.ten.columns.post-content}
 
 Il est temps pour nous de monter dans ce mythique transsibérien pour découvrir les paysages de cette immense Russie.
 {:.ten.columns.post-content}
