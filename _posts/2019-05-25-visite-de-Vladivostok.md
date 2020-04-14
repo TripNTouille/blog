@@ -1,11 +1,16 @@
 ---
 title: RUSSIE - Vladivostok, sa mer, sa brume, ses Russes
+image: R-vladivostok-roue.jpg
 ---
 
 Nous quittons Tokyo ensoleillé sous 30 degrés pour une ambiance de bout du monde à Vladivostok. Un froid humide nous accueille avec une brume cachant la cime des buildings. 
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
+
+{% include photo.html photo="R-vladivostok-roue.jpg" alt="Grande roue dans la brûme" %}
+{% include photo.html photo="R-sylvain-vladivostok.jpg" alt="Sylvain dans la brûme" %}
+{% include photo.html photo="R-vladivostok-roue.jpg" alt="Grande roue dans la brûme" %}
 
 Pas de touriste à l’horizon, juste quelques Russes, qui se hâtent, visages crispés, têtes rentrées dans les épaules, mains dans les poches d’épaisses parkas. Changement de décors : bruit des bolides klaxonnant sur les routes fracassées, odeur des pots d’échappement dans la poussière, trottoirs inexistants, que l’on se sent bien dans ce chaos. On en oublie presque que nous sommes des touristes puisqu’on nous aborde même en russe !
 {:.ten.columns.post-content}
