@@ -53,6 +53,18 @@ Notre lac Léman est 260 fois plus petit et l’on raconte même que s’il éta
 C’est avec tous ces chiffres disproportionnés en tête que nous grimpons dans un bus déglingué pour rejoindre l’île d’Olkhon. Six heures de course effreinée nous y mènent. Le chauffeur avance, musique à fond, sur les routes accidentées du bord de lac avec pour seul instant de répis, le chargement du bus sur un ferry pour traverser les deux kilomètres d’eau nous séparant des pistes sableuses de l’île.
 {:.ten.columns.post-content}
 
+Nous nous installons dans une auberge surprenante. Une multutides de cabanes sont imbriquées dans un dédal de passages terreux. Nous y louons une chambre spartiate avec deux petits lits en bois. Une verrière parée de quelques canapés défoncés nous sépare de la cantine où nous dégustons quelques plats simples russes et faisons la connaissance des rares touristes présents à cette époque de l'année. Et une fois la nuit tombée, Le Café Paris reste l'unique point lumineux à la ronde.
+{:.ten.columns.post-content}
+
+{% include photo.html photo="R-auberge-lac.jpg" alt="Auberge du lac" %}
+
+TODO : ajouter le lien de l'auberge
+{:.ten.columns.post-content}
+
 Olkhon nous offre des espaces immenses, seuls au monde. Dunes de sable désertiques, forêts de pins aux odeurs résineuses, cimetières de bateaux peints, steppe brûlée broutée par des vaches, chevaux et moutons par centaines, le lac est le poumon de cette île aride. Du haut des falaises, nous le découvrons tel un miroir, reflètant nuages et blocs de glace, souvenir de l’hiver figeant la nature.
 Nous y ressentons une immensité, une force et une rudesse vivifiante qui donne matière à rêver.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="R-stelles-lac.jpg" alt="Totem chamanique" %}
+{% include photo.html photo="R-lac-baikal.jpg" alt="Vue sur le lac" %}
+{% include photo.html photo="R-lacbaikal-rocher.jpg" alt="Rochers sur le lac" %}
