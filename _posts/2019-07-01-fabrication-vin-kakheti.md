@@ -32,10 +32,13 @@ Piotr nous présente le Maître du Chacha - eau de vie traditionnelle à 60°. A
 
 {% include photo.html photo="G-chacha-house.jpg" alt="Cabane du maître du Chacha" %}
 {% include photo.html photo="G-chachamaster.jpg" alt="Le maître du Chacha dans sa cabane" %}
-{% include photo.html photo="G-G-tchachamaster.jpg" alt="Le maître du Chacha en plein travail" %}
+{% include photo.html photo="G-tchachamaster.jpg" alt="Le maître du Chacha en plein travail" %}
 
 Le Tamada est le chef d’orchestre du « Supra » (mot qui veut dire repas, table et toast). Il est désigné au début du dîner et a une place d’honneur à table. C’est lui qui donne le thème des sujets et le rythme où l’on boit. Son « Merry keeper » (assistant serveur) remplit les verres avant chaque Toast. Les sujets sont codifiés lors de repas officiels. On trinque pour la Paix, Dieu, les hôtes, les invités, les morts, les vivants, l’avenir… En petit comité les Toasts peuvent être plus personnels. Mais attention, contrairement à nos habitudes françaises, impossible de déguster son verre à son rythme après avoir trinqué. Ici, c’est « Bollomde » (cul sec). Si le Tamada vous désigne « Alaverdi » (membre d’honneur), vous attendrez qu’il porte son Toast, qu’il vide son verre, puis lui répondrez et boirez, avant de laisser les autres trinquer. Pour nous, cette tradition ressemble fort à un jeu à boire. Pour y jouer, il vous faudra quelques litres de Chacha ou de vin et des convives en nombre illimité. À la vôtre !
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-verrevin.jpg" alt="Verre de vin" %}
+{% include photo.html photo="G-tchinchin.jpg" alt="Nukri et Piotr trinquent" %}
 
 
 Les abeilles bossent et les hommes trinquent
@@ -44,6 +47,11 @@ Les abeilles bossent et les hommes trinquent
 
 L’été arrivé, il est temps de découvrir le travail abattu par ces demoiselles abeilles : quelques lacets serrés nous font arriver dans le début du petit Caucase où nous découvrons le lieu de villégiature de ces travailleuses. Cascades, montagnes et prairies pleines de graminées, mûriers, tilleuls et orchidées sauvages accueillent la ville des abeilles. Des dizaines de remorques colorées y sont parquées, avec des centaines de ruches bien rangées d’où des millions d’abeilles s’envolent chaque seconde pour concocter ce trésor doré tant convoité. Il y a sans doute plus d’habitants dans cette vallée qu’à Tokyo.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-Sosomiel.jpg" alt="L'apiculteur découpe un cadre plein de miel" %}
+{% include photo.html photo="G-sylvainmiel.jpg" alt="Sylvain déguste le miel fraîchement récolté" %}
+
+
 
 Nous y rencontrons deux joyeux retraités qui nous enseignent les traditions géorgiennes pour récolter le miel. C’est avant tout une fête où l’apiculteur se transforme en Tamada et lève son verre pour remercier mère nature. On trinque à coup de vin blanc, déguste le fameux pain cuit dans les fours ronds en terre et goûte ce miel lourd et sucré. Une fois tous les sujets abordés et une dizaine de Toasts éclusés, la matinée touche à sa fin et les têtes tournent. On s’installe donc pour un repos bien mérité. Qu’en est-il de la récolte du miel ? On verra demain si la météo le permet… Peut-être que ce sont cette joie de vivre et cette opulence qui ont donné les formes arrondies et dodues aux lettres de l’alphabet géorgien ?
 {:.ten.columns.post-content}
