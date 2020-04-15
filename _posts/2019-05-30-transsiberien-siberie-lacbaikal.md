@@ -7,6 +7,11 @@ C’est un rêve qui se réalise : monter dans le transsibérien pour parcourir 
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
+{% include photo.html photo="R-julie-dans-train.jpg" alt="Julie dans le train" %}
+{% include photo.html photo="R-interieur-train.jpg" alt="allée interieure du train" %}
+{% include photo.html photo="R-danstrain.jpg" alt="interieur du train" %}
+
+
 Voyage en transsibérien entre Vladivostok et Irkutsk
 {:.sixteen.columns.post-quote}
 
