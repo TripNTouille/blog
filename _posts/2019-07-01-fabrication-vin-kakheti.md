@@ -1,5 +1,6 @@
 ---
 title: GEORGIE - L'art du vin en Kakheti
+image: G-verrevin.jpg
 ---
 
 Nous quittons la Russie pour son pays voisin : la Géorgie. Piotr est vigneron et nous accueille dans sa maison bleue lovée dans les collines géorgiennes. Après toutes ces épices et recettes, vos deux Trip’n Touille découvrent enfin le vin et le plaisir de la boisson !
