@@ -1,5 +1,6 @@
 ---
 title: GEORGIE - Road trip dans le désert de Vashlovani et fabrication de fromage
+image: G-fromage.jpg
 ---
 
 La Géorgie offre onze climats différents : des plaines tempérées aux montagnes glaciales en passant par les collines tropicales, notre corps encaisse ces changements éprouvants. Ce matin, Piotr nous embarque en Road Trip dans son 4x4 pour deux journées de route à travers le parc national de Vashlovani. 
