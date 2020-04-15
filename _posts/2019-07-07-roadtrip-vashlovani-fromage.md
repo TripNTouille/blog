@@ -1,5 +1,5 @@
 ---
-title: GEORGIE-Road trip dans le désert de Vashlovani et fabrication de fromage
+title: GEORGIE - Road trip dans le désert de Vashlovani et fabrication de fromage
 ---
 
 La Géorgie offre onze climats différents : des plaines tempérées aux montagnes glaciales en passant par les collines tropicales, notre corps encaisse ces changements éprouvants. Ce matin, Piotr nous embarque en Road Trip dans son 4x4 pour deux journées de route à travers le parc national de Vashlovani. 
@@ -16,6 +16,8 @@ Ici, nous suffoquons avec les températures brûlantes du désert : il y fait pl
 {% include photo.html photo="G-desert-vashlovani.jpeg" alt="Les dunes cramées par l chaleur du désert de Vashlovani" %}
 {% include photo.html photo="G-vashlomontagnes.jpg" alt="Montagnes du désert de Vashlovani" %}
 
+TODO : mettre les photos en ligne
+{:.ten.columns.post-content}
 
 Bercés par les flots, nous rêvons de vipères et serpents en tous genres évoqués par les géorgiens, qui, inquiets de notre aventure, ont décrit ce parc comme hostile pour nous dissuader d’y aller.
 Mais de tous nos kilomètres parcourus, nous ne verrons qu’hirondelles, aigles, guêpiers d’Europe, cigales en mue, oiseaux bleu électrique. Pas un seul reptile n’aura eu le courage d’affronter cette fournaise à notre grand soulagement.
@@ -24,15 +26,28 @@ Mais de tous nos kilomètres parcourus, nous ne verrons qu’hirondelles, aigles
 {% include photo.html photo="G-couchersoleil-vashlovani.jpeg" alt="Coucher de soleil dans le désert de Vashlovani" %}
 {% include photo.html photo="G-camping-vashlovani.jpeg" alt="Notre campement dans le désert de Vashlovani" %}
 {% include photo.html photo="G-chatchien-vashlovani.jpeg" alt="Un chat et un chien s'affrontent dans le désert" %}
+TODO : mettre les photos en ligne
+{:.ten.columns.post-content}
+
+
+Une journée Guet-Apens racontée par Aline
+{:.sixteen.columns.post-quote}
 
 De retour dans la civilisation à Sighnaghi, heureux de pouvoir se reposer après la fournaise de ces deux derniers jours. Mais un nouveau choc culturel nous attend. Par chance, nos amis Aline et Benoît sont là pour le partager : après tout, plus on est de fous... plus on boit ! Aline nous prête sa plume pour un petit aperçu d’une journée typique ici bas.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-aline-coquine.jpg" alt="Aline sur une terrasse avec un verre de vin" %}
 
 « Ce matin du 10 juillet, vers 10h30, on termine de s’apprêter avec les copains pour marcher en direction du monastère, qui se situe à environ 3 kilomètres à la sortie de la ville de Sighnaghi. Piotr nous propose alors à l’initiative de Noukri, son ami et voisin, d’aller visiter une fromagerie géorgienne. Why not, on accepte, ça semble être une superbe opportunité ! On se met en route, les sacs à dos chargés de livres, aquarelles, jeux de cartes et dés pour une journée farniente dont on rêve depuis une semaine.
 {:.ten.columns.post-content}
 
 Une fois sur place on nous dit d’attendre dans une pièce... On nous apporte l’équipement parfait du fromager : tablier, charlotte et gants en latex. On enfile tout ça et la suite se passe dans la salle d’à côté. Les filles s’installent avec le «cheese master» (il y a bien le chacha master, alors quoi ?!) pour malaxer la pâte de fromage et remplir des paniers passoires qui servent de moules. Quant aux gars, ils s’arment d’appareils photo pour immortaliser ces instants. Une fois cette première étape terminée, on visite la «crypte» climatisée où baignent les fromages dans une eau salée, puis on passe dans la salle d’attente, avisés que 3h plus tard on pourrait suivre la seconde étape. Vous avez dit guet-apens ? C’est alors que sur la table déambulent fromages frais, pots de yaourt à gogo, pains, khatchapouri, carafe de vin blanc, glaces... Comme la tradition l’exige, on toaste trois fois, puis encore et encore jusqu’à une quinzaine de fois ! Ce jour-là, notre Tamada sera le propriétaire des lieux. 3h plus tard, on assiste à la transformation de ce fromage en une sorte de mozzarella. Bref vous l’aurez compris, 5h après on ressort pompette et fatigués !
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-fabrication-fromagequisaute.jpeg" alt="Processus de fabriction du fromage" %}
+{% include photo.html photo="G-fromage.jpg" alt="Table pleine de nourriture" %}
+{% include photo.html photo="G-tamada-fromagerie.jpeg" alt="L'équipe de la fromagerie nous sert à boire et à manger" %}
+
 
 Mais ça ne s’arrête pas là, car Noukri a une autre surprise pour nous... tout est arrangé, on part chez sa belle-soeur pour apprendre à cuisiner les khatchapouri qui nous ont tant fait baver ce midi ! Guet-apens ?
 Mais Piotr n’a pas dit son dernier mot question guet-apens et il embarque les gars pour arroser ses vignes, tandis que les filles montent dans la batmobile de Noukri pour un moment plus girly, entre femmes, avec sa belle-soeur et 3 jeunes filles qui parlent excellemment bien l’anglais !
