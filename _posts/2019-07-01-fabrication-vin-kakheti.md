@@ -3,8 +3,10 @@ title: GEORGIE - L'art du vin en Kakheti
 ---
 
 Nous quittons la Russie pour son pays voisin : la Géorgie. Piotr est vigneron et nous accueille dans sa maison bleue lovée dans les collines géorgiennes. Après toutes ces épices et recettes, vos deux Trip’n Touille découvrent enfin le vin et le plaisir de la boisson !
-<!--fin extrait-->
 {:.ten.columns.post-content}
+
+<!--fin extrait-->
+
 
 
 Piotr cultive des cépages traditionnels dans la région de Kakheti : le Saperavi, vin noir et le Rkatsiteli, qui est l’un des cépages blancs les plus anciens au monde. Il les laisse évoluer 8 mois dans des amphores en terre gigantesques enterrées, que nous avons eu la chance d’ouvrir avec lui dans les règles de l’art. Piotr mélange aussi les fruits, les herbes de montagne et les citrons géorgiens pour créer Porto, Vermouth ou Limoncello que nous dégustons avec volupté et excès.
@@ -35,3 +37,4 @@ L’été arrivé, il est temps de découvrir le travail abattu par ces demoisel
 {:.ten.columns.post-content}
 
 Nous y rencontrons deux joyeux retraités qui nous enseignent les traditions géorgiennes pour récolter le miel. C’est avant tout une fête où l’apiculteur se transforme en Tamada et lève son verre pour remercier mère nature. On trinque à coup de vin blanc, déguste le fameux pain cuit dans les fours ronds en terre et goûte ce miel lourd et sucré. Une fois tous les sujets abordés et une dizaine de Toasts éclusés, la matinée touche à sa fin et les têtes tournent. On s’installe donc pour un repos bien mérité. Qu’en est-il de la récolte du miel ? On verra demain si la météo le permet… Peut-être que ce sont cette joie de vivre et cette opulence qui ont donné les formes arrondies et dodues aux lettres de l’alphabet géorgien ?
+{:.ten.columns.post-content}
