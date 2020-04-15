@@ -25,18 +25,31 @@ Entre sieste et croquis, nous rencontrons Alexei, capitaine de cargos qui rentre
 
 
 Les paysages défilent à travers les fenêtres du train, marécageux au départ de Vladivostok, ils deviennent chargés de sapins sombres avant de laisser place à la steppe de la Sibérie où plus rien ne pousse ; pas un animal ne court autour des rares habitations. Villages de bois aux maisons turquoises et bleu indigo, seules tâches de couleur dans la steppe dorée.
+{:.ten.columns.post-content}
+
 Le train devient notre maison réconfortante dans ces paysages puissants et brûlants. La vie du wagon est calme, ponctuée d’arrêts dans des gares seules au monde où quelques femmes déplient leur table pour vendre crêpes au fromage et pelmenies.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="R-siberie-foret.jpg" alt="Forêt de Sibérie" %}
+{% include photo.html photo="R-siberie-village.jpg" alt="Village de Sibérie" %}
+{% include photo.html photo="R-maison-irkustk.jpg" alt="Maison traditionnelle à Irkustk" %}
+
 Au matin du troisième jour, nous ouvrons le rideau sur un nouveau paysage. Quelques arbres protègent les villages de Transbaïkalie balayés par les vents. Les plaines plates retrouvent du relief, les collines se transforment en montagnes et quelques toits bleus réhaussent les étendues sèches et brûlées encerclant l’immense lac Baïkal. Après quelques heures de cache-cache avec le lac, il est temps pour nous de sortir respirer l’air vif en république de Bouriatie.
 {:.ten.columns.post-content}
+
 
 Île d’Olkhon sur le Lac Baïkal 
 {:.sixteen.columns.post-quote}
 
 
 Avec ses 636 km de long, le lac Baikal est le plus profond au monde. Il représente à lui seul 80% de la réserve d’eau douce de la Russie, 20% de l’eau douce au monde... Incroyable non ?!
-Notre lac Léman est 260 fois plus petit et l’on raconte même que s’il était vide, une année ne suffirait pas à le remplir en détournant toutes les rivières du monde.
+Notre lac Léman est 260 fois plus petit et l’on raconte même que s’il était vide, une année ne suffirait pas à le remplir en détournant toutes les rivières du monde. 
+{:.ten.columns.post-content}
+
+{% include photo.html photo="R-nous-petitpois.jpg" alt="Pique-nique devant le lac" %}
+{% include photo.html photo="R-lac-gralce.jpg" alt="Lac glacé" %}
+{% include photo.html photo="R-lac-nuage.jpg" alt="Reflets des nuages sur le lac" %}
+
 C’est avec tous ces chiffres disproportionnés en tête que nous grimpons dans un bus déglingué pour rejoindre l’île d’Olkhon. Six heures de course effreinée nous y mènent. Le chauffeur avance, musique à fond, sur les routes accidentées du bord de lac avec pour seul instant de répis, le chargement du bus sur un ferry pour traverser les deux kilomètres d’eau nous séparant des pistes sableuses de l’île.
 {:.ten.columns.post-content}
 
