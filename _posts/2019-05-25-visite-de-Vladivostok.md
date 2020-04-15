@@ -5,7 +5,6 @@ image: R-vladivostok-roue.jpg
 
 Nous quittons Tokyo ensoleillé sous 30 degrés pour une ambiance de bout du monde à Vladivostok. Un froid humide nous accueille avec une brume cachant la cime des buildings. 
 {:.ten.columns.post-content}
-
 <!--fin extrait-->
 
 {% include photo.html photo="R-Julie-dansbrume.jpg" alt="Julie dans la brûme" %}

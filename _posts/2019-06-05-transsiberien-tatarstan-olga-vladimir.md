@@ -31,6 +31,7 @@ Les maisons traditionelles sont spacieuses et tout en bois. Elles ressemblent au
 
 {% include photo.html photo="R-mosquee.jpg" alt="Mosquée au Tatarstan" %}
 {% include photo.html photo="R-ecomusee.jpg" alt="Maison traditionnelle tatare" %}
+{% include photo.html photo="R-campagne-tatarstan.jpg" alt="Vue du village d'Olga et Vladimir" %}
 
 TODO mettre photo en ligne
 {:.ten.columns.post-content}
