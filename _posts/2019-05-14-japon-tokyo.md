@@ -31,6 +31,8 @@ Vous aurez l'occasion
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190515_162013.jpg" alt="Un rythme effréné" %}
+{% include photo.html photo="J-cosplay-Tokyo.jpg" alt="Jenues filles cosplay" %}
+{% include photo.html photo="J-metro-Tokyo.jpg" alt="métro à Tokyo" %}
 
 TODO: ajouter avec cette photo du croisement celle des filles déguisées et celle du métro serpent
 {:.ten.columns.post-content}

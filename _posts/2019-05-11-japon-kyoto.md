@@ -1,5 +1,5 @@
 ---
-title: JAPON - Kyoto, ville rouge et débordante d'activité
+title: JAPON - Kyoto, ville rouge, ville chic
 tags:
 - japon
 points:
@@ -35,6 +35,10 @@ Kyoto, ancienne capitale du Japon, est une ville chic, douce et aérée. Entour�
 
 <!--fin extrait-->
 
+{% include photo.html photo="J-lampion-Kyoto.jpg" alt="Lampions dans une cours interieure" %}
+
+
+
 En grimpant les nombreuses marches sous ces portes laquées, nous découvrons des cimetières sombres et humides, enfumés d’encens et gardés par des félins de pierre effrayants. Contraste mystique avec l’ambiance lumineuse et animée de la ville.
 {:.ten.columns.post-content}
 
@@ -43,8 +47,10 @@ Le temple et la colline la plus connu de Kyoto, [Fushimi Inari Taisha](http://ge
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190511_144410.jpg" alt="La plus connue des images de Kyoto" %}
+{% include photo.html photo="J-chat-Kyoto.jpg" alt="Chat gardien du cimetière humide" %}
 
-TODO : mettre les Torri, les chinoises et une autre photo du loup en pierre un peu glauque sur une ligne.
+
+TODO : mettre les Torri, les chinoises et photo du loup en pierre un peu glauque sur une ligne.
 {:.ten.columns.post-content}
 
 {% recommend %}
@@ -59,12 +65,13 @@ TODO : mettre les Torri, les chinoises et une autre photo du loup en pierre un p
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190508_123604.jpg" alt="Michie et sa famille à Kyoto" %}
+{% include photo.html photo="J-Michie-Kyoto.jpg" alt="Michie et sa famille à Kyoto au sol" %}
+TODO : mettre les deux photos en ligne
+{:.ten.columns.post-content}
 
 Cette famille citadine est passionnée par la France ; culture, littérature, gastronomie, tout y passe, même le décryptage des gilets jaunes qu’ils souhaitent mieux comprendre, pour aller au-delà de leurs journaux nationaux ne relatant qu’un prisme d’interprétation. Dans un anglais fluide, ils sont les premiers à nous partager leur ressenti de la culture japonaise avec franchise : pour eux, la pression sociale poussant à faire partie d’un groupe (famille, quartier, club de sport, communauté religieuse) n’est pas toujours facile à porter.
 {:.ten.columns.post-content}
 
-TODO : ajouter la photo où on est tous assis au sol et la disposer à côté de celle où on est à table
-{:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190310_165636.jpg" alt="Forêt de bamboo" %}
 

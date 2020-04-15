@@ -15,8 +15,10 @@ Quelques dizaines de kilomètres après Kyoto, nous visons Osaka. À peine desce
 <!--fin extrait-->
 
 {% include photo.html photo="IMG_20190512_163409.jpg" alt="La nourriture est une préocupation majeure à Osaka" %}
+{% include photo.html photo="J-ruebonde-Osaka.jpg" alt="Les rues sont bondées à Osaka" %}
+{% include photo.html photo="J-ruebondee-Osaka.jpg" alt="Une autre rue bondée à Osaka" %}
  
-TODO: ajouter deux autres photos de rues surchargées et les mettre sur une ligen avec le poisson.
+TODO: les mettre sur une lige
 {:.ten.columns.post-content}
 
 Il y a de quoi manger absolument partout : poulpes, moules géantes, takoyaki, tapis de sushis ... ici, on s’explose la panse pour trois francs six sous !
