@@ -9,9 +9,11 @@ Nous quittons la Russie pour son pays voisin : la Géorgie. Piotr est vigneron e
 
 
 
-Piotr cultive des cépages traditionnels dans la région de Kakheti : le Saperavi, vin noir et le Rkatsiteli, qui est l’un des cépages blancs les plus anciens au monde. Il les laisse évoluer 8 mois dans des amphores en terre gigantesques enterrées, que nous avons eu la chance d’ouvrir avec lui dans les règles de l’art. Piotr mélange aussi les fruits, les herbes de montagne et les citrons géorgiens pour créer Porto, Vermouth ou Limoncello que nous dégustons avec volupté et excès.
+Piotr cultive des cépages traditionnels dans la région de Kakheti : le Saperavi, vin noir et le Rkatsiteli, qui est l’un des cépages blancs les plus anciens au monde. Il les laisse évoluer 8 mois dans des amphores en terre gigantesques enterrées, que nous avons eu la chance d’ouvrir avec lui dans les règles de l’art. Piotr mélange aussi les fruits, les herbes de montagne et les citrons géorgiens pour créer Porto, Vermouth ou Limoncello que nous dégustons avec volupté et excès. Il loue également sa belle maison bleue pour les voyageurs qui souhaitent s'arrêter quelques jours à Sighnaghi, ville des amoureux.
 {:.ten.columns.post-content}
 
+TODO : mettre lien location maison Piotr
+{:.ten.columns.post-content}
 
 {% include photo.html photo="G-vignes.jpg" alt="Cépage de Piotr" %}
 {% include photo.html photo="G-viegnepiotr.jpg" alt="Vignes de Piotr" %}
@@ -52,10 +54,11 @@ Les abeilles bossent et les hommes trinquent
 L’été arrivé, il est temps de découvrir le travail abattu par ces demoiselles abeilles : quelques lacets serrés nous font arriver dans le début du petit Caucase où nous découvrons le lieu de villégiature de ces travailleuses. Cascades, montagnes et prairies pleines de graminées, mûriers, tilleuls et orchidées sauvages accueillent la ville des abeilles. Des dizaines de remorques colorées y sont parquées, avec des centaines de ruches bien rangées d’où des millions d’abeilles s’envolent chaque seconde pour concocter ce trésor doré tant convoité. Il y a sans doute plus d’habitants dans cette vallée qu’à Tokyo.
 {:.ten.columns.post-content}
 
+Nous y rencontrons deux joyeux retraités qui nous enseignent les traditions géorgiennes pour récolter le miel. C’est avant tout une fête où l’apiculteur se transforme en Tamada et lève son verre pour remercier mère nature. On trinque à coup de vin blanc, déguste le fameux pain cuit dans les fours ronds en terre et goûte ce miel lourd et sucré. Une fois tous les sujets abordés et une dizaine de Toasts éclusés, la matinée touche à sa fin et les têtes tournent. On s’installe donc pour un repos bien mérité. Qu’en est-il de la récolte du miel ? On verra demain si la météo le permet… Peut-être que ce sont cette joie de vivre et cette opulence qui ont donné les formes arrondies et dodues aux lettres de l’alphabet géorgien ?
+{:.ten.columns.post-content}
+
 {% include photo.html photo="G-Sosomiel.jpg" alt="L'apiculteur découpe un cadre plein de miel" %}
 {% include photo.html photo="G-sylvainmiel.jpg" alt="Sylvain déguste le miel fraîchement récolté" %}
 
-
-
-Nous y rencontrons deux joyeux retraités qui nous enseignent les traditions géorgiennes pour récolter le miel. C’est avant tout une fête où l’apiculteur se transforme en Tamada et lève son verre pour remercier mère nature. On trinque à coup de vin blanc, déguste le fameux pain cuit dans les fours ronds en terre et goûte ce miel lourd et sucré. Une fois tous les sujets abordés et une dizaine de Toasts éclusés, la matinée touche à sa fin et les têtes tournent. On s’installe donc pour un repos bien mérité. Qu’en est-il de la récolte du miel ? On verra demain si la météo le permet… Peut-être que ce sont cette joie de vivre et cette opulence qui ont donné les formes arrondies et dodues aux lettres de l’alphabet géorgien ?
+TODO : mettre lieu de la ville aux abeilles
 {:.ten.columns.post-content}
