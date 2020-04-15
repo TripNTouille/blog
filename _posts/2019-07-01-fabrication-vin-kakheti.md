@@ -30,9 +30,13 @@ C’est une affaire d’hommes ! De la récolte à la macération du raisin en t
 Piotr nous présente le Maître du Chacha - eau de vie traditionnelle à 60°. Au fond de sa cabane, il distille avec patience les milliers de litres de moût de raisin de chaque famille de la bourgade. On dit qu’il est le meilleur, grâce à son alambic artisanal vieux de plus de 40 ans. En Géorgie, chaque famille cultive quelques vignes pour produire son vin et son Chacha. Et il en faut pour alimenter la consommation annuelle, parce qu’ici, on trinque souvent dans la tradition du Tamada que nous allons essayer de décoder pour vous.
 {:.ten.columns.post-content}
 
-{% include photo.html photo="G-chacha-house.jpg" alt="Cabane du maître du Chacha" %}
+
+TODO mettre photo chachahouse qui n'est pas encore sur le serveur
+{:.ten.columns.post-content}
+
 {% include photo.html photo="G-chachamaster.jpg" alt="Le maître du Chacha dans sa cabane" %}
 {% include photo.html photo="G-tchachamaster.jpg" alt="Le maître du Chacha en plein travail" %}
+
 
 Le Tamada est le chef d’orchestre du « Supra » (mot qui veut dire repas, table et toast). Il est désigné au début du dîner et a une place d’honneur à table. C’est lui qui donne le thème des sujets et le rythme où l’on boit. Son « Merry keeper » (assistant serveur) remplit les verres avant chaque Toast. Les sujets sont codifiés lors de repas officiels. On trinque pour la Paix, Dieu, les hôtes, les invités, les morts, les vivants, l’avenir… En petit comité les Toasts peuvent être plus personnels. Mais attention, contrairement à nos habitudes françaises, impossible de déguster son verre à son rythme après avoir trinqué. Ici, c’est « Bollomde » (cul sec). Si le Tamada vous désigne « Alaverdi » (membre d’honneur), vous attendrez qu’il porte son Toast, qu’il vide son verre, puis lui répondrez et boirez, avant de laisser les autres trinquer. Pour nous, cette tradition ressemble fort à un jeu à boire. Pour y jouer, il vous faudra quelques litres de Chacha ou de vin et des convives en nombre illimité. À la vôtre !
 {:.ten.columns.post-content}
