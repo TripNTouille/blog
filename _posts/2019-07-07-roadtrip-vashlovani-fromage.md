@@ -53,8 +53,13 @@ Mais ça ne s’arrête pas là, car Noukri a une autre surprise pour nous... to
 Mais Piotr n’a pas dit son dernier mot question guet-apens et il embarque les gars pour arroser ses vignes, tandis que les filles montent dans la batmobile de Noukri pour un moment plus girly, entre femmes, avec sa belle-soeur et 3 jeunes filles qui parlent excellemment bien l’anglais !
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-Nukri.jpg" alt="Nukri nous a appris à faire quelques salades" %}
+
 Et si on apprenait à cuisiner les khatchapouri ? Et puis comme ça faisait quelques heures qu’on n’avait pas mangé et bu, arrivent sur la table biscuits maison, melons et pêches. Tout ça n’étant que meilleur avec un verre à la main, on voit arriver une boisson « légèrement » alcoolisée concoctée parla maîtresse de maison à base de chacha (what esle ?!) d’orange et de café ! Surprise ! On trinque avec des demoiselles âgées de 13 à 15 ans ! Et elles jouent aussi bien le rôle de Tamada que les hommes, qu’il s’agisse de porter un toast ou de finir leur verre cul-sec ! Pas le temps de finir ni bouteille ni plats, Noukri nous fait signe qu’il est temps de s’en aller pour se rendre chez un ami qui a besoin de conseils HelpX pour lancer sa guesthouse ! Guet-apens ?
 {:.ten.columns.post-content}
+
+
+{% include photo.html photo="G-aline-khatchapouri.jpg" alt="Aline observée par toute les demoiselles" %}
 
 Après un échange en anglais pour tenter de comprendre ce qu’on fait là, Julie s’arme de patience pour créer un profil HelpX à la famille ! Youhou on va pouvoir rentrer, packer nos affaires, digérer si besoin et dormiiiiiiir ! Et puis quoi encore ?! On est en Géorgie ou pas ! Passons à table pour se « régaler » (à ce stade-là parle-t-on encore de régal ?) des multiples mets qui sont passés devant nos yeux, préparés par la femme de la maison et buvons tous ensemble à nos pays, à la paix, la santé, la nature, l’amitié, nos ancêtres, aux femmes, et bien d’autres raisons saupoudrées de poésie, toutes aussi bonnes pour picoler ! Parce qu’ici, si on ne toaste pas on ne boit pas ! Et de la main droite s’il vous plaît !
 {:.ten.columns.post-content}
