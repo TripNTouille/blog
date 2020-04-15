@@ -20,6 +20,9 @@ Installés en troisième classe, tout confort avec nos draps blancs, un thé bou
 Entre sieste et croquis, nous rencontrons Alexei, capitaine de cargos qui rentre à la maison après deux semaines en mer, transportant du bois vers la Chine ou des voitures du Japon. Ce dernier découvre avec horreur que nous ne connaissions pas Armin van Buren... THE DJ de musique trance. Cela nous vaudra un cours de mixage sur son vieux PC. Inna fait aussi partie du voyage, pétillante, elle nous raconte dans un français impeccable qu’elle a passé un an en Ardèche.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="R-Juliedanstrain.jpg" alt="Julie dessine dans le train" %}
+{% include photo.html photo="R-sylvaondanstrain.jpg" alt="Sylvain dans le train" %}
+
 
 Les paysages défilent à travers les fenêtres du train, marécageux au départ de Vladivostok, ils deviennent chargés de sapins sombres avant de laisser place à la steppe de la Sibérie où plus rien ne pousse ; pas un animal ne court autour des rares habitations. Villages de bois aux maisons turquoises et bleu indigo, seules tâches de couleur dans la steppe dorée.
 Le train devient notre maison réconfortante dans ces paysages puissants et brûlants. La vie du wagon est calme, ponctuée d’arrêts dans des gares seules au monde où quelques femmes déplient leur table pour vendre crêpes au fromage et pelmenies.
