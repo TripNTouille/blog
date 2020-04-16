@@ -9,6 +9,12 @@ Nos amis français Aline et Benoît nous rejoignent pour trois semaines. Premiè
 Départ pour le parc national de Lagodekhi
 {:.sixteen.columns.post-quote}
 
+
+{% include photo.html photo="G-lagogroupe.jpg" alt="Groupe en randonnée" %} 
+{% include photo.html photo="G-lagomaitredumonde.jpg" alt="Aline au sommet de la montagne" %}
+{% include photo.html photo="G-lagodekhicheval.jpg" alt="Toute l'équipe" %}
+
+
 L’expédition se compose de :
 {:.ten.columns.post-content}
 
@@ -19,9 +25,7 @@ L’expédition se compose de :
 - Gizhi, notre chien sauvage rencontré en route.
 {:.ten.columns.post-content}
 
-{% include photo.html photo="G-lagogroupe.jpg" alt="Groupe en randonnée" %} 
-{% include photo.html photo="G-lagomaitredumonde.jpg" alt="Aline au sommet de la montagne" %}
-{% include photo.html photo="G-lagodekhicheval.jpg" alt="Toute l'équipe" %}
+
 
 TODO : photo en ligne
 {:.ten.columns.post-content}
@@ -33,6 +37,7 @@ Nous attaquons l’ascension des 2 500 mètres pour nous hisser sur les plateaux
 {% include photo.html photo="G-lagochecpoint.jpg" alt="Checkpoint avant la frontière Russe" %}
 {% include photo.html photo="G-lagolacnoirproche.jpg" alt="Le lac Noir à la frontière Russe" %}
 {% include photo.html photo="G-lagolacnoir.jpg" alt="Le Lac Noir" %}
+
 
 TODO : photo en ligne
 {:.ten.columns.post-content}
@@ -53,11 +58,23 @@ Pour nous garder encore un peu avec lui, Piotr nous propose une nouvelle aventur
 Nous montons à 3 000 mètres via des lacets s’étirant sur la montagne, avec des falaises vertigineuses et des virages en épingle. Un silence concentré s’installe dans le 4x4, ponctué de fous rires nerveux.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-tushetiroute.jpg" alt="Lacets effrayants de la route vers Tusheti" %}
+{% include photo.html photo="G-route66-tusheti.JPG" alt="Route 66 vers Tusheti" %}
+
+TODO : mettre en ligne
+{:.ten.columns.post-content}
+
 En fin d’après-midi, nous atteignons le minuscule village d’Omalo. Après avoir desserré nos mâchoires, nous découvrons cette bourgade paisible, habitée quelques mois par an et inaccessible le reste de l’année, une fois la route détruite par les avalanches.
 {:.ten.columns.post-content}
 
+
+{% include photo.html photo="G-tushetivillage.jpg" alt="Village de Tusheti avant l'orrage" %}
+
 La semaine s’annonce pluvieuse, nous choisissons une auberge familiale pour observer les orages retentissant dans le cirque. Les éclairs déchirent le ciel noir et les nuages avalent les sommets s’élevant à plus de 4 000 mètres. De notre maison, nous observons la vie du village : la voisine cuit du pain dans son four à bois extérieur, les jeunes dressent les chevaux et le soir, tous les ados se retrouvent autour d’un feu sur la place.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-tushetigrouep.jpg" alt="Pique-nique entre les gouttes" %}
+
 
 On raconte que chaque famille vivant là détenait une tour dominant le bourg, pour s’y réfugier en cas d’attaque. Les animaux en bas, les femmes et les enfants au premier et les guerriers en haut pour riposter. Mais pourquoi avoir décidé de vivre dans un lieu aussi isolé et difficile d’accès ? Parce qu’au croisement de la Russie et de l’Azerbaïdjan, Omalo était un point névralgique sur la route de la soie. L’homme ne cessera de nous estomaquer !
 {:.ten.columns.post-content}
