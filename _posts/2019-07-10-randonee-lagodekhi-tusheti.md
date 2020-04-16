@@ -14,6 +14,8 @@ Départ pour le parc national de Lagodekhi
 {% include photo.html photo="G-lagomaitredumonde.jpg" alt="Aline au sommet de la montagne" %}
 {% include photo.html photo="G-lagodekhicheval.jpg" alt="Toute l'équipe" %}
 
+TODO : photo en ligne
+{:.ten.columns.post-content}
 
 L’expédition se compose de :
 {:.ten.columns.post-content}
@@ -25,18 +27,15 @@ L’expédition se compose de :
 - Gizhi, notre chien sauvage rencontré en route.
 {:.ten.columns.post-content}
 
-
-
-TODO : photo en ligne
-{:.ten.columns.post-content}
-
+TODO : donner le contacte du  parc national pour avoir un guide et cibler le parc sur une carte ou même la randonnée?
 
 Nous attaquons l’ascension des 2 500 mètres pour nous hisser sur les plateaux verts et les prairies fleuries loin des canicules de la plaine. Un checkpoint militaire posté dans un no man’s land nous oblige à sortir nos passeports qui seront recopiés minutieusement sur un vieux registre. Ce contrôle nous donne accès au lac noir d’où l’on voit la Russie qui commence sur la berge opposée.
 {:.ten.columns.post-content}
 
 {% include photo.html photo="G-lagochecpoint.jpg" alt="Checkpoint avant la frontière Russe" %}
-{% include photo.html photo="G-lagolacnoirproche.jpg" alt="Le lac Noir à la frontière Russe" %}
 {% include photo.html photo="G-lagolacnoir.jpg" alt="Le Lac Noir" %}
+{% include photo.html photo="G-lagolacnoirproche.jpg" alt="Le lac Noir à la frontière Russe" %}
+
 
 
 TODO : photo en ligne
@@ -72,6 +71,9 @@ En fin d’après-midi, nous atteignons le minuscule village d’Omalo. Après a
 
 La semaine s’annonce pluvieuse, nous choisissons une auberge familiale pour observer les orages retentissant dans le cirque. Les éclairs déchirent le ciel noir et les nuages avalent les sommets s’élevant à plus de 4 000 mètres. De notre maison, nous observons la vie du village : la voisine cuit du pain dans son four à bois extérieur, les jeunes dressent les chevaux et le soir, tous les ados se retrouvent autour d’un feu sur la place.
 {:.ten.columns.post-content}
+
+TODO : cibler sur une carte
+TODO contact auberge
 
 {% include photo.html photo="G-tushetigrouep.jpg" alt="Pique-nique entre les gouttes" %}
 
