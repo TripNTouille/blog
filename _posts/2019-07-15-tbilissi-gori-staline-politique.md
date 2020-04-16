@@ -1,5 +1,5 @@
 ---
-title: GEORGIE-Petit point historique de Tbilissi à Gori
+title: GEORGIE - Petit point historique de Tbilissi à Gori
 image: G-tbilissirussieoccupant.jpg
 ---
 
@@ -11,6 +11,7 @@ Il est temps de laisser nos amis reprendre la route de l’Europe et de poursuiv
 
 TODO : ajouter photo de la ville avec les bains et du bazar
 TODO les mettre en ligne
+{:.ten.columns.post-content}
 
 
 Tbilissi : capitale à l'histoire en plein tumulte

@@ -1,5 +1,5 @@
 ---
-title: GEORGIE-Randonnées dans les hautes montagnes de Lagodeghi et Tusheti
+title: GEORGIE - Randonnées dans les hautes montagnes de Lagodeghi et Tusheti
 image: G-lagovue.jpg
 ---
 
