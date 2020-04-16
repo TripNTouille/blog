@@ -34,26 +34,36 @@ Poutine annonce alors que les ressortissants russes sont invités à quitter le 
 
 {% include photo.html photo="G-tbilissivivant.jpg" alt="Pianiste parlant avec une femme loufoque dans la rue" %}
 
-Nous avons passé plusieurs séjours dans cette ville et avonss séjourné dans une auberge avec vue sur la ville. Cuisine, salon, salle de bain, chambre, tout y es spacieux et confortable et nous n'y avons croisé que quelques autres voyageurs discrets. 
-
-Nous avons aussi profité d'un appartement design dans le quartier branché de la ville qui était très agréable. 
+Nous avons passé plusieurs séjours dans cette ville et avons séjourné dans une auberge avec vue sur la ville. Cuisine, salon, salle de bain, chambre, tout y es spacieux et confortable et nous n'y avons croisé que quelques autres voyageurs discrets. Nous avons aussi profité d'un appartement design dans le quartier branché de la ville qui était très agréable. 
+{:.ten.columns.post-content}
 
 TODO mieux écrire ça et mettre les liens vers les 2 logements
+{:.ten.columns.post-content}
 
 Visite à Staline dans sa ville natale de Gori
 {:.sixteen.columns.post-quote}
 
 Ville natale de Staline, elle affiche fièrement un musée retraçant sa vie, seule attraction touristique du bourg. 
-Le musée dédié à Staline est invraisemblable ; culte de la personnalité, nous y voilà ! Portraits imposants et objets fétiches retracent la vie du héros. Ballades au bras de sa vieille mère, scolarité exemplaire, modernité de son train climatisé, sa vie est mise en scène dans une succession de salles où tout est écrit en russe et géorgien, nous y sommes analphabètes. En lisant tout de même quelques textes sur notre smartphone, nous nous rappelons les secrets politiques, la propagande, les goulags et les crimes commis par ce dictateur. À Gori, on aime Staline.
+A notre arrivée, nous retrouvons ... et sa famille chez qui nous séjournons à deux pas de l'édifice. Ils louent quelques chambres dans leur appartement à l'étage. Rencontre des plus surprenante, ils nous invitent à manger des fruits et boire un thé le soir avec eux dans la cuisine et nous expliquent avec quelques mots d'anglais leur amour pour Staline, cet homme généreux ayant tant fait pour la ville... 
 {:.ten.columns.post-content}
+
+TODO retrouver le nom de la fille et mettre lien vers l'appartement
+
+Au petit matin, notre curiosité acérée, nous partons visiter ce fameux musée dédié à Staline qui est invraisemblable ; culte de la personnalité, nous y voilà ! Portraits imposants et objets fétiches retracent la vie du héros. Ballades au bras de sa vieille mère, scolarité exemplaire, modernité de son train climatisé, sa vie est mise en scène dans une succession de salles où tout est écrit en russe et géorgien, nous y sommes analphabètes. En lisant tout de même quelques textes sur notre smartphone, nous nous rappelons les secrets politiques, la propagande, les goulags et les crimes commis par ce dictateur. À Gori, on aime Staline.
+{:.ten.columns.post-content}
+
+TODO lien vers musée
 
 {% include photo.html photo="G-doristaline.jpg" alt="Portrait de Staline dans le musée de Gori" %}
 {% include photo.html photo="G-goritrainstaline.jpg" alt="Le train de Staline" %}
 
 TODO les mettre en ligne
 {:.ten.columns.post-content}
+ 
+En flânant dans les rues, nous découvrons des bâtiments décrépis, des maisons abandonnées et des portails rouillés cachant des cours désertes. La vigne fait de l’ombre aux chiens écrasés par la chaleur et nous ne croisons pas âme qui vive. Ce n’est qu’à la nuit tombée que l’activité reprend. Les habitants se retrouvent dans le vieux parc d’attraction défraîchi, cherchant la fraîcheur du soir avant de se serrer autour des tables des restaurants voisins. Staline semble alors n’être qu’un vieux mythe oublié lorsque nous nous atablons autour de brochettes de viandes et de Khinkhali dans un restaurant ombragé.
+{:.ten.columns.post-content}
 
-En flânant dans les rues, nous découvrons des bâtiments décrépis, des maisons abandonnées et des portails rouillés cachant des cours désertes. La vigne fait de l’ombre aux chiens écrasés par la chaleur et nous ne croisons pas âme qui vive. Ce n’est qu’à la nuit tombée que l’activité reprend. Les habitants se retrouvent dans le vieux parc d’attraction défraîchi, cherchant la fraîcheur du soir avant de se serrer autour des tables des restaurants voisins. Staline semble alors n’être qu’un vieux mythe oublié.
+TODO mettre lien restaurant
 {:.ten.columns.post-content}
 
 {% include photo.html photo="G-goriroue.jpg" alt="Roue d'un parc d'atraction à Gori" %}
