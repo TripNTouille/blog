@@ -34,6 +34,11 @@ Poutine annonce alors que les ressortissants russes sont invités à quitter le 
 
 {% include photo.html photo="G-tbilissivivant.jpg" alt="Pianiste parlant avec une femme loufoque dans la rue" %}
 
+Nous avons passé plusieurs séjours dans cette ville et avonss séjourné dans une auberge avec vue sur la ville. Cuisine, salon, salle de bain, chambre, tout y es spacieux et confortable et nous n'y avons croisé que quelques autres voyageurs discrets. 
+
+Nous avons aussi profité d'un appartement design dans le quartier branché de la ville qui était très agréable. 
+
+TODO mieux écrire ça et mettre les liens vers les 2 logements
 
 Visite à Staline dans sa ville natale de Gori
 {:.sixteen.columns.post-quote}
@@ -42,5 +47,17 @@ Ville natale de Staline, elle affiche fièrement un musée retraçant sa vie, se
 Le musée dédié à Staline est invraisemblable ; culte de la personnalité, nous y voilà ! Portraits imposants et objets fétiches retracent la vie du héros. Ballades au bras de sa vieille mère, scolarité exemplaire, modernité de son train climatisé, sa vie est mise en scène dans une succession de salles où tout est écrit en russe et géorgien, nous y sommes analphabètes. En lisant tout de même quelques textes sur notre smartphone, nous nous rappelons les secrets politiques, la propagande, les goulags et les crimes commis par ce dictateur. À Gori, on aime Staline.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-doristaline.jpg" alt="Portrait de Staline dans le musée de Gori" %}
+{% include photo.html photo="G-goritrainstaline.jpg" alt="Le train de Staline" %}
+
+TODO les mettre en ligne
+{:.ten.columns.post-content}
+
 En flânant dans les rues, nous découvrons des bâtiments décrépis, des maisons abandonnées et des portails rouillés cachant des cours désertes. La vigne fait de l’ombre aux chiens écrasés par la chaleur et nous ne croisons pas âme qui vive. Ce n’est qu’à la nuit tombée que l’activité reprend. Les habitants se retrouvent dans le vieux parc d’attraction défraîchi, cherchant la fraîcheur du soir avant de se serrer autour des tables des restaurants voisins. Staline semble alors n’être qu’un vieux mythe oublié.
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-goriroue.jpg" alt="Roue d'un parc d'atraction à Gori" %}
+{% include photo.html photo="G-goriportail.jpg" alt="Portail à Gori" %}
+
+TODO les mettre en ligne
 {:.ten.columns.post-content}
