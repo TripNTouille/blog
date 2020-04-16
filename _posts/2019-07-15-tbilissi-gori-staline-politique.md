@@ -40,6 +40,12 @@ Nous avons passé plusieurs séjours dans cette ville et avons séjourné dans u
 TODO mieux écrire ça et mettre les liens vers les 2 logements
 {:.ten.columns.post-content}
 
+Mais c'est dans la ruelle la plus touristique du "vieux Tbilissi" que nous vous recommanderons d'aller pour déguster quelques plats typiques accompagnés d'une serveuse bavarde : Nino. Cette dernière parle français et s'est fait un malin plaisir de nous partager spécialité, culture et bonnes adresses pour la suite de notre voyage.
+{:.ten.columns.post-content}
+
+TODO mettre nom du restaurant
+{:.ten.columns.post-content}
+
 Visite à Staline dans sa ville natale de Gori
 {:.sixteen.columns.post-quote}
 
@@ -48,11 +54,13 @@ A notre arrivée, nous retrouvons ... et sa famille chez qui nous séjournons à
 {:.ten.columns.post-content}
 
 TODO retrouver le nom de la fille et mettre lien vers l'appartement
+{:.ten.columns.post-content}
 
 Au petit matin, notre curiosité acérée, nous partons visiter ce fameux musée dédié à Staline qui est invraisemblable ; culte de la personnalité, nous y voilà ! Portraits imposants et objets fétiches retracent la vie du héros. Ballades au bras de sa vieille mère, scolarité exemplaire, modernité de son train climatisé, sa vie est mise en scène dans une succession de salles où tout est écrit en russe et géorgien, nous y sommes analphabètes. En lisant tout de même quelques textes sur notre smartphone, nous nous rappelons les secrets politiques, la propagande, les goulags et les crimes commis par ce dictateur. À Gori, on aime Staline.
 {:.ten.columns.post-content}
 
 TODO lien vers musée
+{:.ten.columns.post-content}
 
 {% include photo.html photo="G-doristaline.jpg" alt="Portrait de Staline dans le musée de Gori" %}
 {% include photo.html photo="G-goritrainstaline.jpg" alt="Le train de Staline" %}
