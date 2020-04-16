@@ -1,5 +1,5 @@
 ---
-title: 'GEORGIE-Merisi : le village qui chante et la maison du bonheur'
+title: 'GEORGIE - Merisi : le village qui chante et la maison du bonheur'
 ---
 
 Après ces pérégrinations politiques, nous partons vivre dans une famille au sud du pays, à la frontière turque. Les deux semaines initialement prévues se transforment rapidement en six semaines où nous partageons la joyeuse vie du village de Merisi. Accrochée à la montagne, cette Guesthouse magique regorge de chanteurs et de passionnés de musique.
