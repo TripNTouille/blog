@@ -4,6 +4,7 @@ title: GEORGIE-Randonnées dans les hautes montagnes de Lagodeghi et Tusheti
 
 Nos amis français Aline et Benoît nous rejoignent pour trois semaines. Première étape de ce voyage ensemble : le Grand Caucase à l’Est du pays, au carrefour avec la Russie et l’Azerbaïdjan. Nous partons pour trois jours de randonnée itinérante.
 {:.ten.columns.post-content}
+<!--fin extrait-->
 
 Départ pour le parc national de Lagodekhi
 {:.sixteen.columns.post-quote}
@@ -15,6 +16,10 @@ L’expédition se compose de :
 - Deux chevaux pour porter sacs, tentes et ravitaillement,
 - Gizhi, notre chien sauvage rencontré en route.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-lagogroupe.jpg" alt="Groupe en randonnée" %}
+{% include photo.html photo="G-lagomaitredumonde.jpg" alt="Aline au sommet de la montagne" %}
+{% include photo.html photo="G-lago-tamada.jpg" alt="Notre guide et Tamada Ahroi" %}
 
 Nous attaquons l’ascension des 2 500 mètres pour nous hisser sur les plateaux verts et les prairies fleuries loin des canicules de la plaine. Un checkpoint militaire posté dans un no man’s land nous oblige à sortir nos passeports qui seront recopiés minutieusement sur un vieux registre. Ce contrôle nous donne accès au lac noir d’où l’on voit la Russie qui commence sur la berge opposée.
 {:.ten.columns.post-content}
