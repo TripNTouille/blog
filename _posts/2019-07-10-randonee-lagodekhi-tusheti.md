@@ -10,6 +10,8 @@ Départ pour le parc national de Lagodekhi
 {:.sixteen.columns.post-quote}
 
 L’expédition se compose de :
+{:.ten.columns.post-content}
+
 - Aline, Benoît et nous deux, touristes,
 - Piotr toujours partant,
 - Arhoi, notre guide et Tamada,
@@ -17,16 +19,32 @@ L’expédition se compose de :
 - Gizhi, notre chien sauvage rencontré en route.
 {:.ten.columns.post-content}
 
-{% include photo.html photo="G-lagogroupe.jpg" alt="Groupe en randonnée" %}
+{% include photo.html photo="G-lagogroupe.jpg" alt="Groupe en randonnée" %} 
 {% include photo.html photo="G-lagomaitredumonde.jpg" alt="Aline au sommet de la montagne" %}
-{% include photo.html photo="G-lago-tamada.jpg" alt="Notre guide et Tamada Ahroi" %}
+{% include photo.html photo="G-lagodekhicheval.jpg" alt="Toute l'équipe" %}
+
+TODO : photo en ligne
+{:.ten.columns.post-content}
+
 
 Nous attaquons l’ascension des 2 500 mètres pour nous hisser sur les plateaux verts et les prairies fleuries loin des canicules de la plaine. Un checkpoint militaire posté dans un no man’s land nous oblige à sortir nos passeports qui seront recopiés minutieusement sur un vieux registre. Ce contrôle nous donne accès au lac noir d’où l’on voit la Russie qui commence sur la berge opposée.
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-lagochecpoint.jpg" alt="Checkpoint avant la frontière Russe" %}
+{% include photo.html photo="G-lagolacnoirproche.jpg" alt="Le lac Noir à la frontière Russe" %}
+{% include photo.html photo="G-lagolacnoir.jpg" alt="Le Lac Noir" %}
+
+TODO : photo en ligne
 {:.ten.columns.post-content}
 
 À 3000 mètres d’altitude, nous montons notre campement puis écoutons les chants traditionnels d’Arhoi en levant nos verres emplis de Chacha pour trinquer à la Nature, à l’amitié, à la Paix, bref, vous connaissez la musique ! Au petit matin, nous écoutons la pluie marteler le toit de nos tentes avant de dévaler la pente une fois le soleil de retour. Ce soir, nous retrouvons notre village du Sud, Sighnaghi, pour une journée farniente.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-lagovue.jpg" alt="Vue des sommets" %}
+{% include photo.html photo="G-lago-tamada.jpg" alt="Notre guide et Tamada Ahroi" %}
+
+TODO : photo en ligne
+{:.ten.columns.post-content}
 
 En route pour le village de Omalo au sommet des montagnes de Tusheti
 {:.sixteen.columns.post-quote}
