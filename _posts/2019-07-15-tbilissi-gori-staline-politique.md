@@ -1,4 +1,45 @@
 ---
 title: GEORGIE-Petit point historique de Tbilissi à Gori
+image: G-tbilissirussieoccupant.jpg
 ---
 
+Il est temps de laisser nos amis reprendre la route de l’Europe et de poursuivre notre voyage à deux vers Tbilissi. Capitale étirée dans une vallée le long de l’eau sur une dizaine de kilomètres, la ville hésite encore entre bâtiments modernes aux formes audacieuses et immeubles de traviole prêts à s’effondrer dans les ruelles étroites. 
+{:.ten.columns.post-content}
+<!--fin extrait-->
+
+{% include photo.html photo="G-tbilissicours.jpg" alt="Cour intérieure biscornue" %}
+
+TODO : ajouter photo de la ville avec les bains et du bazar
+TODO les mettre en ligne
+
+
+Tbilissi : capitale à l'histoire en plein tumulte
+{:.sixteen.columns.post-quote}
+
+Nous y sentons une ambiance paradoxale. Les touristes dévorent la vieille ville, les attractions et les excursions. Alors qu’à la nuit tombée, les citoyens occupent le parvis du parlement pour crier leur soif de liberté et d’Europe. Pour comprendre le contexte, voici un petit rappel historique.
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-tbilissiporte.jpg" alt="Porte peinte biscornue" %}
+
+
+En 1991, la Géorgie s’extrait de l’URSS mais est extrêmement corrompue, une époque de chacun pour soi s’installe. En 2005, le président Saakashvili redonne espoir en éradiquant la corruption au sein de la police, instaurant une période de sécurité et de confiance en le futur. Mais en 2008, l’Ossetie du Sud et l’Abkazie souhaitent leur indépendance. La Géorgie combat les révolutionnaires qui sont soutenus par l’armée russe. Le pays perd ces deux régions qui représentent 20% du territoire. Les relations avec la Russie se dégradent fortement mais les touristes russes continuent à affluer sur les côtes géorgiennes.
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-tbilissirussieoccupant.jpg" alt="Image de manifestation anti Russe" %}
+
+En juin 2019, une semaine après notre arrivée en Géorgie, un député russe prend la parole (en russe) sur les ondes géorgiennes, assis dans le parlement de Tbilissi. Une provocation absolue pour les géorgiens pro-Europe, qui fait ressurgir la guerre de 2008 dans les esprits. Les manifestants occupent le parvis du parlement, réprimés par la police provoquant de nombreux blessés et poussant les représentants russes à quitter le pays en urgence.
+Poutine annonce alors que les ressortissants russes sont invités à quitter le pays sous 10 jours. Et à partir du 7 juillet, il met en place un embargo commercial (vin, miel...) et tous les vols touristiques reliant Russie et Géorgie sont coupés. C’est dans cette ambiance que nous visitons le pays, avec donc très peu de touristes, mais une certitude : le peuple géorgien ne tient pas les citoyens russes pour responsables ; tout cela n’est que manipulation politique dit-on...
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-tbilissivivant.jpg" alt="Pianiste parlant avec une femme loufoque dans la rue" %}
+
+
+Visite à Staline dans sa ville natale de Gori
+{:.sixteen.columns.post-quote}
+
+Ville natale de Staline, elle affiche fièrement un musée retraçant sa vie, seule attraction touristique du bourg. 
+Le musée dédié à Staline est invraisemblable ; culte de la personnalité, nous y voilà ! Portraits imposants et objets fétiches retracent la vie du héros. Ballades au bras de sa vieille mère, scolarité exemplaire, modernité de son train climatisé, sa vie est mise en scène dans une succession de salles où tout est écrit en russe et géorgien, nous y sommes analphabètes. En lisant tout de même quelques textes sur notre smartphone, nous nous rappelons les secrets politiques, la propagande, les goulags et les crimes commis par ce dictateur. À Gori, on aime Staline.
+{:.ten.columns.post-content}
+
+En flânant dans les rues, nous découvrons des bâtiments décrépis, des maisons abandonnées et des portails rouillés cachant des cours désertes. La vigne fait de l’ombre aux chiens écrasés par la chaleur et nous ne croisons pas âme qui vive. Ce n’est qu’à la nuit tombée que l’activité reprend. Les habitants se retrouvent dans le vieux parc d’attraction défraîchi, cherchant la fraîcheur du soir avant de se serrer autour des tables des restaurants voisins. Staline semble alors n’être qu’un vieux mythe oublié.
+{:.ten.columns.post-content}

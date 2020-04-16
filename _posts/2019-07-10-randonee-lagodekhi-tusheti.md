@@ -1,5 +1,6 @@
 ---
 title: GEORGIE-Randonnées dans les hautes montagnes de Lagodeghi et Tusheti
+image: G-lagovue.jpg
 ---
 
 Nos amis français Aline et Benoît nous rejoignent pour trois semaines. Première étape de ce voyage ensemble : le Grand Caucase à l’Est du pays, au carrefour avec la Russie et l’Azerbaïdjan. Nous partons pour trois jours de randonnée itinérante.
