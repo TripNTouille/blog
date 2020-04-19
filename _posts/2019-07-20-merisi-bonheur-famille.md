@@ -40,6 +40,10 @@ Pour les trois mois estivaux, petit-enfants et anciens montent avec leurs vaches
 En fin de journée, ils grimpent au sommet de la montagne marquant la frontière avec la Turquie pour y contempler le coucher de soleil. Une fois la nuit tombée, on se rassemble dans les maisonnettes et l’on chante jusqu’à en perdre sa voix...
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-merisicouchersoleil.jpg" alt="Coucher de soleil au sommet de la montagne" %}
+{% include photo.html photo="G-merisiparentsmontagne.jpg" alt="Photo de famille dans la maison de montagne" %}
+{% include photo.html photo="G-merisivaiselleenmontagne.jpg" alt="Atelier vaisselle sur le balcon" %}
+
 
 Le village qui chante
 {:.sixteen.columns.post-quote}
