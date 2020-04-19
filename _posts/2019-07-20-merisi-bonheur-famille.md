@@ -6,7 +6,7 @@ Après ces pérégrinations politiques, nous partons vivre dans une famille au s
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
-
+ 
 
 {% include photo.html photo="G-merisisylvaindort.jpg" alt="Sylvain est endormi dans un lit donnant sur les nuages" %}
 {% include photo.html photo="G-merisichaussures.jpg" alt="Chaussures sèchant sur la clôture du jardin en pente" %}
@@ -37,12 +37,24 @@ Khatia nous embarque dans sa montagne ; à 3 heures de marche et 1 000 mètres a
 Pour les trois mois estivaux, petit-enfants et anciens montent avec leurs vaches et emménagent dans leur cabane de bois surplombant l’étable. Les éviers en céramique reliés à la source glacée sont suspendus à l’étage, la famille partage deux chambres et une pièce commune où l’on s’entasse autour du poêle pour déguster les fromages, beurres et yaourts fraîchement préparés. À l’aube, les enfants mènent le troupeau dans les pâtures avant de se retrouver pour des parties de volley sur un terrain bricolé.
 {:.ten.columns.post-content}
 
+
+{% include photo.html photo="G-merisiparentsmontagne.jpg" alt="Photo de famille dans la maison de montagne" %}
+{% include photo.html photo="G-merisivaiselleenmontagne.jpg" alt="Atelier vaisselle sur le balcon" %}
+{% include photo.html photo="G-merisicouchersoleil.jpg" alt="Coucher de soleil au sommet de la montagne" %}
+
+TODO : aligner photos
+{:.ten.columns.post-content}
+
 En fin de journée, ils grimpent au sommet de la montagne marquant la frontière avec la Turquie pour y contempler le coucher de soleil. Une fois la nuit tombée, on se rassemble dans les maisonnettes et l’on chante jusqu’à en perdre sa voix...
 {:.ten.columns.post-content}
 
-{% include photo.html photo="G-merisicouchersoleil.jpg" alt="Coucher de soleil au sommet de la montagne" %}
-{% include photo.html photo="G-merisiparentsmontagne.jpg" alt="Photo de famille dans la maison de montagne" %}
-{% include photo.html photo="G-merisivaiselleenmontagne.jpg" alt="Atelier vaisselle sur le balcon" %}
+
+{% include photo.html photo="G-merisicabanemontagne.jpg" alt="Cabane en montagne" %}
+{% include photo.html photo="G-merisichantmontagne.jpg" alt="Groupe de chanteurs dans une maison à la tombée de la nuit" %}
+{% include photo.html photo="G-merisifemmesmontagnes.jpg" alt="3 générations de femmes se retrouvent autour des chanteurs en montagne" %}
+
+TODO : aligner photos
+{:.ten.columns.post-content}
 
 
 Le village qui chante
@@ -56,6 +68,13 @@ Trois voix qui s’assemblent tel un puzzle avec trois mélodies dissonantes à 
 
 Chanter, c’est la vie ! Tout comme manger en Géorgie. C’est donc naturellement lors du Supra (dîner) que les plus belles chansons sont entonnées autour d’une table chargée de plats empilés et de verres débordant de vin et de Chacha. C’est le Tamada qui lance l’air et les convives se calent sur les trois voix pour faire vivre la chanson.
 Et pour l’anecdote, Merisi a eu un effet magique sur nous : Sylvain, guitare à la main a fait chanter Julie chaque jour et à notre départ, tout le village se joignait à nous sur le refrain de « Aux champs Élysées ».
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-merisi-musique.jpg" alt="Jemal joue des musiques populaires géorgiennes" %}
+{% include photo.html photo="G-merisicornemuse.jpg" alt="Homme jouant de la cornemuse" %}
+{% include photo.html photo="G-merisisylvainguitare.jpg" alt="Sylvain à la guitare" %}
+
+TODO : aligner photos
 {:.ten.columns.post-content}
 
 
