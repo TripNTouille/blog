@@ -6,12 +6,27 @@ Après ces pérégrinations politiques, nous partons vivre dans une famille au s
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
+
+
+{% include photo.html photo="G-merisisylvaindort.jpg" alt="Sylvain est endormi dans un lit donnant sur les nuages" %}
+{% include photo.html photo="G-merisichaussures.jpg" alt="Chaussures sèchant sur la clôture du jardin en pente" %}
+
+
+TODO : aligner photos
+{:.ten.columns.post-content}
+
 Nous y rencontrons Jemal, chef de famille faisant vibrer la vallée de sa voix rauque en entonnant les chants traditionnels géorgiens ; Manana, notre maman géorgienne tout sourire et délicieuse cuisinière faisant chauffer les fourneaux ; leur énergique fille Khatia qui, du haut de ses 15 ans est devenue notre amie, interprète - avec son anglais parfait - mais aussi professeur de chant !
 {:.ten.columns.post-content}
 
 Quadriller la forêt en quête de champignons, dévaliser les pruniers des voisins pour cuisiner la célèbre sauce Tkemali et profiter des douces soirées avec les nombreux élèves passionnés de musique et venant des quatre coins du monde. Nous nous sentons dans une bulle de bonne humeur, perchés sur une colline brumeuse avec un potager en pente nous offrant des tonnes de concombres, légumes incontournables de la cuisine géorgienne dont nous vous partageons les secrets...
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-merisichampignon.jpg" alt="tout le monde nettoie les champignons" %}
+{% include photo.html photo="G-merisikhatiafarine.jpg" alt="Khatia tamise la farine de maïs" %}
+{% include photo.html photo="G-merisikhikali.jpg" alt="Atelier khinkhali" %}
+
+TODO : aligner photos
+{:.ten.columns.post-content}
 
 La vie en montagne
 {:.sixteen.columns.post-quote}
