@@ -30,6 +30,9 @@ Dans cette région, on parle un dialecte particulier, les visages sont marqués 
 {% include photo.html photo="G-svanetipaysagemonts.jpg" alt="En haut des montagnes" %}
 {% include photo.html photo="G-svanetisylvainmarche.jpg" alt="Sylvain en randonnée" %}
 
+TODO : aligner photos
+{:.ten.columns.post-content}
+
 TODO : lien géographique vers camping familial
 {:.ten.columns.post-content}
 
