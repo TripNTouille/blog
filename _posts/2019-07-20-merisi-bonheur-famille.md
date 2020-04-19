@@ -71,8 +71,10 @@ Et pour l’anecdote, Merisi a eu un effet magique sur nous : Sylvain, guitare �
 {:.ten.columns.post-content}
 
 {% include photo.html photo="G-merisi-musique.jpg" alt="Jemal joue des musiques populaires géorgiennes" %}
+{% include photo.html photo="G-merisihommehereux.jpg" alt="Homme heureux en plein chant" %}
 {% include photo.html photo="G-merisicornemuse.jpg" alt="Homme jouant de la cornemuse" %}
 {% include photo.html photo="G-merisisylvainguitare.jpg" alt="Sylvain à la guitare" %}
+
 
 TODO : aligner photos
 {:.ten.columns.post-content}
@@ -86,6 +88,14 @@ Ce matin, nous avons croisé Viola, la maîtresse de l’école, accompagnée de
 {:.ten.columns.post-content}
 
 Avec son sourire vivant elle nous fait comprendre que l’école, c’est chouette; quel luxe d’avoir un professeur particulier. Pas question de fermer cette classe, l’année prochaine les gamins de Zaza et Roin seront assez grands pour rejoindre les bancs de l’école et grossir l’effectif à nouveau.
+{:.ten.columns.post-content}
+
+{% include photo.html photo="G-merisininibulle.jpg" alt="Nini fait des bulles de savon" %}
+{% include photo.html photo="G-merisiviolaecole.jpg" alt="Viola la maîtresse prepare ses cours" %}
+{% include photo.html photo="G-merisininiecole.jpg" alt="Nini tout sourir à son bureau d'écolier" %}
+
+
+TODO : aligner photos
 {:.ten.columns.post-content}
 
 
