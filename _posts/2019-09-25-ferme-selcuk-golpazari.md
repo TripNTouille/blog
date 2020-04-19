@@ -1,5 +1,6 @@
 ---
 title: TURQUIE - Rencontre avec Selçuk dans sa ferme permaculture à Gölpazari
+image: T-selcukbazar.jpg
 ---
 
 Nous poursuivons notre traversée du pays et un bus tout confort nous mène jusqu’à Gölpazarı, petite bourgade de 7 000 habitants à 200 km au sud d’Istanbul où nous rencontrons Selçuk qui nous accueille pendant deux semaines.
