@@ -10,6 +10,13 @@ La route nous rappelle en ce début du mois de septembre, nous passons la fronti
 Notre petit bus avale les kilomètres ; les collines couvertes des feuilles vertes du çhai laissent place aux noisetiers. La Turquie est le plus gros producteur de noisettes au monde (70%). Lors d’une escale dans la ville balnéaire de Giresun, nous sommes happés par l’activité frénétique autour de ces petits fruits à coque. Etalés par milliards sur des bâches en plastique, les noisettes sèchent sur les trottoirs de la ville. Allongées dans cette mer de billes chocolat, des dizaines de femmes trient les fruits pour en extraire les vides avant de les mettre dans des sacs qui partiront pour les usines de confiseries européennes. Au gré des rues les ambiances éclatantes impriment notre rétine. Boutiques de tissus dorés, céramiques bleues et paniers d’épices ocre et rouge, la Turquie est aveuglante de couleurs.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="T-noisette.jpg" alt="Des millions de noisettes sèchent sur les trottoirs" %} 
+{% include photo.html photo="T-couleurepices.jpg" alt="Couleurs dorées des épices sur le marché" %}
+{% include photo.html photo="T-bazarpiment.jpg" alt="Piments de toutes taille sur le marché" %}
+
+TODO : photo en ligne
+{:.ten.columns.post-content}
+
 L’année dernière à l’automne, nous découvrions les paysages lunaires et lumineux de Cappadoce. Nous y revoilà ! Même endroit, pile un an plus tard.
 {:.ten.columns.post-content}
 

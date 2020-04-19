@@ -7,7 +7,7 @@ Autour d’un dîner, Jemal et Manana nous racontent avec humour qu’en Svaneti
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
-Ils nous conseillent en tout cas de partir à la rencontre d’Ana et Eka dans cette région où les sommets atteignent 4 800 m d’altitude. Deux soeurs d’un trio aux chants envoûtants faisant elles aussi vivre la musique traditionnelle de leur région.
+Ils nous conseillent en tout cas de partir à la rencontre d’Ana et Eka dans cette région où les sommets atteignent 4 800 m d’altitude. Deux soeurs d’un trio aux chants envoûtants faisant elles aussi vivre la musique traditionnelle de leur région. 
 {:.ten.columns.post-content}
 
 {% include photo.html photo="G-svanetidanslacuisine.jpg" alt="Deux soeurs en cuisine" %}
@@ -32,7 +32,7 @@ Dans cette région, on parle un dialecte particulier, les visages sont marqués 
 
 TODO : aligner photos
 {:.ten.columns.post-content}
-
+ 
 TODO : lien géographique vers camping familial
 {:.ten.columns.post-content}
 
