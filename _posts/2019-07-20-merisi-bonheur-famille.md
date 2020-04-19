@@ -1,5 +1,6 @@
 ---
 title: 'GEORGIE - Merisi : le village qui chante et la maison du bonheur'
+image: G-merisi-musique.jpg
 ---
 
 Après ces pérégrinations politiques, nous partons vivre dans une famille au sud du pays, à la frontière turque. Les deux semaines initialement prévues se transforment rapidement en six semaines où nous partageons la joyeuse vie du village de Merisi. Accrochée à la montagne, cette Guesthouse magique regorge de chanteurs et de passionnés de musique.
@@ -14,6 +15,10 @@ Après ces pérégrinations politiques, nous partons vivre dans une famille au s
 
 TODO : aligner photos
 {:.ten.columns.post-content}
+
+TODO : mettre le lien vers la guesthouse
+{:.ten.columns.post-content}
+
 
 Nous y rencontrons Jemal, chef de famille faisant vibrer la vallée de sa voix rauque en entonnant les chants traditionnels géorgiens ; Manana, notre maman géorgienne tout sourire et délicieuse cuisinière faisant chauffer les fourneaux ; leur énergique fille Khatia qui, du haut de ses 15 ans est devenue notre amie, interprète - avec son anglais parfait - mais aussi professeur de chant !
 {:.ten.columns.post-content}
@@ -37,6 +42,8 @@ Khatia nous embarque dans sa montagne ; à 3 heures de marche et 1 000 mètres a
 Pour les trois mois estivaux, petit-enfants et anciens montent avec leurs vaches et emménagent dans leur cabane de bois surplombant l’étable. Les éviers en céramique reliés à la source glacée sont suspendus à l’étage, la famille partage deux chambres et une pièce commune où l’on s’entasse autour du poêle pour déguster les fromages, beurres et yaourts fraîchement préparés. À l’aube, les enfants mènent le troupeau dans les pâtures avant de se retrouver pour des parties de volley sur un terrain bricolé.
 {:.ten.columns.post-content}
 
+TODO : lien géographique vers le sommet de la montagne
+{:.ten.columns.post-content}
 
 {% include photo.html photo="G-merisiparentsmontagne.jpg" alt="Photo de famille dans la maison de montagne" %}
 {% include photo.html photo="G-merisivaiselleenmontagne.jpg" alt="Atelier vaisselle sur le balcon" %}
@@ -61,6 +68,9 @@ Le village qui chante
 {:.sixteen.columns.post-quote}
 
 Chez les Turmanidze, on chante de génération en génération. Amiran, le grand père, Jemal le père, Besso, Rezo les fils, Lloyd, le fils adoptif, Khatia la cadette, Manana de la cuisine, Murman dans le potager... tout le monde chante dans cette montagne. Pendant ces six semaines, ils nous font découvrir le chant polyphonique géorgien ainsi que les instruments traditionnels du pays.
+{:.ten.columns.post-content}
+
+TODO : ajouter une vidéo de chant géorgien en famille
 {:.ten.columns.post-content}
 
 Trois voix qui s’assemblent tel un puzzle avec trois mélodies dissonantes à nos oreilles non averties : la basse (bani) bourdonne dans les oreilles, quant aux première et seconde voix, elles donnent le ton, poussent la mélodie et montent dans les aigus à tour de rôle.
@@ -114,15 +124,28 @@ Nous attendons fiévreusement l’arrivée de ces légumes frais, aqueux et croq
 Demain à trois heures du matin, pour la troisième fois cette semaine, nous sauterons dans le Machroutka (mini bus) pour aller les vendre au Bazar de Batumi. La nuit est chaude et brumeuse, le ramassage commence à Merisi. Devant chaque maison, le son strident du klaxon fait débouler une famille : les hommes en pyjama, lampe frontale sur la tête, aident le chauffeur à charger les sacs de concombres tandis que les femmes endormies embarquent pour dégringoler la montagne et rejoindre la ville au bord de la mer noire à deux heures de là.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-merisimananasylvinjardin.jpg" alt="Sylvain et Manana cueillent les concombres dans le jardin en pente" %}
+{% include photo.html photo="G-merisijulieconcombre.jpg" alt="Julie trie les concombres" %}
+
+
+TODO : aligner photos
+{:.ten.columns.post-content}
+
 Sur la route, on somnole, on rigole aussi, c’est encore une aventure que l’on vit tous ensemble. Une fois dans la ville, une tension s’installe: ce matin, chacun joue une partie du business faisant vivre la famille. On dépose les sacs de concombres tant chéris sur le bitume tiède du bord de route, il est cinq heures et l’on attend le lever du soleil. Les premiers négociants repèrent les produits à la lumière de leur téléphone, ils tentent d’impressionner les jardiniers en prenant un ton supérieur et critique, cherchant à faire baisser les prix.
+{:.ten.columns.post-content}
+
+TODO : lien géographique vers marché Batumi 
 {:.ten.columns.post-content}
 
 Mais Merisi ne l’entend pas de cette oreille, Manana et Viola entrent en jeu, malgré la fatigue qui pèse sur les épaules après les récoltes et le lever en pleine nuit. Elles lancent les prix, ne cèdent pas et gèrent les ventes des voisines qui n’ont pas le courage de tenir tête aux terribles citadins. On ne baissera pas les bras pour cette dernière étape et on restera tous ensemble jusqu’à ce que le dernier concombre soit vendu au juste prix. Ensuite, on rentrera à Merisi pour boire un bon café entre voisins.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-merisiteamconcombre.jpg" alt="Les habitants de Merisi négocient les ventes sur le Bazar" %}
+
+
 
 Hommage aux voisins de Merisi
-{:.sixteen.columns.post-quote}
+{:.sixteen.columns.post-quote} 
 
 Être voisin à Merisi est une puissance inconnue pour nous.
 Être voisin à Merisi, c’est s’aider, s’écouter, s’accueillir.
@@ -133,5 +156,9 @@ Et lorsque l’orage fait tomber les lignes de concombre de Iamze vivant seule, 
 Si la vache de Jemal se casse une patte dans la Montagne, c’est tous les voisins qui se mobilisent pour la remonter du ravin avant de mettre fin à ses souffrances et de faire oublier ce drame à la famille en chantant.
 {:.ten.columns.post-content}
 
+{% include photo.html photo="G-merisininoprunes.jpg" alt="Nino partage ses prunes" %}
+
 À Merisi, on se rend visite plusieurs fois par jour : On boit le café, mange de la pastèque, partage les petits tracas, grands bonheurs et on épluche les patates ensemble. Ces incroyables voisins nous ont ouvert leurs portes aussi vite que Jemal et Manana pour café, Chacha et cours de cuisine. Nous souhaitons leur rendre hommage, tel un Tamada portant un toast ! Chers voisins de Merisi, nous tâcherons d’insuffler votre énergie altruiste là où nous vivrons dans le futur ! Madloba ! Merci !
 {:.ten.columns.post-content}
+
+{% include photo.html photo="G-merisimananayamze.jpg" alt="Yamze la voisine vient prendre le café avec Manana" %}
