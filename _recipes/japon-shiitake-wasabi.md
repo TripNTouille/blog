@@ -19,10 +19,10 @@ Comme les cèpes, les Shiitake se sèchent pour trouver leur puissance en cuisin
 Ingrédients :
 {:.recipe-ingredients}
 
-- huile d'olive
-- beurre doux
+-  Huile d’olive
+- Beurre doux
 - Shiitake
-- quelques feuilles de Wasabi ou de salade
+- Quelques feuilles de Wasabi ou de salade
 </div>
 
 <div class="ten columns" markdown="1">
