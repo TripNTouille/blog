@@ -4,13 +4,16 @@ image: I-spritz.jpg
 ---
 
 Nous quittons la campagne turque via Istanbul, ville tentaculaire, le lendemain d’un tremblement de terre. Les plaques tectoniques bougent dans la mer de Marmara et il est temps pour nous de rejoindre la plaque européenne.
-{:.ten.columns.post-content}
+{:.ten.columns.post-content}  
+
 <!--fin extrait-->
 
-{% include photo.html photo="T-routeistanbul.jpg" alt="Route vers Istanbul" %}
+
 
 Les éléments se déchaînent sur notre passage de frontière. En pleine nuit, des trombes d’eau s’abattent, des éclairs déchirent le ciel donnant une dimension dramatique à notre retour. Mais les paysages doux de la Grèce nous accueillent au réveil. Après deux jours de bus puis de bateau, nous posons pied sur la côte italienne à Ancône, juste à côté de chez Tim qui nous avait accueilli l’an dernier.
 {:.ten.columns.post-content}
+
+{% include photo.html photo="T-routeistanbul.jpg" alt="Route vers Istanbul" %}
 
 Ce joyeux British expatrié en Italie depuis 20 ans vient nous chercher à la gare dans sa mini Fiat décapotable. Nous lançons nos sacs par-dessus bord et filons dans les collines, direction sa maison et sa vue à couper le souffle. Après un peu plus d’un an, l’accueil spontané de notre ami nous enthousiasme. Nous partageons une semaine légère et chaleureuse. Pendant que Sylvain taille les arbres, Julie remplit le congélateur de Tim avec des petits plats aux goûts du voyage. Dolce Vita, nous voilà !
 {:.ten.columns.post-content}
@@ -59,5 +62,5 @@ Un Papa dans la lune derrière son objectif et une Maman tout sourire, jouant la
 C’est tous ensemble que nous commençons la récolte des olives. Grimpant dans les arbres, nous peignons leurs branches pour en faire chuter ces petites pierres précieuses et en récupérer leur huile parfumée d’un vert émeraude. Et tandis que nous chantons des airs géorgiens dans l’oliveraie, nous observons nos parents papoter avec nos hôtes et se lier d’amitié. Voyage au goût de rencontre, tu nous auras portés dans des aventures humaines et épicées. Voyage au bout du monde, nous rentrons en France libres, heureux et optimistes.
 {:.ten.columns.post-content}
 
-{% include photo.html photo="I-cypres.jpg" alt="Haie de cyprès" %}
+{% include photo.html photo="I-cypres.jpg" alt="Haie de cyprès" %} 
 {% include photo.html photo="I-spritz.jpg" alt="Nous trinquons à l'Apérol" %}
