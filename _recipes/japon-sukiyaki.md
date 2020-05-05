@@ -1,5 +1,7 @@
 ---
 title: JAPON - Sukiyaki
+country: japon
+course: plat
 ---
 
 La fondue japonaise vue par Yoshi
