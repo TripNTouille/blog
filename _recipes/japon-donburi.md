@@ -18,6 +18,9 @@ Ce plat végétarien japonais revisité par Iwao se compose de riz et de plusieu
 TODO changer la photo avec la nôtre
 {:.ten.columns}
 
+TODO règler ce bordel de colones pas calées
+{:.ten.columns}
+
 <div class="four columns" markdown="1">
 Ingrédients pour le 1er mélange :
 {:.recipe-ingredients}
