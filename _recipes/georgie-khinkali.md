@@ -1,5 +1,5 @@
 ---
-title: Khinkali, la fièrté géorgienne
+title: Khinkhali, la fièrté géorgienne
 country: georgie
 course: plat
 post:
@@ -20,14 +20,12 @@ Ingrédients pour la pâte :
 {:.recipe-ingredients}
 
 - une grosse poignée de sel
-- 2kg de farine
-- eau tiède
+- 2 kg de farine
+- 4-5 verres d'eau tiède
 </div>
 
 <div class="ten columns" markdown="1">
-1. Travaillez la pâte en incorporant l'eau petit a petit jusqu'à obtenir un mélange dense et ferme.
-
-2. Malaxez une dizaine de minutes.
+Mélangez farine et sel puis incorporez l’eau petit à petit jusqu’à obtenir un mélange dense et ferme. Malaxez une dizaine de minutes à la main.
 </div>
 
 <div class="sixteen columns">
@@ -37,23 +35,21 @@ Ingrédients pour la pâte :
 Ingrédients pour la farce :
 {:.recipe-ingredients}
 
-- 1kg de porc haché
-- 10-15 gousses d'ail
-- un gros bouquet de coriandre et persil
+- 1 kg de porc haché
+- 10-15 gousses d’ail
+- 1 gros bouquet de coriandre et de persil
 - 2 gros oignons
 - 1 c à soupe de sel de Svaneti
-- 1 c à soupe de poudre d'Adjika
+- 1 c à soupe de poudre d’Adjika
 - 1 c à soupe de poivre noir en poudre
-- 1 c à soupe d'épices Géorgiens
+- 1 c à soupe d’épices géorgiennes
 - 2 c à soupe de sel blanc
 - 3 c à soupe de dzira
 - 1 c à soupe de coriandre en poudre
 </div>
 
 <div class="ten columns" markdown="1">
-1. Mélangez le tout au mixer
-
-2. Ajouter de l'eau bouillante (qui précuit la viande et donnera le bouillon) pour avoir environ 2/3 de mélange et 1/3 de liquide.
+Mélangez tous les ingrédients au mixeur et ajoutez-y de l’eau bouillante pour avoir environ 2/3 de farce et 1/3 de liquide. Réservez.
 </div>
 
 <div class="sixteen columns">
@@ -65,13 +61,9 @@ Former les Khinkali
 </div>
 
 <div class="ten columns" markdown="1">
-1. Découpez des patrons de la taille d'une balle de golf et applatissez-les, etirez-les au rouleau à pâtisserie pour obtenir des disques de 15cm de diamètre.
+Découpez des pâtons de la taille d’une balle de golf, étalez-les au rouleau à pâtisserie pour obtenir des disques de 15 cm de diamètre. Disposez un disque sur une coupelle un peu creuse, mettez-y une cuillère à soupe de farce et une de bouillon. Remontez les bords en les pressant les uns contre les autres pour créer des plis. Le résultat ressemble à une gousse d’ail.
 
-2. Disposez un disque sur une coupelle et mettez-y une cuillerée à soupe de farce et une de bouillon.
-
-3. Remontez les bords en les pressant les uns aux autres pour créer des plis (comme sur la vidéo de Manana la pro !).
-
-4. Le résultat ressemble à une gousse d'ail.
+TODO: mettre lien youtube vidéo
 </div>
 
 <div class="sixteen columns">
@@ -83,11 +75,7 @@ La cuisson
 </div>
 
 <div class="ten columns" markdown="1">
-1. Faites bouillir une grosse quantité d'eau salée, ajoutez-y de l'huile pour éviter qu'ils collent.
-
-2. Plongez les khinkali dans l'eau bouillonnante et laissez-les cuire 15 minutes. Ils doivent remonter à la surface.
-
-3. Sortez-les avec une passoire et disposez les délicatement sur un plat.
+Faites bouillir une casserole d’eau salée avec un filet d’huile. Plongez les Khinkali dans l’eau bouillante et laissez-les cuire 15 minutes. Ils doivent remonter à la surface. Sortez-les avec une passoire et disposez-les délicatement sur un plat.
 
 4. Les Khinkali se mangent avec les doigts, saupoudrés de poivre noir et accompagnés de Chacha. On croque dans la base et aspire bruyamment le jus avant de manger la farce.
 

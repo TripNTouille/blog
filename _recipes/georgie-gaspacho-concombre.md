@@ -1,5 +1,5 @@
 ---
-title: Gaspacho de concombre
+title: GEORGIE - Gaspacho de concombre
 country: georgie
 course: entree
 post:
@@ -20,20 +20,20 @@ Ingrédients pour 6 personnes :
 {:.recipe-ingredients}
 
 - 2 grands concombres
-- 3 gousses d'ail
-- 1 tasse de lait ou yaourt ou kéfir
-- 1 pincée de Sel
-- 1 pincée de Poivre
-- 1 c à café de Cumin
+- 3 gousses d’ail
+- 1 tasse de lait, de yaourt ou de kéfir
+- 1 pincée de sel
+- 1 pincée de poivre
+- 1 c à café de cumin
 - 3 brins de menthe
 - 2 brins de persil
 - 5-6 feuilles de basilic pour décorer
 </div>
 
 <div class="ten columns" markdown="1">
-1. Épluchez les concombres.
+1 Lavez et épluchez les concombres.
 
-2. Mixez les avec l'ail pressé, le yaourt, le sel, le poivre, le cumin, la menthe et le persil.
+2. Mixez-les avec l’ail pressé, le yaourt, le sel, le poivre, le cumin, la menthe et le persil.
 
-3. Déposez le basilic au dessus.
+3. Laissez reposer le mélange au frais 1 ou 2 heures puis servez en déposant le basilic sur le dessus avec quelques croûtons frottés à l’ail.
 </div>

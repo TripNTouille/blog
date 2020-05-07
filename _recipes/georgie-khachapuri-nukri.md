@@ -1,5 +1,5 @@
 ---
-title: Khachapuri Imeruli
+title: GEORGIE - Khachapuri Imeruli
 country: georgie
 course: plat
 post:
@@ -19,18 +19,22 @@ Le khachapuri est un plat emblématique géorgien, vous en trouverez plusieurs d
 Ingrédients :
 {:.recipe-ingredients}
 
-- 1kg de farine
-- 1 cuillère de levure
-- 1 cuillère de sel
-- de l'eau tiède
+- 1 kg de farine
+- 1 c à café de levure de boulanger
+- 1 c à café de sel
+- 200-300 mL d’eau tiède
+- 600 g de feta
+- 400 g de mozzarella
+- 6 oeufs
+- huile de tournesol
 </div>
 
 <div class="ten columns" markdown="1">
-1. Mélangez la farine, le sel et la levure puis ajoutez de l'eau. Travaillez la pâte au poing 5 minutes puis laissez reposer une heure à température ambiante.
+1. Mélangez la farine, le sel et la levure puis ajoutez l’eau progressivement pour obtenir une pâte élastique sans être collante. Travaillez la pâte au poing 5 minutes puis laissez reposer une heure à température ambiante.
 
-2. Prennez une boule de pâte de la taille d'un poing. Etirez-la à la main sur 15cm, farinez si besoin.
+2. Prenez une boule de pâte de la taille d’un poing. Étirez-la en rond à la main sur 15 cm, farinez si besoin.
 
-3. Déposez du fromage blanc râpé au milieu (une grosse poignée, plus il y en, meilleur c'est ! ) puis ramenez les bords pour former une bourse. Rentrez les bords vers l'intérieur puis retournez le chausson et étalez à l'aide d'un rouleau pour obtenir une pâte fine de 5mm.
+3. Déposez une grosse poignée du mélange de fromages émiettés au milieu du disque puis ramenez les bords de la pâte autour pour former une bourse (cf photo). Formez une boule et étalez-la à l’aide d’un rouleau ou des poings pour obtenir une galette ronde d’1 cm d’épaisseur.
 
-4. Cuire recto verso dans une poêle avec un bon fond d'huile. Laissez au moins 5 minutes sur chaque côté à petit feu pour que ça dore.
+4. Avant de l’enfourner sur une taule bien huilée à 200°C, pincez la pâte avec 2 doigts sur le dessus et dans le trou faites couler un oeuf battu. Laissez cuire 10 min puis coupez en part et servez tiède.
 </div>

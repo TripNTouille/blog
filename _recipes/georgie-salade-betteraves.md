@@ -1,5 +1,5 @@
 ---
-title: Salade de betteraves
+title: GEORGIE - Salade de betteraves
 country: georgie
 course: entree
 post:
@@ -19,18 +19,16 @@ Salade de bettraves rouges acidulée.
 Ingrédients :
 {:.recipe-ingredients}
 
-- 10 betteraves cuites al dente
-- 1 bouquet coriandre
+- 10 betteraves cuites Al dente
+- 1 bouquet de coriandre
 - 2 pincées de sel de Svaneti
 - 1 pincée de poivre moulu
 - 1 oignon haché grossièrement
-- 5 c à soupe de sauce tkhemali
+- 5 c à soupe de sauce tkemali
 </div>
 
 <div class="ten columns" markdown="1">
-1. Coupez les betteraves en rondelles d'environ 5 mm d'épaisseur.
+Coupez les betteraves en rondelles d’environ 5 mm d’épaisseur. Ajoutez-y la coriandre hachée, le sel, le poivre, l’oignon et la tkemali. Mélangez le tout.
 
-2. Ajoutez-y la coriandre hachée, le sel, le poivre, l'oignon et la tkhemali.
-
-3. Mélangez le tout.
+TODO mettre lien vers recettes de la sauce tkemali
 </div>
