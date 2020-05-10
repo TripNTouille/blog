@@ -1,5 +1,6 @@
 ---
 title: RUSSIE - Bortsch
+country: russie
 ---
 
 Soupe rouge vif grâce aux conseils d’Olga

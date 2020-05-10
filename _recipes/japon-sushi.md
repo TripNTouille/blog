@@ -1,5 +1,6 @@
 ---
 title: JAPON - Riz à Sushi
+country: japon
 ---
 
 La “sushi party” consiste à tout mettre sur la table et à laisser chacun composer ses sushis comme bon lui semble. Roulez votre feuille de nori en cône et fourrez-la de riz, poissons et légumes avant de la dévorer.
