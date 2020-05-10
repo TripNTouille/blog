@@ -1,5 +1,5 @@
 ---
-title: Poivrons farcis à la géorgienne
+title: GEORGIE - Poivrons farcis à la géorgienne
 country: georgie
 course: plat
 post:
@@ -20,33 +20,34 @@ Ingrédients :
 {:.recipe-ingredients}
 
 - 2 oignons hachés
-- 1,5 c à soupe de pâte d'Adjika
+- 1,5 c à soupe de pâte d’Adjika
 - 1 c à soupe de concentré de tomate
 - 1 c à soupe de concentré de poivron
 - 1,5 verre de riz blanc
-- 1 bouquet de pousse de poireau
+- 1 bouquet de pousses de poireau
 - 1 bouquet de persil
-- 1 bouquet de coriandre
+ - 1 bouquet de coriandre
 - 1/2 c à café de poivre noir
 - 1 pincée de sel de Svaneti
 - 1 pincée de sel blanc
-- 1 pincée de poudre d'adjika
-- 3 à 6 gousses d'ail
+- 1 pincée de poudre d’Adjika
+- 3 à 6 gousses d’ail
 - 15 à 20 petits poivrons verts
 </div>
 
+TODO mettre lien guesthouse
+</div>
+
 <div class="ten columns" markdown="1">
-1. Faites frire les oignons dans le l'huile de maïs 5 minutes.
+1. Faites frire les oignons dans l’huile de maïs 5 min.
+ 
+2. Ajoutez-y les pâtes de tomate, d’Adjika et de poivron, le riz et 1 verre d’eau. Laissez cuire 15 min.
 
-2. Ajoutez les pâtes de tomate, d'Adjika et de poivron. Ajoutez-y le riz et 1 verre d'eau. Laissez cuire 15 minutes.
+3. Ajoutez 4 poivrons hachés, un verre d’eau supplémentaire et les jeunes pousses de poireau hachées. Couvrez et laissez mijoter à feu très doux 10 min puis éteignez et laissez à couvert.
 
-3. Ajoutez 4 poivrons hachés, un verre d'eau supplémentaire et les jeunes pousses de poireau hachées. Couvrez et laissez mijoter à feu très doux 10 minutes.
+4. Ajoutez les sels, la poudre d’Adjika, le poivre, l’ail, la coriandre et le persil hachés, mélangez et éteignez le feu. Laissez tiédir.
 
-4. Ajoutez les sels, la poudre d'Adjika, le poivre, l'ail, la coriandre et le persil hachés, mélangez et éteignez le feu. Laissez tiédir à couvert.
+5. Parallèlement, ôtez la queue et les graines d’une 15aine de poivrons verts. Farcissez-les avec le mélange de riz et déposez-les sur une plaque de cuisson.
 
-5. Parallèlement, ôtez la queue et les graines d'une 15aine de poivrons verts.
-
-6. Farcissez-les avec le mélange de riz et déposez-les sur une plaque de cuisson.
-
-7. Enfournez-les 20-30 minutes à 160°C jusqu'à ce qu'ils soient tendres.
+6. Enfournez-les 20-30 min à 160°C jusqu’à ce qu’ils soient tendres.
 </div>
