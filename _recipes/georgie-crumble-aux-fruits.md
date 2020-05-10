@@ -19,6 +19,9 @@ Recettes très simple à préparer dans la majorité des pays étrangers.
 - 4-5 pommes ou 3 grosses poignées de prunes
 </div>
 
+TODO mettre ingrédients vers la gauche
+</div>
+
 <div class="ten columns" markdown="1">
 1. Dans un saladier, émiettez le beurre avec la farine, le sucre, le sel et la cannelle jusqu’à ce que le mélange soit sableux.
 
