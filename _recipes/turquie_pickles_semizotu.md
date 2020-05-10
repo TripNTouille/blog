@@ -1,5 +1,5 @@
 ---
-title: Pickles de semizotu
+title: TURQUIE - Pickles de semizotu
 country: turquie
 course: entree
 post:
@@ -9,7 +9,7 @@ image: https://lh3.googleusercontent.com/yR7Kdxq-7jkaYALH0ZSJy1i8pin6eZTVU3aU6rm
 
 Le semizotu (pourpier en français) est prisé en Turquie, on en trouve des bouquets vendus sur les marchés et il existe de nombreuses recettes qui vous permettrons de le déguster. Nous vous proposons ici sa version "pickles", que vous pourrez servir à l'apéro ou en condiment avec salade ou charcuterie !
 <!--fin extrait-->
-Pour en trouver chez nous, c'est simple et difficile à la fois : vous ne le trouverez que très rarement en vente, mais si vous regardez dans votre jardin, il y a de grande chance que vous en trouviez.
+	Pour en trouver chez nous, c'est simple et difficile à la fois : vous ne le trouverez que très rarement en vente, mais jetez un oeil dans votre jardin, il pousse comme de la mauvaise herbe...
 {:.ten.columns}
 
 ![semizotu ou pourpier]({{ page.image }})
@@ -19,27 +19,21 @@ Pour en trouver chez nous, c'est simple et difficile à la fois : vous ne le tro
 Ingrédients :
 {:.recipe-ingredients}
 
-- 1 gros bouquet de semizotu (ou pourpier)
-- 15 à 30 gousses d'ail selon vos goûts
-- de l'eau
-- du vinaigre de fruit
-- du sel
+- 1 gros bouquet de Semizotu (aussi appelé Pourpier en Europe)
+- 15 à 30 gousses d’ail selon vos goûts
+- De l’eau
+- Du vinaigre de cidre
+- 1 poignée de gros sel
 </div>
 
 <div class="ten columns" markdown="1">
-1. Nettoyez le semizotu : retirez les racines et les feuilles abîmées, gardez les branches fines entières.
+1. Nettoyez le Semizotu, retirez les racines et les feuilles abîmées. Gardez de petites branches entières.
 
-2. Faire bouillir de l'eau très salée dans une grande casserole.
+2. Faites bouillir 3 L d’eau très salée dans une grande casserole. Plongez-y les branches de Semizotu pendant 3 min pour les faire blanchir. Égouttez-les puis disposez-les dans des bocaux en les tassant légèrement sans les casser.
 
-3. Plongez-y les branches de semizotu pendant 3 minutes pour les faire blanchir.
+3. Faites un mélange de 2/3 d’eau froide et 1/3 de vinaigre de cidre. Remplissez les bocaux avec le liquide pour couvrir le Semizotu.
 
-4. Égoutez-les puis disposez-les dans des bocaux en les tassant légèrement sans les casser.
+4. Épluchez les gousses d’ail et écrasez-les au pilon. Disposez-en une grosse poignée au-dessus du mélange ainsi qu’une pincée de sel. Fermez et secouez pour lier le tout.
 
-5. Mélangez de l'eau froide 2/3 et du vinaigre (de pomme par exemple) 1/3. Remplissez les bocaux avec le liquide pour couvrir le semizotu.
-
-6. Épluchez les gousses d'ail et écrasez-les au pilon. Disposez-en une grosse poignée au-dessus du mélange ainsi qu'une pincée de sel.
-
-7. Fermez et secouez pour lier le tout. Laissez reposer 24h, ou plus.
-
-8. Degustez cette préparation comme un cornichon.
+5. Laissez reposer 24 heures ou plus. Dégustez cette préparation comme des cornichons.
 </div>
