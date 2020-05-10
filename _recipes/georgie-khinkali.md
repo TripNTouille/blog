@@ -1,5 +1,5 @@
 ---
-title: Khinkhali, la fièrté géorgienne
+title: GEORGIE - Les Khinkhalis, plat emblématique
 country: georgie
 course: plat
 post:
