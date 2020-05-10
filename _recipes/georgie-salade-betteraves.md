@@ -29,6 +29,7 @@ Ingrédients :
 
 <div class="ten columns" markdown="1">
 Coupez les betteraves en rondelles d’environ 5 mm d’épaisseur. Ajoutez-y la coriandre hachée, le sel, le poivre, l’oignon et la tkemali. Mélangez le tout.
+</div>
 
 TODO mettre lien vers recettes de la sauce tkemali
 </div>
