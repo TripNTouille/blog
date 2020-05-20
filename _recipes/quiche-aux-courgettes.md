@@ -2,14 +2,14 @@
 title: FRANCE - Quiche aux courgettes
 country: france
 course: plat
+image: R-choufleur.jpg
 ---
 
 Julie cuisine pendant que les hommes bossent à la cave !
 {:.ten.columns}
 <!--fin extrait-->
 
-![quiche aux courgettes]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{% include photo.html photo='R-choufleur.jpg' alt='quiche aux courgettes' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour la pâte :
@@ -19,7 +19,16 @@ Ingrédients pour la pâte :
 - 250 g de farine
 - 1 petit verre d’eau fraîche
 - 1 pincée de sel
+</div>
 
+
+<div class="ten columns" markdown="1">
+1. Préparez la pâte sablée. Disposez la farine dans un saladier avec le sel. Effritez-y le beurre et travaillez la pâte à la main pendant 2-3 min pour l’incorporer. Ajoutez de l’eau fraîche petit à petit jusqu’à obtenir une boule de pâte qui se tienne. Mettez-la au frais 1 heure.
+</div>
+
+<div class="sixteen columns"></div>
+
+<div class="four columns" markdown="1">
 Ingrédients pour la quiche :
 {:.recipe-ingredients}
 
@@ -35,13 +44,10 @@ Ingrédients pour la quiche :
 - 100 mL de lait
 </div>
 
-
 <div class="ten columns" markdown="1">
-1. Préparez la pâte sablée. Disposez la farine dans un saladier avec le sel. Effritez-y le beurre et travaillez la pâte à la main pendant 2-3 min pour l’incorporer. Ajoutez de l’eau fraîche petit à petit jusqu’à obtenir une boule de pâte qui se tienne. Mettez-la au frais 1 heure.
+1. Dans une poêle, faites caraméliser dans un fond d’huile de tournesol les oignons émincés. Ajoutez-y les lardons pour qu’ils saisissent puis les courgettes découpées en fines rondelles et l’ail pilé. Faites sauter le tout 5 min avec le sel, le poivre et le cumin.
 
-2. Dans une poêle, faites caraméliser dans un fond d’huile de tournesol les oignons émincés. Ajoutez-y les lardons pour qu’ils saisissent puis les courgettes découpées en fines rondelles et l’ail pilé. Faites sauter le tout 5 min avec le sel, le poivre et le cumin.
+2. Étalez la pâte pour qu’elle fasse environ 5 mm et disposez-la dans un moule à tarte préalablement beurré et fariné. Piquez le fond de tarte avec une fourchette. Disposez-y les légumes pré-cuits.
 
-3. Étalez la pâte pour qu’elle fasse environ 5 mm et disposez-la dans un moule à tarte préalablement beurré et fariné. Piquez le fond de tarte avec une fourchette. Disposez-y les légumes pré-cuits.
-
-4. Dans un bol, battez les deux oeufs, la crème, le lait avec une pincée de sel et de poivre. Versez ce mélange sur le fond de tarte. Enfournez à 180°C pendant 30-40 min. Lorsque le dessus est doré, sortez la tarte et parsemez-la des herbes grossièrement hachées.
+3. Dans un bol, battez les deux oeufs, la crème, le lait avec une pincée de sel et de poivre. Versez ce mélange sur le fond de tarte. Enfournez à 180°C pendant 30-40 min. Lorsque le dessus est doré, sortez la tarte et parsemez-la des herbes grossièrement hachées.
 </div>

@@ -36,5 +36,12 @@ Ingrédients pour 5-6 pots :
 2. Mettez la purée égoutée dans une casserole avec le sel, les gousses d’ail pressées, la coriandre hachée, la pâte de poivrons et les 4 épices. Chauffez le tout jusqu’à ébullition puis mettez-le en pot. Ce délice épicera votre hiver !
 </div>
 
-TODO : mettre lien vers la guesthouse mokvare
+<div class="sixteen columns">
 </div>
+
+<div class="four columns">
+&nbsp;
+</div>
+
+Découvrez la Gesthouse Mokvare sur [facebook](https://www.facebook.com/Mokvare/), c'est là que nous y avons découvert et appris cette recette.
+{:.ten.columns}

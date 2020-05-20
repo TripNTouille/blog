@@ -1,6 +1,8 @@
 ---
 title: JAPON - Riz à Sushi
 country: japon
+course: plat
+image: R-sushi.jpg
 ---
 
 La “sushi party” consiste à tout mettre sur la table et à laisser chacun composer ses sushis comme bon lui semble. Roulez votre feuille de nori en cône et fourrez-la de riz, poissons et légumes avant de la dévorer.
@@ -9,20 +11,18 @@ Chez Yukiko, nous avons roulé riz, légumes et poissons dans les algues à l’
 
 <!--fin extrait-->
 
-TODO mettre photo
+{% include photo.html photo='R-sushi.jpg' alt='sushi' %}
 
 <div class="four columns" markdown="1">
-Ingrédients pour le riz :
+Ingrédients pour le riz
 {:.recipe-ingredients}
 - 4 tasses de riz à sushi
 - 5 tasses d’eau
 - 1/2 tasse de vinaigre de riz
 - 4 c à café de sucre
 - 1,5 c à café de sel
-</div>
 
-<div class="four columns" markdown="1">
-Ingrédients pour la garniture :
+Ingrédients pour la garniture
 {:.recipe-ingredients}
 - 500 g de poisson cru (saumon, bar, sole, maquereau )
 - Blanc de seiche frais

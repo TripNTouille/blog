@@ -35,9 +35,6 @@ Ingrédients :
 - 15 à 20 petits poivrons verts
 </div>
 
-TODO mettre lien guesthouse
-</div>
-
 <div class="ten columns" markdown="1">
 1. Faites frire les oignons dans l’huile de maïs 5 min.
  
@@ -51,3 +48,13 @@ TODO mettre lien guesthouse
 
 6. Enfournez-les 20-30 min à 160°C jusqu’à ce qu’ils soient tendres.
 </div>
+
+<div class="sixteen columns">
+</div>
+
+<div class="four columns">
+&nbsp;
+</div>
+
+Découvrez la Gesthouse Mokvare sur [facebook](https://www.facebook.com/Mokvare/), c'est là que nous y avons découvert et appris cette recette.
+{:.ten.columns}

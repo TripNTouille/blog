@@ -2,14 +2,14 @@
 title: RUSSIE - Blinis
 country: russie
 course: dessert
+image: R-blinis.jpg
 ---
 
 Surprise d'Olga pour le goûter
 {:.ten.columns}
 <!--fin extrait-->
 
-![blinis]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{% include photo.html photo='R-blinis.jpg' alt='Blinis' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

@@ -34,7 +34,13 @@ comments: true
         </div>
         <div>
             <a class="img-summary img-navigation" href="{{ site.url }}/{{ page.post.url }}">
+                {% capture image_url_start %}{{ page.image | slice: 0, 4 }}{% endcapture %}
+                {% if image_url_start == "http" %}
                 <img src="{{ page.image }}"/>
+                {% else %}
+                <div>TODO</div>
+                {% endif %}
+
                 <div class="dark-layer"></div>
                 <div class="navigation-title">Où avons nous découvert cette recette</div>
             </a>

@@ -2,6 +2,7 @@
 title: FRANCE - Crumble aux fruits
 country: france
 course: dessert
+image: R-crumble.jpg
 ---
 
 Recettes très simple à préparer dans la majorité des pays étrangers.
@@ -9,6 +10,7 @@ Recettes très simple à préparer dans la majorité des pays étrangers.
 
 <!--fin extrait-->
 
+{% include photo.html photo='R-crumble.jpg' alt='crumble' %}
 
 <div class="four columns" markdown="1">
 - 150 g de farine
@@ -17,9 +19,6 @@ Recettes très simple à préparer dans la majorité des pays étrangers.
 - 1 pincée de sel
 - 1 c à café de cannelle
 - 4-5 pommes ou 3 grosses poignées de prunes
-</div>
-
-TODO mettre ingrédients vers la gauche
 </div>
 
 <div class="ten columns" markdown="1">

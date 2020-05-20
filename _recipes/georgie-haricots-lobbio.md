@@ -2,6 +2,7 @@
 title: GEORGIE - Les haricots Lobbio
 country: georgie
 course: plat
+image: R-lobbio.jpg
 ---
 
 Haricots verts en sauce, cette recette peut aussi se préparer avec des haricots rouges écrasés en hiver.
@@ -9,6 +10,7 @@ Haricots verts en sauce, cette recette peut aussi se préparer avec des haricots
 
 <!--fin extrait-->
 
+{% include photo.html photo='R-lobbio.jpg' alt='lobbio' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :
@@ -23,7 +25,6 @@ Ingrédients :
 </div>
 
 <div class="ten columns" markdown="1">
-
 1. Équettez et lavez les haricots. Coupez-les en tronçons de 5-6 cm de long.
 
 2. Faites cuire les haricots à la vapeur 10 minutes en les gardant Al dente. Egouttez-les.
@@ -35,5 +36,3 @@ Ingrédients :
 5. Mélangez les haricots avec les oignons et l’assaisonnement. Servez tiède.
 </div>
 
-TODO mise en page bug (ingrédients sont dans la colone de droite
-</div>

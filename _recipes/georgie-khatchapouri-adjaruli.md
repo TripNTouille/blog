@@ -2,6 +2,7 @@
 title: GEORGIE - Khatchapouri Adjaruli
 country: georgie
 course: plat
+image: R-khachapuriimeruli.jpg
 ---
 
 Pain au fromage de la région d'Adjara
@@ -9,6 +10,7 @@ Pain au fromage de la région d'Adjara
 
 <!--fin extrait-->
 
+{% include photo.html photo='R-khachapuriimeruli.jpg' alt='khatchapuri' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :
@@ -23,9 +25,6 @@ Pour 5 Khatchapouri
 - 700 g de feta
 - 300 g de mozzarella
 - 6 oeufs (1 pour dorer la pâte puis 1 par khatchapouri)
-</div>
-
-TODO passer ingrédienst colone de gauche 
 </div>
 
 <div class="ten columns" markdown="1">

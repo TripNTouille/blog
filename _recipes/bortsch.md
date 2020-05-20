@@ -2,14 +2,14 @@
 title: RUSSIE - Bortsch
 country: russie
 course: plat
+image: R-bortsch.jpg
 ---
 
 Soupe rouge vif grâce aux conseils d’Olga
 <!--fin extrait-->
 {:.ten.columns}
 
-![Bortsch]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{% include photo.html photo='R-bortsch.jpg' alt='Bortsch' %}
 
 <div class="four columns" markdown="1">
 

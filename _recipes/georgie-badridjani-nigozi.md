@@ -36,5 +36,12 @@ Ingrédients :
 3. Tartinez 1 c à café de la mixture ail/ noix sur chaque tranche d’aubergine et roulez-les. Traditionnellement, elles sont saupoudrées de grains de grenades pour la décoration.
 </div>
 
-TODO mettre lien guestouse
+<div class="sixteen columns">
 </div>
+
+<div class="four columns">
+&nbsp;
+</div>
+
+Découvrez la Gesthouse Mokvare sur [facebook](https://www.facebook.com/Mokvare/), c'est là que nous y avons découvert et appris cette recette.
+{:.ten.columns}

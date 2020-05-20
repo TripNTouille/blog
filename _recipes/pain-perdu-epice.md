@@ -2,13 +2,14 @@
 title: GEORGIE - Pain perdu épicé
 country: georgie
 course: entree
+image: R-painperdu-piotr.jpg
 ---
 
 Création de Piotr au petit matin
 {:.ten.columns}
 <!--fin extrait-->
 
-TODO ajouter photo
+{% include photo.html photo='R-painperdu-piotr.jpg' alt='pain perdu de Piotr' %}
 
 <div class="four columns" markdown="1">
 Ingrédients

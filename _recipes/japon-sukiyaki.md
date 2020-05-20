@@ -2,6 +2,7 @@
 title: JAPON - Sukiyaki
 country: japon
 course: plat
+image: R-tsukiyaki.jpg
 ---
 
 La fondue japonaise vue par Yoshi
@@ -9,7 +10,7 @@ La fondue japonaise vue par Yoshi
 
 <!--fin extrait-->
 
-TODO ajouter photo
+{% include photo.html photo='R-tsukiyaki.jpg' alt='tsukiyaki' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour 150 gyozas :

@@ -32,9 +32,6 @@ Ingrédients pour 6 personnes :
 - Du parmesan râpé
 </div>
 
-TODO mettre lien bnb Fiorella
-</div>
-
 <div class="ten columns" markdown="1">
 1. Hâchez l’oignon et faites-le suer à feu doux dans une grande poêle avec 50 g de beurre et 5 c à soupe d’huile pendant 5 min. Ajoutez 2 c à soupe d’eau froide pour faire sortir le sucre de l’oignon pendant 1 min.
 

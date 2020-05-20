@@ -4,17 +4,15 @@ country: georgie
 course: entree
 post:
   url: "/voyages/todo/"
-image: https://lh3.googleusercontent.com/1xjMCA316Z6YIwrS95KS_j9kzpWoP8-stM9NiONMwd9MhYIIQkr7O-28v3cS3CwRLpDQCKcQpwxd9cYHjVPYuvYvJRd8I9vcZMCpzNqc5EpXJY5rbVeMiY-tLKSgMvBuPS_9E-JbXsd2r6yjyJc-mdvks6xN7G_RvurfBECbKLPNfbPMRJNWy7WJUNU0B8wyBwUqS3iAdHg4mTbWY-Ce4C9seB3kBF0M9uOLacrAbNoSJsjcfCVuSxY_sI3HHP87PCraw_T_aELaAyqU2cZjTSszM2rCNXJTrA45iy6crAdVOXdTRNPMLImJm9cu89O_eN09Gm6y7t4gn4g91_eBpg9t7NipSFyol6jsknOe1CUUEd0qr-00_iM3ezcMSW8GQw9yXlODbcomhA_UoW1bGrSPWYClWy751va9wPP1JKMpVEParxZmLe7y3BvuXCIKga-K31qyQAvEG-KFGOC9hOw2-oq6LfQeEMAEsj6atenpTuwfpgF7ybjMBAe1o39Cy7HbzCmprLelGK38fGikzoq-A-4JCOr0u4zymI4tKtglqBp9dRgFMwuPplCQxTmj91S31LDVB7ucEgzr3CgHKQ6QuB-VuO_8_p-pFIxtLF4Hl8DoxRkMjXG22vjlS_tqeg_03S0U9Jay18LgbqK30_QCYGY2FO4Pu2Gd2BsuVncCYqGm-Irvl3oGs_a_YCXzyv-215YrL9ZkjOhzcBdC6hMwhSHey3FR1RbLC9Vnrgb-_WEo=w900
+image: R-saladeauberginecaritepoivron.jpg
 ---
 
-<!--_-->
 Avec la mayonnaise épicée de Manana
 {:.ten.columns}
 
 <!--fin extrait-->
 
-![coriandre et ail]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{% include photo.html photo='R-saladeauberginecaritepoivron.jpg' alt='coriandre et ail' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :
@@ -31,10 +29,6 @@ Ingrédients :
 - huile de mais ou de tournesol
 </div>
 
-
-TODO mettre lien guesthouse
-</div>
-
 <div class="ten columns" markdown="1">
 1. Coupez les légumes en bâtonnets fins d’environ 3 cm de long. Faites dégorger les aubergines une demie heure avec du sel.
 
@@ -44,3 +38,13 @@ TODO mettre lien guesthouse
 
 4. Mélangez la sauce avec les légumes.
 </div>
+
+<div class="sixteen columns">
+</div>
+
+<div class="four columns">
+&nbsp;
+</div>
+
+Découvrez la Gesthouse Mokvare sur [facebook](https://www.facebook.com/Mokvare/), c'est là que nous y avons découvert et appris cette recette.
+{:.ten.columns}

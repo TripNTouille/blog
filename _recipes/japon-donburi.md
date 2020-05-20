@@ -4,7 +4,7 @@ country: japon
 course: plat
 post:
   url: "/voyages/todo/"
-image: https://images.happycow.net/venues/1024/97/40/hcmp97401_604501.jpeg
+image: R-domburi.jpg
 ---
 
 Ce plat végétarien japonais revisité par Iwao se compose de riz et de plusieurs préparation de légumes. 
@@ -12,14 +12,7 @@ Ce plat végétarien japonais revisité par Iwao se compose de riz et de plusieu
 
 <!--fin extrait-->
 
-![alternative text]({{ page.image }})
-{:.sixteen.columns.first-photo}
-
-TODO changer la photo avec la nôtre
-{:.ten.columns}
-
-TODO règler ce bordel de colones pas calées
-{:.ten.columns}
+{% include photo.html photo='R-domburi.jpg' alt='donburi' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour le 1er mélange :

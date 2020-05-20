@@ -16,7 +16,7 @@ Les Khinkali se mangent avec les doigts, saupoudrés de poivre noir et accompagn
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">
-Ingrédients pour la pâte :
+Ingrédients
 {:.recipe-ingredients}
 
 - une grosse poignée de sel
@@ -25,6 +25,9 @@ Ingrédients pour la pâte :
 </div>
 
 <div class="ten columns" markdown="1">
+pour la pâte
+{:.recipe-ingredients}
+
 Mélangez farine et sel puis incorporez l’eau petit à petit jusqu’à obtenir un mélange dense et ferme. Malaxez une dizaine de minutes à la main.
 </div>
 
@@ -32,7 +35,7 @@ Mélangez farine et sel puis incorporez l’eau petit à petit jusqu’à obteni
 </div>
 
 <div class="four columns" markdown="1">
-Ingrédients pour la farce :
+Ingrédients
 {:.recipe-ingredients}
 
 - 1 kg de porc haché
@@ -49,35 +52,34 @@ Ingrédients pour la farce :
 </div>
 
 <div class="ten columns" markdown="1">
+pour la farce
+{:.recipe-ingredients}
+
 Mélangez tous les ingrédients au mixeur et ajoutez-y de l’eau bouillante pour avoir environ 2/3 de farce et 1/3 de liquide. Réservez.
-</div>
 
-<div class="sixteen columns">
-</div>
-
-<div class="four columns" markdown="1">
 Former les Khinkali
 {:.recipe-ingredients}
-</div>
 
-<div class="ten columns" markdown="1">
 Découpez des pâtons de la taille d’une balle de golf, étalez-les au rouleau à pâtisserie pour obtenir des disques de 15 cm de diamètre. Disposez un disque sur une coupelle un peu creuse, mettez-y une cuillère à soupe de farce et une de bouillon. Remontez les bords en les pressant les uns contre les autres pour créer des plis. Le résultat ressemble à une gousse d’ail.
 
-TODO: mettre lien youtube vidéo
+Petit aperçu de la fabrication en [vidéo](https://www.youtube.com/watch?v=xwj2MhS7HiA).
+
+La cuisson
+{:.recipe-ingredients}
+
+Faites bouillir une casserole d’eau salée avec un filet d’huile. Plongez les Khinkali dans l’eau bouillante et laissez-les cuire 15 minutes. Ils doivent remonter à la surface. Sortez-les avec une passoire et disposez-les délicatement sur un plat.
+
+Les Khinkali se mangent avec les doigts, saupoudrés de poivre noir et accompagnés de Chacha. On croque dans la base et aspire bruyamment le jus avant de manger la farce.
+
+Pour être un pro, laissez la cheminée du khinkali au bord de votre assiette que l'on puisse compter combien vous en avez mangés. C'est une question courante en Géorgie, nous on en mange 7-8 max, et vous !?
 </div>
 
 <div class="sixteen columns">
 </div>
 
-<div class="four columns" markdown="1">
-La cuisson
-{:.recipe-ingredients}
+<div class="four columns">
+&nbsp;
 </div>
 
-<div class="ten columns" markdown="1">
-Faites bouillir une casserole d’eau salée avec un filet d’huile. Plongez les Khinkali dans l’eau bouillante et laissez-les cuire 15 minutes. Ils doivent remonter à la surface. Sortez-les avec une passoire et disposez-les délicatement sur un plat.
-
-4. Les Khinkali se mangent avec les doigts, saupoudrés de poivre noir et accompagnés de Chacha. On croque dans la base et aspire bruyamment le jus avant de manger la farce.
-
-5. Pour être un pro, laissez la cheminée du khinkali au bord de votre assiette que l'on puisse compter combien vous en avez mangés. C'est une question courante en Géorgie, nous on en mange 7-8 max, et vous !?
-</div>
+Découvrez la Gesthouse Mokvare sur [facebook](https://www.facebook.com/Mokvare/), c'est là que nous y avons découvert et appris cette recette.
+{:.ten.columns}

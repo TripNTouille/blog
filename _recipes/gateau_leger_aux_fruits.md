@@ -2,14 +2,14 @@
 title: RUSSIE - Gâteau léger aux fruits
 country: russie
 course: dessert
+image: R-gateaulegerolga.jpg
 ---
 
 Petite douceur pour le goûter
 {:.ten.columns}
 <!--fin extrait-->
 
-![tarte aux quetsches]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{% include photo.html photo='R-gateaulegerolga.jpg' alt='tarte aux quetsches' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

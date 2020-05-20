@@ -2,14 +2,14 @@
 title: RUSSIE - Gâteau de foie de volaille
 country: russie
 course: plat
+image: R-gateaufoievolaille.jpg
 ---
 
 Olga nous propose sa version du gâteau d’anniversaire
 {:.ten.columns}
 <!--fin extrait-->
 
-![gâteau de foie de volaille]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{% include photo.html photo='R-gateaufoievolaille.jpg' alt='gâteau de foie de volaille' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

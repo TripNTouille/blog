@@ -1,5 +1,5 @@
 ---
-title: GEORGIE - Sauce Tkhemali
+title: GEORGIE - Sauce Tkemali
 country: georgie
 course: plat
 post:
@@ -12,7 +12,7 @@ La sauce Tkemali c’est le Ketchup géorgien ! Il est traditionnellement dégus
  
 <!--fin extrait-->
 
-![sauce tkhemali]({{ page.image }})
+![sauce tkemali]({{ page.image }})
 {:.sixteen.columns.first-photo}
 
 <div class="four columns" markdown="1">
@@ -41,3 +41,13 @@ Pour environ 10 L de sauce
 
 5. Faites bouillir le tout 5 min. Arrêtez le feu et mettez en bocaux lorsque c’est encore chaud. A consommer dans l’année.
 </div>
+
+<div class="sixteen columns">
+</div>
+
+<div class="four columns">
+&nbsp;
+</div>
+
+Découvrez la Gesthouse Mokvare sur [facebook](https://www.facebook.com/Mokvare/), c'est là que nous y avons découvert et appris cette recette.
+{:.ten.columns}
