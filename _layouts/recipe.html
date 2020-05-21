@@ -16,12 +16,12 @@ comments: true
 
     <div class="footer-navigation">
         <div>
-            <a class="img-summary img-navigation" href="{{ site.url }}/recettes-type/#{{ page.course }}">
+            <a class="img-summary img-navigation" href="{{ site.url }}/recettes-{{ page.categories[0] }}">
                 <img src="https://lh3.googleusercontent.com/EV7y77MiPlPPsHupF2olKLIJqnRdZwerCGrOzlJZq26o8k9cW-dTic33EmwW0snrExpYYgwSXHfXOVh_4fkW-0wgSeB2O625RSAmBe0UwuUTGCkM4nY6Qk2FR9tBzFqCM5fl1de2dPRglA-8pjPhqYZMLsDUYoFRyt6f425GpBVAQz-T127W8io357fXluWMq2aG0ZiLAVxBHXsTWXT7ZkPcZv11wAILkzPKuPLFmWMsKCGEPRZYQMhIrGzF5U80ul7_AlPXCfBuRmAKrLsJ7azdIWSr6M4fuDxQpD3eHVeGn73WXGF7Xjlwoa0h_zOT3rw4ibDg6kdfJrbkSSqMYXb5fSNg4iJExnxSU1bic5HbGi7XjCVQvYolEnFI1Jr4PunHsIo9Fk0h55V18qAmmnn8LHL6giIRqYWYjweHUSZ7w_ee2oZkI9-J2jj6Vf54lC-8d9S7fvdVt-QffgH3t2q1NnvAnaILP3yevVIbHp7bABsZICDVPaNVDGFrsJv8IHIh6cJ9ct-IKas8vCOHFh-5uqwfU_Y_y7tnD7zs2r5e3ZrTOEyUxvKB9LvfXZ61jzuho-baSNRipafcdtHOnhJpm56lYgiWLfe16PNSblX5T1kjdJpEO8tj2aLYnwaBa5aLHeTAvRRDahsyqp3JmCV3h5ycEVs_d5A1H2R9y4VvKNOKcd4BVZuADRNtSPqSat0DgS4Oy_HoUcC9mbFxYJ-2=w1142-h1016-no"/>
                 <div class="dark-layer"></div>
                 <div class="navigation-title">
                     Toutes nos recettes
-                    {% case page.course %}
+                    {% case page.categories[0] %}
                         {% when 'entree' %}
                         d'entrées
                         {% when 'plat' %}
@@ -34,7 +34,13 @@ comments: true
         </div>
         <div>
             <a class="img-summary img-navigation" href="{{ site.url }}/{{ page.post.url }}">
+                {% capture image_url_start %}{{ page.image | slice: 0, 4 }}{% endcapture %}
+                {% if image_url_start == "http" %}
                 <img src="{{ page.image }}"/>
+                {% else %}
+                {% asset '{{ page.image }}' magick:resize="300" alt="" %}
+                {% endif %}
+
                 <div class="dark-layer"></div>
                 <div class="navigation-title">Où avons nous découvert cette recette</div>
             </a>

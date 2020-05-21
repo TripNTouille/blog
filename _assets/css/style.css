@@ -848,6 +848,12 @@ article.recipe .first-photo {
     display: flex;
     align-items: center;
 }
+article.recipe .first-photo.photo-top {
+    align-items: top;
+}
+article.recipe .first-photo.photo-end {
+    align-items: end;
+}
 .entry-metabwrap {
 	border-top: 2px dotted #eee;
 	border-bottom: 2px dotted #eee;
@@ -861,6 +867,34 @@ article.recipe .first-photo {
 b.fn{
 	margin-bottom:6em !important ;
 	}
+
+.recipe-per-country {
+	display: flex;
+	flex-wrap: wrap;
+}
+.recipe-per-country .recipe-tile {
+	border: 1px solid #888;
+    min-width: 30%;
+    text-align: center;
+    padding: 1.5em;
+    height: 5em;
+    margin: 1%;
+}
+
+.paginator {
+	display: flex;
+}
+.paginator .paginator-tile {
+	flex-grow: 1;
+	height: 5em;
+	border: solid 1px #888;
+	margin: 1%;
+	text-align: center;
+	padding: 1.5em;
+}
+.paginator .paginator-tile.blank {
+	border: none;
+}
 /*--------------------------------------------------------------
 10.2 Asides
 --------------------------------------------------------------*/

@@ -1,8 +1,15 @@
 ---
 layout: default
-title: Recettes
+title: Recettes par pays
 ---
 
-{% assign recipes_by_country = site.recipes | group_by:"country" | sort_natural: "name" %}
-{% include list-by-group.html groups=recipes_by_country %} 
-{% asset page-utils.js %}
+<h2>
+    Voici les pays d'où nous avons ramené des recettes : découvrez-les !
+</h2>
+
+<div class="entry-content recipe-per-country">
+    {% assign recipes_by_country = site.recipes | group_by:"country" | sort_natural: "name" %}
+    {% for group in recipes_by_country %}
+    <a class="recipe-tile" href='{{ group.name | downcase }}'>{{ group.name | capitalize }}</a>
+{% endfor %}
+</div>

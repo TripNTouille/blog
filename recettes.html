@@ -1,7 +1,12 @@
 ---
 layout: default
 title: Recettes
+pagination:
+  enabled: true
+  collection: recipes
+  permalink: /p:num/
+  sort_field: 'date'
+  sort_reverse: true
 ---
 
-{% include list-post.html posts=site.recipes %}
-
+{% include list-paginated.html paginator=paginator %}
