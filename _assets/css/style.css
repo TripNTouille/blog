@@ -867,6 +867,19 @@ article.recipe .first-photo.photo-end {
 b.fn{
 	margin-bottom:6em !important ;
 	}
+
+.recipe-per-country {
+	display: flex;
+	flex-wrap: wrap;
+}
+.recipe-per-country .recipe-tile {
+	border: 1px solid #888;
+    min-width: 30%;
+    text-align: center;
+    padding: 1.5em;
+    height: 5em;
+    margin: 1%;
+}
 /*--------------------------------------------------------------
 10.2 Asides
 --------------------------------------------------------------*/
