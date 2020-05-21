@@ -12,7 +12,7 @@ Ce plat végétarien japonais revisité par Iwao se compose de riz et de plusieu
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-domburi.jpg' alt='donburi' %}
+{% include photo.html photo='R-domburi.jpg' alt='donburi' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour le 1er mélange :

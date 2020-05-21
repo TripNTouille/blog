@@ -9,7 +9,7 @@ Surprise d'Olga pour le goûter
 {:.ten.columns}
 <!--fin extrait-->
 
-{% include photo.html photo='R-blinis.jpg' alt='Blinis' %}
+{% include photo.html photo='R-blinis.jpg' alt='Blinis' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

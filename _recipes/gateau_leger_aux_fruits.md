@@ -9,7 +9,7 @@ Petite douceur pour le goûter
 {:.ten.columns}
 <!--fin extrait-->
 
-{% include photo.html photo='R-gateaulegerolga.jpg' alt='tarte aux quetsches' %}
+{% include photo.html photo='R-gateaulegerolga.jpg' alt='tarte aux quetsches' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

@@ -10,7 +10,7 @@ Pain au fromage de la région d'Adjara
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-khachapuriimeruli.jpg' alt='khatchapuri' %}
+{% include photo.html photo='R-khachapuriimeruli.jpg' alt='khatchapuri' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

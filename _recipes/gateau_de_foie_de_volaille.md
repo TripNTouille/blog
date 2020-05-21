@@ -9,7 +9,7 @@ Olga nous propose sa version du gâteau d’anniversaire
 {:.ten.columns}
 <!--fin extrait-->
 
-{% include photo.html photo='R-gateaufoievolaille.jpg' alt='gâteau de foie de volaille' %}
+{% include photo.html photo='R-gateaufoievolaille.jpg' alt='gâteau de foie de volaille' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

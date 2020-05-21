@@ -10,7 +10,7 @@ Haricots verts en sauce, cette recette peut aussi se préparer avec des haricots
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-lobbio.jpg' alt='lobbio' %}
+{% include photo.html photo='R-lobbio.jpg' alt='lobbio' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

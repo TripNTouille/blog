@@ -12,7 +12,7 @@ Avec la mayonnaise épicée de Manana
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-saladeauberginecaritepoivron.jpg' alt='coriandre et ail' %}
+{% include photo.html photo='R-saladeauberginecaritepoivron.jpg' alt='coriandre et ail' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :

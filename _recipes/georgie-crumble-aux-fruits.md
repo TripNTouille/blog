@@ -10,7 +10,7 @@ Recettes très simple à préparer dans la majorité des pays étrangers.
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-crumble.jpg' alt='crumble' %}
+{% include photo.html photo='R-crumble.jpg' alt='crumble' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 - 150 g de farine

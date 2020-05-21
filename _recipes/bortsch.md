@@ -9,7 +9,7 @@ Soupe rouge vif grâce aux conseils d’Olga
 <!--fin extrait-->
 {:.ten.columns}
 
-{% include photo.html photo='R-bortsch.jpg' alt='Bortsch' %}
+{% include photo.html photo='R-bortsch.jpg' alt='Bortsch' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 

@@ -11,7 +11,7 @@ Chez Yukiko, nous avons roulé riz, légumes et poissons dans les algues à l’
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-sushi.jpg' alt='sushi' %}
+{% include photo.html photo='R-sushi.jpg' alt='sushi' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour le riz

@@ -9,7 +9,7 @@ Création de Piotr au petit matin
 {:.ten.columns}
 <!--fin extrait-->
 
-{% include photo.html photo='R-painperdu-piotr.jpg' alt='pain perdu de Piotr' %}
+{% include photo.html photo='R-painperdu-piotr.jpg' alt='pain perdu de Piotr' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients

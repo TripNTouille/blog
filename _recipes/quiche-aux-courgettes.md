@@ -9,7 +9,7 @@ Julie cuisine pendant que les hommes bossent à la cave !
 {:.ten.columns}
 <!--fin extrait-->
 
-{% include photo.html photo='R-choufleur.jpg' alt='quiche aux courgettes' %}
+{% include photo.html photo='R-choufleur.jpg' alt='quiche aux courgettes' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour la pâte :

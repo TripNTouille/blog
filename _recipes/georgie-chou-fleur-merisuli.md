@@ -10,7 +10,7 @@ En découvrant cette recette avec Manana, nous avons tout d’abord trouvé ind�
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-choufleur.jpg' alt='chou fleur sauce merisuli' %}
+{% include photo.html photo='R-choufleur.jpg' alt='chou fleur sauce merisuli' more_class='.first-photo' %}
 
 <div class="four columns" markdown="1">
 Ingrédients :
