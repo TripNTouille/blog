@@ -1,6 +1,12 @@
 ---
 layout: default
 title: Voyages
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /p:num/
+  sort_field: 'date'
+  sort_reverse: true
 ---
-{% include list-post.html posts=site.posts %}
 
+{% include list-paginated.html paginator=paginator %}
