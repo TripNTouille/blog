@@ -1,7 +1,8 @@
 ---
 title: JAPON - Sukiyaki
 country: japon
-course: plat
+categories:
+  - plat
 image: R-tsukiyaki.jpg
 ---
 

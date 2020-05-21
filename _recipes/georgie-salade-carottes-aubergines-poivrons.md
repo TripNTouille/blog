@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Salade de carottes, aubergines et poivrons
 country: georgie
-course: entree
+categories:
+  - entree
 post:
   url: "/voyages/todo/"
 image: R-saladeauberginecaritepoivron.jpg

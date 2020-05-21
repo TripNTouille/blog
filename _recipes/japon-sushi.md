@@ -1,7 +1,8 @@
 ---
 title: JAPON - Riz à Sushi
 country: japon
-course: plat
+categories:
+  - plat
 image: R-sushi.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Les haricots Lobbio
 country: georgie
-course: plat
+categories:
+  - plat
 image: R-lobbio.jpg
 ---
 

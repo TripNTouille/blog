@@ -1,7 +1,8 @@
 ---
 title: FRANCE - Quiche aux courgettes
 country: france
-course: plat
+categories:
+  - plat
 image: R-quiche-courgette.jpg
 ---
 

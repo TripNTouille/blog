@@ -1,7 +1,8 @@
 ---
 title: RUSSIE - Blinis
 country: russie
-course: dessert
+categories:
+  - dessert
 image: R-blinis.jpg
 ---
 

@@ -75,6 +75,8 @@ GEM
       jekyll
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-paginate-v2 (3.0.0)
+      jekyll (>= 3.0, < 5.0)
     jekyll-sanity (1.6.0)
       jekyll (>= 3.1, < 5.0)
       pathutil (~> 0.16)
@@ -152,6 +154,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-auto-image
   jekyll-feed (~> 0.6)
+  jekyll-paginate-v2
   jekyll-seo-tag
   jekyll-sitemap
   mini_magick

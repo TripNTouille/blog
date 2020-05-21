@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Pain perdu épicé
 country: georgie
-course: entree
+categories:
+  - entree
 image: R-painperdu-piotr.jpg
 ---
 

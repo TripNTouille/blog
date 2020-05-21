@@ -1,7 +1,8 @@
 ---
 title: RUSSIE - Gâteau léger aux fruits
 country: russie
-course: dessert
+categories:
+  - dessert
 image: R-gateaulegerolga.jpg
 ---
 

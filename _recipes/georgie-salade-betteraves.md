@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Salade de betteraves
 country: georgie
-course: entree
+categories:
+  - entree
 post:
   url: "/voyages/todo/"
 image: R-betterave-nukri.jpg

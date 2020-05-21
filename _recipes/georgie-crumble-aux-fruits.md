@@ -1,7 +1,8 @@
 ---
 title: FRANCE - Crumble aux fruits
 country: france
-course: dessert
+categories:
+  - dessert
 image: R-crumble.jpg
 ---
 

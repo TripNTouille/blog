@@ -39,6 +39,15 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 5
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 exclude:
   - Gemfile

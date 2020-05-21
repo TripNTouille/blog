@@ -1,7 +1,8 @@
 ---
 title: TURQUIE - Soupe de lentilles
 country: turquie
-course: plat
+categories:
+  - plat
 post:
   url: "/voyages/todo/"
 image: R-soupe-lentille.jpg

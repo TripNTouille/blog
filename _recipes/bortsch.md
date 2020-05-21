@@ -1,7 +1,8 @@
 ---
 title: RUSSIE - Bortsch
 country: russie
-course: plat
+categories:
+  - plat
 image: R-bortsch.jpg
 ---
 

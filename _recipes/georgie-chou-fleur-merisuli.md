@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Chou-fleur Merisuli
 country: georgie
-course: entree
+categories:
+  - entree
 image: R-choufleur.jpg
 ---
 

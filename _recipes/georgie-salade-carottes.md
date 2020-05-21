@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Salade de carottes
 country: georgie
-course: entree
+categories:
+  - entree
 post:
   url: "/voyages/todo/"
 image: R-betterave-nukri.jpg

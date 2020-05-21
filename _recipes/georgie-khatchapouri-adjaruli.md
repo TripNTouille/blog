@@ -1,7 +1,8 @@
 ---
 title: GEORGIE - Khatchapouri Adjaruli
 country: georgie
-course: plat
+categories:
+  - plat
 image: R-khachapuriimeruli.jpg
 ---
 

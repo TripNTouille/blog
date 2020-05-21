@@ -1,7 +1,8 @@
 ---
 title: JAPON - Donburi
 country: japon
-course: plat
+categories:
+  - plat
 post:
   url: "/voyages/todo/"
 image: R-domburi.jpg
