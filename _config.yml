@@ -73,6 +73,8 @@ algolia:
   application_id: WMZ445EG6N
   index_name: prod_tripntouille
   searchKey: ec4a358a9ec50f1154907b40bd58ab9a
+  files_to_exclude:
+    - recettes-*/**
 
 collections:
   posts:
