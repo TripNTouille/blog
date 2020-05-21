@@ -38,7 +38,7 @@ comments: true
                 {% if image_url_start == "http" %}
                 <img src="{{ page.image }}"/>
                 {% else %}
-                <div>TODO</div>
+                {% asset '{{ page.image }}' magick:resize="700" alt="" %}
                 {% endif %}
 
                 <div class="dark-layer"></div>
