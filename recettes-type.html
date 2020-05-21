@@ -1,8 +1,0 @@
----
-layout: default
-title: Recettes
----
-
-{% assign recipes_by_type = site.recipes | group_by:"course" %}
-{% include list-by-group.html groups=recipes_by_type %} 
-{% asset page-utils.js %}

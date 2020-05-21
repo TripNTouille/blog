@@ -1,7 +1,8 @@
 ---
 title: FRANCE - Crêpe Suzette
 country: france
-course: dessert
+categories:
+  - dessert
 post:
   url: "/voyages/2018/05/01/toscane-fiorella-sienne/"
 image: crepe.jpg

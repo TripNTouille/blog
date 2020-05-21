@@ -1,7 +1,8 @@
 ---
 title: FRANCE - Quiche Lorraine
 country: france
-course: entree
+categories:
+  - entree
 post:
   url: "/voyages/2018/04/15/piombino-rome"
 image: quiche.jpg

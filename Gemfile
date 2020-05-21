@@ -30,6 +30,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   # Search provided by Algolia
   gem "jekyll-algolia"
+  # pagination
+  gem "jekyll-paginate-v2"
   # CMS like editing
   gem "jekyll-admin"
 end

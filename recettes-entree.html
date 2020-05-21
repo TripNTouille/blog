@@ -1,0 +1,13 @@
+---
+layout: default
+title: Recettes
+pagination:
+  enabled: true
+  collection: recipes
+  category: entree
+  permalink: /p:num/
+  sort_field: 'date'
+  sort_reverse: true
+---
+
+{% include list-paginated.html paginator=paginator %}

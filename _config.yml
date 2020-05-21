@@ -39,6 +39,15 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 5
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 exclude:
   - Gemfile
@@ -64,6 +73,8 @@ algolia:
   application_id: WMZ445EG6N
   index_name: prod_tripntouille
   searchKey: ec4a358a9ec50f1154907b40bd58ab9a
+  files_to_exclude:
+    - recettes-*/**
 
 collections:
   posts:

@@ -1,0 +1,32 @@
+{% include list-post.html posts=paginator.posts %}
+
+<!-- 
+Showing buttons to move to the next and to the previous list of posts (pager buttons).
+-->
+{% if paginator.total_pages > 1 %}
+<div class="paginator">
+    <a class="paginator-tile" href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        Retour aux début
+    </a>
+
+    {% if paginator.previous_page %}
+    <a class="paginator-tile" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        &DoubleLongLeftArrow;
+    </a>
+    {% else %}
+    <div class="paginator-tile blank"></div>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <a class="paginator-tile" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        &DoubleLongRightArrow;
+    </a>
+    {% else %}
+    <div class="paginator-tile blank"></div>
+    {% endif %}
+
+    <a class="paginator-tile" href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+        Aller à la fin
+    </a>
+</ul>
+{% endif %}
