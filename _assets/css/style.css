@@ -880,6 +880,21 @@ b.fn{
     height: 5em;
     margin: 1%;
 }
+
+.paginator {
+	display: flex;
+}
+.paginator .paginator-tile {
+	flex-grow: 1;
+	height: 5em;
+	border: solid 1px #888;
+	margin: 1%;
+	text-align: center;
+	padding: 1.5em;
+}
+.paginator .paginator-tile.blank {
+	border: none;
+}
 /*--------------------------------------------------------------
 10.2 Asides
 --------------------------------------------------------------*/
