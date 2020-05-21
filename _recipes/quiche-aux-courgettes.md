@@ -2,14 +2,14 @@
 title: FRANCE - Quiche aux courgettes
 country: france
 course: plat
-image: R-choufleur.jpg
+image: R-quiche-courgette.jpg
 ---
 
 Julie cuisine pendant que les hommes bossent à la cave !
 {:.ten.columns}
 <!--fin extrait-->
 
-{% include photo.html photo='R-choufleur.jpg' alt='quiche aux courgettes' more_class='.first-photo' %}
+{% include photo.html photo='R-quiche-courgette.jpg' alt='quiche aux courgettes' more_class='.first-photo.photo-end' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour la pâte :
