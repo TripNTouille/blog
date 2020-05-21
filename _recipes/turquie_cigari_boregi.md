@@ -13,7 +13,7 @@ Börek en forme de cigare, farcis au fromage
 <!--fin extrait-->
 
 ![cigari boregi]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients :

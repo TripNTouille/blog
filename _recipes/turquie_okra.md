@@ -13,7 +13,7 @@ Ratatouille du Sud. Les ocras (ou gombo) ne sont pas monnaie courantes chez nous
 <!--fin extrait-->
 
 ![gombo]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients :

@@ -13,7 +13,7 @@ Pour vos Brunch du dimanche !
 <!--fin extrait-->
 
 ![omelette japonaise]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients :

@@ -848,6 +848,12 @@ article.recipe .first-photo {
     display: flex;
     align-items: center;
 }
+article.recipe .first-photo.photo-top {
+    align-items: top;
+}
+article.recipe .first-photo.photo-end {
+    align-items: end;
+}
 .entry-metabwrap {
 	border-top: 2px dotted #eee;
 	border-bottom: 2px dotted #eee;

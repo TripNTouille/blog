@@ -10,7 +10,7 @@ La fondue japonaise vue par Yoshi
 
 <!--fin extrait-->
 
-{% include photo.html photo='R-tsukiyaki.jpg' alt='tsukiyaki' more_class='.first-photo' %}
+{% include photo.html photo='R-tsukiyaki.jpg' alt='tsukiyaki' more_class='.first-photo.photo-end' %}
 
 <div class="four columns" markdown="1">
 Ingrédients pour 150 gyozas :

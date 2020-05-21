@@ -12,7 +12,7 @@ En Turquie nous nous sommes émerveillés de cette plante grasse poussant dans l
 <!--fin extrait-->
 
 ![semizotu ricotta]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients :

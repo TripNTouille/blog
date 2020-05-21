@@ -13,7 +13,7 @@ L’Adjika est le petit délice rouge vif posé discrètement sur chaque table e
 <!--fin extrait-->
 
 ![adjika]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients pour 5-6 pots :

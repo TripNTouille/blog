@@ -13,7 +13,7 @@ La soupe de concombre à la menthe
 <!--fin extrait-->
 
 ![cacik]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients :

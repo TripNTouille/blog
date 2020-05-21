@@ -12,7 +12,7 @@ Façon Nico et Sandra !
 <!--fin extrait-->
 
 ![mont d'or]({{ page.image }})
-{:.sixteen.columns.first-photo}
+{:.sixteen.columns.first-photo.photo-end}
 
 <div class="four columns" markdown="1">
 Ingrédients :
