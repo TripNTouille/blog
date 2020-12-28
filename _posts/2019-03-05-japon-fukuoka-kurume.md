@@ -17,15 +17,18 @@ Arrivée à Fukuoka
 
 {% include photo.html photo="IMG_20190307_221503.jpg" alt="Bol avec baguettes" %}
 
-Après notre expérience d’une année de voyage dans les Balkans en 2018, nous reprenons la route ce 1er mars 2019. Mais cette fois-ci, c’est le monde à l’envers : nous décollons de Paris pour survoler la terre et nous retrouver à l’autre bout du globe en un claquement de doigts. Après 20h de vol, 10 000 km de voyage et 8h de décalage : nous atterrissons au Japon, dans la ville de Fukuoka située au Sud du pays. Nous logeons dans le Marine Hotel, central, propre et très bon marché, où vous aurez sûrement la surprise de découvrir des
-prospectus d'hôtesses japonaises, qui doivent être aussi présents que les
-bibles dans nos hôtels.
+Après notre expérience d’une année de voyage dans les Balkans en 2018, nous reprenons la route ce 1er mars 2019. Mais cette fois-ci, c’est le monde à l’envers : nous décollons de Paris pour survoler la terre et nous retrouver à l’autre bout du globe en un claquement de doigts.
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
 
+Après 20h de vol, 10 000 km de voyage et 8h de décalage : nous atterrissons au Japon, dans la ville de Fukuoka située au Sud du pays. Nous logeons dans le Marine Hotel, central, propre et très bon marché, où vous aurez sûrement la surprise de découvrir des
+prospectus d'hôtesses japonaises, qui doivent être aussi présents que les
+bibles dans nos hôtels.
+{:.ten.columns.post-content}
+
 {% recommend %}
-[Marine Hotel, 24€ la nuit pour deux](https://www.booking.com/hotel/jp/marine-shinkan.fr.html)
+- [Marine Hotel, 24€ la nuit pour deux](https://www.booking.com/hotel/jp/marine-shinkan.fr.html)
 {% endrecommend %}
 
 Après avoir récupérés du voyage, nous parcourons la ville, très construite
@@ -54,7 +57,7 @@ Pour notre première soirée au bout du monde, nous trouvons une devanture illum
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Restaurant "Ryu no su"](https://maps.app.goo.gl/ufqBx)
+- [Restaurant "Ryu no su"](https://maps.app.goo.gl/ufqBx)
 {% endrecommend %}
 
 Deux jours à Kurume
@@ -77,7 +80,7 @@ Un métro bondé nous avale et se lance à vive allure. Tel un serpent, il se fa
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Airbnb de Takahiro et Atsuko](https://www.airbnb.fr/rooms/5775393)
+- [Airbnb de Takahiro et Atsuko](https://www.airbnb.fr/rooms/5775393)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190310_210643.jpg" alt="Futons" %}
@@ -90,11 +93,9 @@ deux passages : les hommes passent le petit rideau noir, les femmes le
 rouge, pour se mettre à nus dans une salle pleine de casiers.
 {:.ten.columns.post-content}
 
-TODO: mettre le lien vers le post suivant où on parle de ce qu'est un Onsen
-{:.ten.columns.post-content}
-
 {% recommend %}
-[Onsen de Kurume, 750¥ l'entrée](https://maps.app.goo.gl/u3qKs)
+- [Onsen de Kurume, 750¥ l'entrée](https://maps.app.goo.gl/u3qKs)
+- [Qu'est-ce qu'un Onsen ?](/voyages/2019/03/10/visite-de-beppu/)
 {% endrecommend %}
 
 On comprend vite que la nudité n'est pas un problème dans ces espaces, l'hygiène étant la principale préoccupation. Ici, on aura l'occasion d'utiliser sauna avec télévision, bains glacés, chauds, à bulles en intérieur ou encore bouillant en extérieur.
@@ -108,7 +109,7 @@ Difficile de rater cette statue qui sert de repère dans la ville, invitant
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Budha "Jibodaikannon" et son temple](https://maps.app.goo.gl/SgLpX)
+- [Budha "Jibodaikannon" et son temple](https://maps.app.goo.gl/SgLpX)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190307_125838.jpg" alt="Buddha" %}
@@ -120,7 +121,7 @@ milieu de ceux du voisin chinois.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[daiso : 100¥ shop](https://en.m.wikipedia.org/wiki/Daiso)
+- [daiso : 100¥ shop](https://en.m.wikipedia.org/wiki/Daiso)
 {% endrecommend %}
 
 Les cafés et salons thé se font apparemment rare ici, nous avons tout de
@@ -131,7 +132,7 @@ de chaudes boiseries : un délice pour les yeux et les papilles.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Cofa coo Fe, jazz bar](http://www.kumin.ne.jp/cofacoo/index.html)
+- [Cofa coo Fe, jazz bar](http://www.kumin.ne.jp/cofacoo/index.html)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190307_213924.jpg" alt="Tasses dans le café" %}

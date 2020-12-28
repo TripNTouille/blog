@@ -25,7 +25,7 @@ Pour cette route, nous troquons nos chaussures de marche contre des vélos, mode
 {:.ten.columns.post-content}
 
 {% recommend %}
-Vous pouvez louer un vélo à l'[office du tourisme](https://maps.me/ge0?latlonzoom=821TtvS2hB&name=office%20du%20tourisme)
+- Vous pouvez louer un vélo à l'[office du tourisme](https://maps.me/ge0?latlonzoom=821TtvS2hB&name=office%20du%20tourisme)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190424_121409.jpg" alt="à vélo, détendu, au milieu des îles" %}
@@ -42,15 +42,18 @@ Nous y passons trois jours à contempler les gouttes tomber et rebondir sur les 
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Reservez à l'auberge](https://www.booking.com/hotel/jp/onomichi-guest-house-anago-no-nedoko.html?aid=1595466&label=ppActionButton-cdb4851b95cb46f7de5ab9ec4786f7a7ea0fc7e), nous vous recommandons la chambre
+- [Reservez à l'auberge](https://www.booking.com/hotel/jp/onomichi-guest-house-anago-no-nedoko.html?aid=1595466&label=ppActionButton-cdb4851b95cb46f7de5ab9ec4786f7a7ea0fc7e), nous vous recommandons la chambre
 {% endrecommend %}
 
-TODO : mettre photo de nous entrain de peindre dans l'auberge, une de notre chambre et une des fillettes?
-{:.ten.columns.post-content}
+{% include photo.html photo="onomichi_ecolieres.jpg" alt="des ecolières sous la pluie" %}
+{% include photo.html photo="onomichi_jardin_auberge.jpg" alt="le petit jardin de notre auberge" %}
 
 Et entre les gouttes, nous grimpons la colline pour gagner une vue superbe sur la mer et les îles au Sud ; en chemin, vous traverserez de nombreux temples et pagodes donnant une ambiance mystique au quartier.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[La pagode Tenneiji](https://www.google.com/maps/place/Tenneiji+3-Story+Pagoda/@34.4103727,133.1995611,18z/data=!4m8!1m2!3m1!2sTenneiji+3-Story+Pagoda!3m4!1s0x355101b3e8abffff:0x3a5900fed88c15ae!8m2!3d34.4100431!4d133.1998542) et sa vue magnifique
+- [La pagode Tenneiji](https://www.google.com/maps/place/Tenneiji+3-Story+Pagoda/@34.4103727,133.1995611,18z/data=!4m8!1m2!3m1!2sTenneiji+3-Story+Pagoda!3m4!1s0x355101b3e8abffff:0x3a5900fed88c15ae!8m2!3d34.4100431!4d133.1998542) et sa vue magnifique
 {% endrecommend %}
+
+{% include photo.html photo="IMG_20190424_114212.jpg" alt="vue de Onomichi depuis la pagode" %}
+

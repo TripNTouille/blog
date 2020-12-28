@@ -13,7 +13,7 @@ Un bus nous fait transpercer les montagnes dans d’interminables tunnels pour r
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Trouver les bus en ligne](https://japanbusonline.com/en/AllRouteList)
+- [Trouver les bus en ligne](https://japanbusonline.com/en/AllRouteList)
 {% endrecommend %}
 
 <!--fin extrait-->
@@ -24,7 +24,7 @@ Nous sommes installés dans une auberge de jeunesse en bord de mer, à deux pas 
 {:.ten.columns.post-content}
 
 {% recommend %}
-[L'auberge Dantan à Beppu](https://www.booking.com/hotel/jp/guest-house-danran.fr.html)
+- [L'auberge Dantan à Beppu](https://www.booking.com/hotel/jp/guest-house-danran.fr.html)
 {% endrecommend %}
 
 Le Onsen est un bain japonais très fréquenté encore aujourd’hui. L’eau vient de sources volcaniques. On s’y retrouve après le travail pour quelques instants de détente, de soins et d’échange avec les gens du quartier. Pudiques et timides, nous imitons les gestes et écoutons les discussions sans comprendre.
@@ -32,9 +32,8 @@ Femmes et hommes se séparent à l’entrée. On se déshabille, se savonne assi
 Après ce moment de détente, nous rejoignons de petits cabinets pour nous sécher, nouer notre Yukata (kimono de bain) et se rejoindre dans la partie commune pour déguster un thé vert fumant. 
 {:.ten.columns.post-content}
 
-TODO aquarelle du Onsen
+{% include photo.html photo="aquarelle_onsen_beppu.jpg" alt="Aquarelle, un onsen à Beppu" %}
 {:.ten.columns.post-content}
-
 
 Nous en avons essayé trois différents :
 {:.ten.columns.post-content}
@@ -50,10 +49,9 @@ extérieur). 510¥
 {:.ten.columns.post-content}
 
 {% recommend %}
-Les liens vers les 3 Onsens
-- [Takegawara Onsen](https://www.vivrelejapon.com/ville-beppu/takegawara-onsen)
-- [Kaimonji Onsen](https://www.tripadvisor.fr/Attraction_Review-g298219-d6420618-Reviews-Kaimonji_Onsen-Beppu_Oita_Prefecture_Kyushu.html)
-- [Kitahama Onsen](https://www.tripadvisor.com/Attraction_Review-g298219-d7935912-Reviews-Kitahama_Hotspring_Termas-Beppu_Oita_Prefecture_Kyushu.html)
+- [Onsen Takegawara](https://www.vivrelejapon.com/ville-beppu/takegawara-onsen)
+- [Onsen Kaimonji](https://www.tripadvisor.fr/Attraction_Review-g298219-d6420618-Reviews-Kaimonji_Onsen-Beppu_Oita_Prefecture_Kyushu.html)
+- [Onsen Kitahama](https://www.tripadvisor.com/Attraction_Review-g298219-d7935912-Reviews-Kitahama_Hotspring_Termas-Beppu_Oita_Prefecture_Kyushu.html)
 {% endrecommend %}
 
 Une fois le soleil de retour, nous avons fait le tour de la ville par les
@@ -77,7 +75,7 @@ présentation et l'élégance des emballages japonais.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Marché à goûter](http://ge0.me/w2ftij5Qos/Marché_à_goûter)
+- [Marché à goûter](http://ge0.me/w2ftij5Qos/Marché_à_goûter)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190310_193009.jpg" alt="Tasse avec paquet de champignons" %}

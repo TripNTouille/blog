@@ -15,17 +15,12 @@ Quelques dizaines de kilomètres après Kyoto, nous visons Osaka. À peine desce
 <!--fin extrait-->
 
 {% include photo.html photo="IMG_20190512_163409.jpg" alt="La nourriture est une préocupation majeure à Osaka" %}
-{% include photo.html photo="J-ruebonde-Osaka.jpg" alt="Les rues sont bondées à Osaka" %}
-{% include photo.html photo="J-ruebondee-Osaka.jpg" alt="Une autre rue bondée à Osaka" %}
  
-TODO: les mettre sur une lige
-{:.ten.columns.post-content}
-
 Il y a de quoi manger absolument partout : poulpes, moules géantes, takoyaki, tapis de sushis ... ici, on s’explose la panse pour trois francs six sous !
 {:.ten.columns.post-content}
 
 {% recommend %}
-Une adresse à retenir : [le quartier Dotonburi](http://ge0.me/03gIx7W6r1/Dōtonbori_rue_bouffe)
+- Une adresse à retenir : [le quartier Dotonburi](http://ge0.me/03gIx7W6r1/Dōtonbori_rue_bouffe)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190512_212615.jpg" alt="Takoyaki, poulpe dans une sorte de beignet... pas de souci, vous allez aimé !" %}
@@ -44,3 +39,4 @@ Alors pour encaisser cette dynamique hallucinante, nous nous réfugions dans un 
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190512_212336.jpg" alt="On se réfugie, perchés, dans un café avec vue sur la rue" %}
+

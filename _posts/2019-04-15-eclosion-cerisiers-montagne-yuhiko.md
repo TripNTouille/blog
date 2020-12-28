@@ -47,7 +47,7 @@ avec ses bourgeons puis finalement ses fleurs tant attendues !
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Daigozakura](http://ge0.me/w21eg6-dkH/Daigozakura_Cherry_Blossoms)
+- [Daigozakura](http://ge0.me/w21eg6-dkH/Daigozakura_Cherry_Blossoms)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190411_150130.jpg" alt="" %}
@@ -78,7 +78,7 @@ tout genre de choses !
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Maison-musée](http://ge0.me/021eA9OlzC/Musée_%3F)
+- [Maison-musée](http://ge0.me/021eA9OlzC/Musée_%3F)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190403_142858.jpg" alt="" %}
@@ -103,7 +103,7 @@ déposer leurs légumes et en acheter d'autres.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Magasins agricoles](http://ge0.me/021eBMBKq5/Magasins_agricoles)
+- [Magasins agricoles](http://ge0.me/021eBMBKq5/Magasins_agricoles)
 {% endrecommend %}
 
 Alors qu'on nous annonce dans le journal qu'un passionné lance une culture
@@ -151,7 +151,7 @@ récolté plus tôt lui rappelant son enfance.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Restaurant Shiitake](http://ge0.me/0210AEUJgc/Shiitake_restaurant)
+- [Restaurant Shiitake](http://ge0.me/0210AEUJgc/Shiitake_restaurant)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190411_182211.jpg" alt="" %}
@@ -168,7 +168,7 @@ d'ailleurs dans ses bungalows durant l'été.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Les bungalows de Yukiko](http://ge0.me/s21cpipCaA/Bungalow)
+- [Les bungalows de Yukiko](http://ge0.me/s21cpipCaA/Bungalow)
 {% endrecommend %}
 
 Yukiko la curieuse a sauté sur l'occasion de voyager de sa ferme en

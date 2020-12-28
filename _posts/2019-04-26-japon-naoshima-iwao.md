@@ -18,13 +18,11 @@ Nous rejoignons Iwao pour deux semaines sur une minuscule île, fameuse pour ses
 <!--fin extrait-->
 
 {% recommend %}
-Le site de [Benesse](http://benesse-artsite.jp/en/) pour plus d'informations
+- Le site de [Benesse](http://benesse-artsite.jp/en/) pour plus d'informations
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190426_132256.jpg" alt="île d'art et citrouille jaune" %}
-
-TODO : mettre 3 photos d'art : la citrouille, la maison du cahos qu'on avai visité, la mer ou une colline
-{:.ten.columns.post-content}
+{% include photo.html photo="IMG_20190504_111324.jpg" alt="une maison du chaos à Naoshima" %}
 
 Chaque matin, des milliers de touristes, européens, chinois et japonais débarquent sur l’île pour consommer frénétiquement les lieux, avant d’abandonner les villages à leur calme du soir, une fois le dernier ferry reparti.
 {:.ten.columns.post-content}
@@ -48,15 +46,12 @@ Dans son jardin potager, occupé par des étagères de vaisselle d’occasion, d
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Iwao's seven islands](http://ge0.me/w21cQSwuQd/Iwao’s_Cafe_Seven_Islands) : pour manger ou chiner !
+- [Iwao's seven islands](http://ge0.me/w21cQSwuQd/Iwao’s_Cafe_Seven_Islands) : pour manger ou chiner !
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190505_172604.jpg" alt="interieur du café, la caverne d'Ali Baba" %}
 
 Pendant que Sylvain s’improvise serveur interculturel, Julie infiltre les cuisines et seconde Iwao pour préparer les yakitori, donburi, omelettes, zenzaï et kakigori !
-{:.ten.columns.post-content}
-
-TODO : mettre es photos du marché au puce et du jardin sur une ligne de 3 (il y a beaucoup de photo dans ce blog...)
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190504_123527.jpg" alt="kokeshi, poupées offertes avant les naissances" %}
@@ -65,3 +60,4 @@ Ce bonhomme espiègle nous surprend par sa douceur et son calme dans les coups d
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190504_123442.jpg" alt="céramiques traditionnelles japonaises" %}
+

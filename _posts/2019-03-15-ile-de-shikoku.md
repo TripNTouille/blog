@@ -26,7 +26,7 @@ Après ces quelques jours en ville, nous embarquons pour 3h de ferry sur la mer 
 <!--fin extrait-->
 
 {% recommend %}
-[Carte avec le sentier de pèlerinage](http://www.shikokuhenrotrail.com/shikoku/pilgrimagemap.html)
+- [Carte avec le sentier de pèlerinage](http://www.shikokuhenrotrail.com/shikoku/pilgrimagemap.html)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190312_215807.jpg" alt="la mamie devant la maison traditionnelle coincée entre deux truc modernes" %}
@@ -55,8 +55,8 @@ Grands aventuriers que nous sommes, nous choisissons de passer la semaine dans u
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Réserver à l'Hotel Sunriver](http://agoda.onelink.me/1640755593?pid=Mobile_App&c=Property_Sharing&site_id=1770664&af_dp=agoda%3a%2f%2fhotel%2fSunriver%20Oboke%20Hotel%2f871197&af_force_dp=true&af_r=https%3a%2f%2fwww.agoda.com%2fsunriver-oboke-hotel%2fhotel%2fmiyoshi-s+hi-jp.html&af_web_dp=https%3a%2f%2fwww.agoda.com%2fsunriver-oboke-hotel%2fhotel%2fmiyoshi-shi-jp.html&adults=2&childs=0&rooms=1&checkIn=2019-05-28&checkOut=2019-05-29&los=1&cid=1770664)
-Tarif: environ 70€ / 2 personnes
+- [Réserver à l'Hotel Sunriver](http://agoda.onelink.me/1640755593?pid=Mobile_App&c=Property_Sharing&site_id=1770664&af_dp=agoda%3a%2f%2fhotel%2fSunriver%20Oboke%20Hotel%2f871197&af_force_dp=true&af_r=https%3a%2f%2fwww.agoda.com%2fsunriver-oboke-hotel%2fhotel%2fmiyoshi-s+hi-jp.html&af_web_dp=https%3a%2f%2fwww.agoda.com%2fsunriver-oboke-hotel%2fhotel%2fmiyoshi-shi-jp.html&adults=2&childs=0&rooms=1&checkIn=2019-05-28&checkOut=2019-05-29&los=1&cid=1770664)
+  (environ 70€ / 2 personnes)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190314_142301.jpg" alt="chambre hôtel" %}
@@ -93,8 +93,7 @@ ambiance chaleureuse et un cocon comme on les aime !
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Réserver Sakura-sō](https://www.lonelyplanet.com/japan/tokushima/hotels/sakura-so/a/lod/e749bdb0-9d20-45fd-9925-cc44a2831656/356813)
-Tarif: 3000¥ / personne
+- [Réserver Sakura-sō](https://www.lonelyplanet.com/japan/tokushima/hotels/sakura-so/a/lod/e749bdb0-9d20-45fd-9925-cc44a2831656/356813) (Tarif: 3000¥ / personne)
 {% endrecommend %}
 
 À deux pas de là, nous découvrons un restaurant familial où le père
@@ -107,8 +106,7 @@ bruyamment par l'équipe en cuisine.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Restaurant Self Udon Yama](https://www.tripadvisor.com/Restaurant_Review-g298236-d5770328-Reviews-Self_Udon_Yama_Tokushima_Ekimae-Tokushima_Tokushima_Prefecture_Shikoku.html?m=19905)
-Tarif: entre 200 et 450¥ par Ramen.
+- [Restaurant Self Udon Yama](https://www.tripadvisor.com/Restaurant_Review-g298236-d5770328-Reviews-Self_Udon_Yama_Tokushima_Ekimae-Tokushima_Tokushima_Prefecture_Shikoku.html?m=19905) (Tarif: entre 200 et 450¥ par Ramen)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190318_142824.jpg" alt="restaurant" %}
@@ -127,9 +125,7 @@ dans notre poche, pleins de gourmandise !
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Adresse de la fabrique d'Obaniaki](http://ge0.me/021VudoiCT/元祖大判焼_あたりや)
-Tarif : 70¥ piece
-元祖大判焼 あたりや
+- [Adresse de la fabrique d'Obaniaki](http://ge0.me/021VudoiCT/元祖大判焼_あたりや) (Tarif : 70¥ piece)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190318_145942.jpg" alt="Julie a la vitrine" %}

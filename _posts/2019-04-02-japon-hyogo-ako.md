@@ -14,7 +14,7 @@ Nous quittons nos amis fêtards et la plage blanche de Shirahama pour faire esca
 <!--fin extrait-->
 
 {% recommend %}
-[Une petite ville de bord de mer](http://ge0.me/o21dpqcATO/Banshū-Akō)
+- [Une petite ville de bord de mer](http://ge0.me/o21dpqcATO/Banshū-Akō)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190402_133409.jpg" alt="vue du logement, au dessus de l'atelier" %}
@@ -23,7 +23,7 @@ La cuisine au RDC est dans l’atelier. Le jour, nos hôtes y travaillent et le 
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Louez une chambre chez ces créatrices](https://www.airbnb.com/rooms/33163391)
+- [Louez une chambre chez ces créatrices](https://www.airbnb.com/rooms/33163391)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190402_133049.jpg" alt="créatrice de tapis traditionnel au travail" %}

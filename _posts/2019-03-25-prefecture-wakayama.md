@@ -31,8 +31,8 @@ Sur le Kumano Kodo, on raconte que si l’on relie les trois temples, on renaît
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Oreiller d'herbes, Soseki](https://www.babelio.com/livres/Soseki-Oreiller-dherbes/15473)
-[Détail du chemin Kumano Kodo](http://www.tb-kumano.jp/en/kumano-kodo/)
+- [Oreiller d'herbes, Soseki](https://www.babelio.com/livres/Soseki-Oreiller-dherbes/15473)
+- [Détail du chemin Kumano Kodo](http://www.tb-kumano.jp/en/kumano-kodo/)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190327_182019.jpg" alt="Tente" %}
@@ -49,17 +49,17 @@ planter la tente et profiter du Onsen.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Hôtel de Jian](http://www.booking.com/Share-OmG83N)
+- [Hôtel de Jian](http://www.booking.com/Share-OmG83N)
 {% endrecommend %}
 
-- le Camping ..., Terrain d'une ancienne école aménagé de tables et barbecue
+- le Camping... terrain d'une ancienne école aménagé de tables et barbecue
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Camping de Koguchi, Shizen-no-Ie](http://ge0.me/03gBBSnd4N/Koguchi_Shizen-no-Ie)
+- [Camping de Koguchi, Shizen-no-Ie](http://ge0.me/03gBBSnd4N/Koguchi_Shizen-no-Ie)
 {% endrecommend %}
 
-- les temples de Hongu et Nachi avec sa cascade
+- le temple de Hongu et celui de Nachi avec sa cascade
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190328_161433.jpg" alt="Temple de Hongu" %}
@@ -70,7 +70,7 @@ qui nous y accueillera
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Minshuku Koide](http://www.booking.com/Share-RFLMvs)
+- [Minshuku Koide](http://www.booking.com/Share-RFLMvs)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190329_124948.jpg" alt="Photo du port" %}
@@ -86,7 +86,7 @@ Pour accompagner ce couple, ajoutez une dizaine de salariés ne parlant que japo
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Hôtel le Boukaï](https://maps.app.goo.gl/f84FuQwGVHRu4rrW6)
+- [Hôtel le Boukaï](https://maps.app.goo.gl/f84FuQwGVHRu4rrW6)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190331_231406.jpg" alt="Portrait de Non-chan" %}
@@ -100,10 +100,14 @@ Notre rôle ? Plier les futons, aspirer les tatamis, replier les Yukatas et fair
 (Links) Astuce pour réussir une shushi party
 (Links) Recette du Tsukiyaki
 -->
+{% recommend %}
+- [Recette des Gyozas par le chef Yuji](/recettes/japon-gyoza)
+- [Recette de la sushi party](/recettes/japon-sushi)
+- [Recette du Sukiyaki](/recettes/japon-sukiyaki)
+{% endrecommend %}
 
 Shirahama est une ville connue pour sa plage de sable blanc et son rocher
 avec une porte d'où l'on peut observer le coucher de soleil.
 {:.ten.columns.post-content}
 
-{% include photo.html photo="IMG_20190324_143857.jpg" alt="Plage blanche" %}
 {% include photo.html photo="IMG_20190320_101959.jpg" alt="Rocher" %}

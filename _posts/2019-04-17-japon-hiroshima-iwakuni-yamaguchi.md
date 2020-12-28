@@ -45,14 +45,14 @@ Ville japonaise que nous avions bien en tête depuis nos livres d’histoire sur
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Dôme de Genbaku](http://ge0.me/421StihRXe/Dôme_de_Genbaku), parmi les derniers vestiges de la bombe
+- [Dôme de Genbaku](http://ge0.me/421StihRXe/Dôme_de_Genbaku), parmi les derniers vestiges de la bombe
 {% endrecommend %}
 
 Alors nous touristes, on s’interroge : sur l’horreur humaine passée, sur les prouesses scientifiques manipulées et sur les intérêts qui dépassent la raison humaine... écho au présent évidemment ! Quand va-t-on arrêter de penser patrie, puissance militaire ou force financière ?
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Musée mémorial pour la paix](http://ge0.me/s21StgpMxZ/Musée_du_Mémorial_pour_la_Paix_d%27Hiroshima)
+- [Musée mémorial pour la paix](http://ge0.me/s21StgpMxZ/Musée_du_Mémorial_pour_la_Paix_d%27Hiroshima)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190417_140032.jpg" alt="L'origami, message de paix pour le futur" %}
@@ -61,7 +61,7 @@ Aujourd’hui, Hiroshima appelle à la paix : boulevards, cloches, musée, ils r
 {:.ten.columns.post-content}
 
 {% recommend %}
-Où loger à Hiroshima : [Cocostay Felice, petit appartement cosy](https://www.booking.com/hotel/jp/hueritie.html?aid=1595466&label=ppActionButton-cdb4851b95cb46f7de5ab9ec4786f7a7ea0fc7e)
+- Où loger à Hiroshima : [Cocostay Felice, petit appartement cosy](https://www.booking.com/hotel/jp/hueritie.html?aid=1595466&label=ppActionButton-cdb4851b95cb46f7de5ab9ec4786f7a7ea0fc7e)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190419_145227.jpg" alt="La paix se ressent dans la nouvelle ville" %}

@@ -25,17 +25,12 @@ Tokyo rassemble les temples et parcs calmes de Kyoto, le bruit et les couleurs d
 {:.ten.columns.post-content}
 
 {% recommend %}
-Vous aurez l'occasion
-- de dormir dans un [capsule hotel](https://www.booking.com/hotel/jp/hoteru-hosuteru-he-bo-shou.html?aid=1595466&label=ppActionButton-cdb4851b95cb46f7de5ab9ec4786f7a7ea0fc7e)
-- ou d'observer la ville depuis le ["Metropolitan Government Building"](https://goo.gl/maps/KcU1EDiSR873foMp6)
+- dormir dans un [capsule hotel](https://www.booking.com/hotel/jp/hoteru-hosuteru-he-bo-shou.html?aid=1595466&label=ppActionButton-cdb4851b95cb46f7de5ab9ec4786f7a7ea0fc7e)
+- observer la ville depuis le ["Metropolitan Government Building"](https://goo.gl/maps/KcU1EDiSR873foMp6)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190515_162013.jpg" alt="Un rythme effréné" %}
-{% include photo.html photo="J-cosplay-Tokyo.jpg" alt="Jenues filles cosplay" %}
 {% include photo.html photo="J-metro-Tokyo.jpg" alt="métro à Tokyo" %}
-
-TODO: ajouter avec cette photo du croisement celle des filles déguisées et celle du métro serpent
-{:.ten.columns.post-content}
 
 Tokyo nous semble massive, imposant un rythme effréné à ses habitants, mais aussi l'excitation d'une capitale grouillante et vivante ! Pour nous, ce sera l'occasion de visiter le marché au poisson (pâle copie de celui de Kii-Katsuura) et l'île plus calme du Sud.
 {:.ten.columns.post-content}
@@ -57,3 +52,4 @@ Et si vous voulez un air de Japon plus traditionnel, vous pourrez vous balader d
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190516_204909.jpg" alt="Les temples illuminés à la tombée de la nuit" %}
+
