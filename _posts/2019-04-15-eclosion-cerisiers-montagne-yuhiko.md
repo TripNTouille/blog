@@ -129,6 +129,11 @@ poêlé à l'huile d'olive avec une noix de beurre dans son chapeau au moment
 de le croquer sur son lit de feuilles de Wasabi ! Bon appétit !
 {:.ten.columns.post-content}
 
+{% recommend %}
+- [Recette Shiitake et feuille de wasabi](/recettes/japon-shiitake-wasabi)
+- [Recette de l'Okonomiyaki](/recettes/japon-okonomiyaki)
+{% endrecommend %}
+
 Sous tous ces aspects traditionnels, Yukiko est également femme de notre
 monde moderne ! Elle rejoint son groupe d'anglais chaque semaine, sillonne
 les routes avec son petit camion blanc décoré de coussins en crochet et

@@ -81,6 +81,7 @@ Un métro bondé nous avale et se lance à vive allure. Tel un serpent, il se fa
 
 {% recommend %}
 - [Airbnb de Takahiro et Atsuko](https://www.airbnb.fr/rooms/5775393)
+- [Recette de la kabochia goûté chez eux](/recettes/japon-kabochia)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190310_210643.jpg" alt="Futons" %}

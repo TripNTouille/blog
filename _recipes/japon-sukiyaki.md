@@ -4,6 +4,8 @@ country: japon
 categories:
   - plat
 image: R-tsukiyaki.jpg
+post:
+  url: /voyages/2019/03/25/prefecture-wakayama/
 ---
 
 La fondue japonaise vue par Yoshi

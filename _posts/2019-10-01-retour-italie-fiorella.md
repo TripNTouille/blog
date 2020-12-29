@@ -26,6 +26,7 @@ Ce joyeux British expatrié en Italie depuis 20 ans vient nous chercher à la ga
 
 {% recommend %}
 - [Notre première rencontre avec Tim](/voyages/2018/06/15/retour-italie-marche/)
+- [Recette du pourpier à la ricotta](/recettes/italie_semizotu_ricotta)
 {% endrecommend %}
 
 Retour en terrain connu : chez notre Mamma Fiorella 
@@ -36,6 +37,7 @@ Nous passons les Apennins pour atteindre la côte méditérranéenne. En regarda
 
 {% recommend %}
 - [Notre première rencontre avec Fiorella, Igi et Angela](/voyages/2018/05/01/toscane-fiorella-sienne/)
+- [Recette du risotto de Fiorella](/recettes/italie_risotto_fiorella)
 {% endrecommend %}
 
 {% include photo.html photo="I-paniers.jpg" alt="Paniers dans le jardin" %}

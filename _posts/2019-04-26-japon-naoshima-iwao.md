@@ -54,6 +54,11 @@ Dans son jardin potager, occupé par des étagères de vaisselle d’occasion, d
 Pendant que Sylvain s’improvise serveur interculturel, Julie infiltre les cuisines et seconde Iwao pour préparer les yakitori, donburi, omelettes, zenzaï et kakigori !
 {:.ten.columns.post-content}
 
+{% recommend %}
+- [Recette du Donburi](/recettes/japon-donburi)
+- [Recette de l'omelette japonnaise](/recettes/japon-omelette-japonnaise)
+{% endrecommend %}
+
 {% include photo.html photo="IMG_20190504_123527.jpg" alt="kokeshi, poupées offertes avant les naissances" %}
 
 Ce bonhomme espiègle nous surprend par sa douceur et son calme dans les coups de feu du service. Du haut de ses 78 ans, il nous embarque dans une vie chargée de voyages et d’objets de famille, glanés au fil des ans qui disparaissent progressivement pour combler les gens de passage fouillant dans de vieilles males.
