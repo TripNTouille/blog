@@ -44,7 +44,7 @@ Chaque matin, nous observons de notre camping favori une centaine de Montgolfiè
 {:.ten.columns.post-content}
 
 {% recommend %}
-- [Voir les montgolfières depuis le Panorama camping](www.goremepanorama-camping.com)
+- [Voir les montgolfières depuis le Panorama camping](http://www.goremepanorama-camping.com)
 {% endrecommend %}
 
 {% include photo.html photo="T-montgolfiereproche.jpg" alt="Gros plan sur la Montgolfière" %}
