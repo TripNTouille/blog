@@ -4,6 +4,8 @@ country: france
 categories:
   - dessert
 image: R-crumble.jpg
+post:
+  url: /voyages/2019/07/20/merisi-bonheur-famille/
 ---
 
 Recettes très simple à préparer dans la majorité des pays étrangers.

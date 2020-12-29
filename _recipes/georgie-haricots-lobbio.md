@@ -4,6 +4,8 @@ country: georgie
 categories:
   - plat
 image: R-lobbio.jpg
+post:
+  url: /voyages/2019/07/20/merisi-bonheur-famille/
 ---
 
 Haricots verts en sauce, cette recette peut aussi se préparer avec des haricots rouges écrasés en hiver.

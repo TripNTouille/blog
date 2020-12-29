@@ -64,6 +64,8 @@ Nous y rencontrons deux joyeux retraités qui nous enseignent les traditions gé
 
 {% recommend %}
 - [Si vous voulez rendre visite aux abeilles](https://www.openstreetmap.org/node/449065896#map=14/41.8869/46.1435)
+- [Recette du gaspacho de Piotr](/recettes/georgie-gaspacho-concombre)
+- [Recette de son pain perdu](/recettes/pain-perdu-epice)
 {% endrecommend %}
 
 {% include photo.html photo="G-Sosomiel.jpg" alt="L'apiculteur découpe un cadre plein de miel" %}

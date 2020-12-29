@@ -81,6 +81,13 @@ Mais Piotr n’a pas dit son dernier mot question guet-apens et il embarque les 
 Et si on apprenait à cuisiner les khatchapouri ? Et puis comme ça faisait quelques heures qu’on n’avait pas mangé et bu, arrivent sur la table biscuits maison, melons et pêches. Tout ça n’étant que meilleur avec un verre à la main, on voit arriver une boisson « légèrement » alcoolisée concoctée parla maîtresse de maison à base de chacha (what esle ?!) d’orange et de café ! Surprise ! On trinque avec des demoiselles âgées de 13 à 15 ans ! Et elles jouent aussi bien le rôle de Tamada que les hommes, qu’il s’agisse de porter un toast ou de finir leur verre cul-sec ! Pas le temps de finir ni bouteille ni plats, Noukri nous fait signe qu’il est temps de s’en aller pour se rendre chez un ami qui a besoin de conseils HelpX pour lancer sa guesthouse ! Guet-apens ?
 {:.ten.columns.post-content}
 
+{% recommend %}
+- [Recette du khachapuri Imeruli](/recettes/georgie-khachapuri-nukri)
+- [Recette de la salade de betteraves de Noukri](/recettes/georgie-salade-betteraves)
+- [Recette de sa salade de carottes](/recettes/georgie-salade-carottes)
+- [Recette du plov Ouzbek](/recettes/georgie-plov)
+{% endrecommend %}
+
 {% include photo.html photo="G-aline-khatchapouri.jpg" alt="Aline observée par toute les demoiselles" %}
 
 Après un échange en anglais pour tenter de comprendre ce qu’on fait là, Julie s’arme de patience pour créer un profil HelpX à la famille ! Youhou on va pouvoir rentrer, packer nos affaires, digérer si besoin et dormiiiiiiir ! Et puis quoi encore ?! On est en Géorgie ou pas ! Passons à table pour se « régaler » (à ce stade-là parle-t-on encore de régal ?) des multiples mets qui sont passés devant nos yeux, préparés par la femme de la maison et buvons tous ensemble à nos pays, à la paix, la santé, la nature, l’amitié, nos ancêtres, aux femmes, et bien d’autres raisons saupoudrées de poésie, toutes aussi bonnes pour picoler ! Parce qu’ici, si on ne toaste pas on ne boit pas ! Et de la main droite s’il vous plaît !

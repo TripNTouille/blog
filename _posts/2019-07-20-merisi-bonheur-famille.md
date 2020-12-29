@@ -16,6 +16,10 @@ Après ces pérégrinations politiques, nous partons vivre dans une famille au s
 {:.ten.columns.post-content}
 <!--fin extrait-->
 
+{% recommend %}
+- [Auberge Mokvare](https://www.facebook.com/Mokvare/)
+{% endrecommend %}
+
 {% include photo.html photo="G-merisisylvaindort.jpg" alt="Sylvain est endormi dans un lit donnant sur les nuages" %}
 {% include photo.html photo="G-merisichaussures.jpg" alt="Chaussures sèchant sur la clôture du jardin en pente" %}
 
@@ -23,11 +27,23 @@ Nous y rencontrons Jemal, chef de famille faisant vibrer la vallée de sa voix r
 {:.ten.columns.post-content}
 
 {% recommend %}
-- [Auberge Mokvare](https://www.facebook.com/Mokvare/)
+- [Recette du khatchapouri adjaruli](/recettes/georgie-khatchapouri-adjaruli)
+- [Recette des khinkalis](/recettes/georgie-khinkali)
+- [Recette de la sauce Adjika](/recettes/georgie-sauce-adjika)
+- [Recette de la sauce tkhemali](/recettes/georgie-sauce-tkemali)
 {% endrecommend %}
 
 Quadriller la forêt en quête de champignons, dévaliser les pruniers des voisins pour cuisiner la célèbre sauce Tkemali et profiter des douces soirées avec les nombreux élèves passionnés de musique et venant des quatre coins du monde. Nous nous sentons dans une bulle de bonne humeur, perchés sur une colline brumeuse avec un potager en pente nous offrant des tonnes de concombres, légumes incontournables de la cuisine géorgienne dont nous vous partageons les secrets...
 {:.ten.columns.post-content}
+
+{% recommend %}
+- [Recette d'Adjapsandali (légumes sautés)](/recettes/georgie-adjapsandali)
+- [Recette Badridjani Nigozi](/recettes/georgie-badridjani-nigozi)
+- [Recette du chou fluer à la mode Merisi](/recettes/georgie-chou-fleur-merisuli)
+- [Recette des haricots Lobbio](/recettes/georgie-haricots-lobbio)
+- [Recette des poivrons farcis](/recettes/georgie-poivrons-farcis)
+- [Recette de la salade carottes, aubergines et poivrons](/recettes/georgie-salade-carottes-aubergines-poivrons)
+{% endrecommend %}
 
 {% include photo.html photo="G-merisichampignon.jpg" alt="tout le monde nettoie les champignons" %}
 {% include photo.html photo="G-merisikhatiafarine.jpg" alt="Khatia tamise la farine de maïs" %}

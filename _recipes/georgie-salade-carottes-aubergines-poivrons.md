@@ -4,7 +4,7 @@ country: georgie
 categories:
   - entree
 post:
-  url: "/voyages/todo/"
+  url: /voyages/2019/07/20/merisi-bonheur-famille/
 image: R-saladeauberginecaritepoivron.jpg
 ---
 
