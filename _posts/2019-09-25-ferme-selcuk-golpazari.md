@@ -61,6 +61,17 @@ Une fois les échoppes installées, les hommes se retrouvent dans les cafés, à
 Le lendemain matin, Selçuk prend la route pour Istanbul, le camion minutieusement organisé pour livrer ses commandes. Mettons en stand bye les innovations du fils et entrons dans les traditions turques maintenant : ses parents prennent le relais à la ferme les trois prochains jours. Septuagénaires pleins de malice, ils nous transmettent les rituels de l’automne. Nous les aidons à cueillir des pistaches sauvages pour parfumer le café, à mélanger la sauce tomate pour les conserves et apprenons leurs petits plats dont nous vous offrons ici les recettes.
 {:.ten.columns.post-content}
 
+{% recommend %}
+- [Recette du Cacik, soupe de concombre](/recettes/turquie_cacik)
+- [Recette des Cigari boregi](/recettes/turquie_cigari_boregi)
+- [Recette du Dolma](/recettes/turquie_dolma)
+- [Recette du Güveç](/recettes/turquie_guvec)
+- [Recette des ocras à la tomate](/recettes/turquie_okra)
+- [Recette des pickles de pourpier](/recettes/turquie_pickles_semizotu)
+- [Recette de la sauce tomate](/recettes/turquie_sauce_tomate)
+- [Recette de la soupe de lentille](/recettes/turquie_soupe_lentilles)
+{% endrecommend %}
+
 {% include photo.html photo="T-papamaman.jpg" alt="Photo de famille avec les parents de Selçuk" %}
 {% include photo.html photo="T-papicoquin.jpg" alt="Papi malicieux fait des altères" %}
 {% include photo.html photo="T-papytomate.jpg" alt="Papi fait de la sauce tomate en pyjama" %}

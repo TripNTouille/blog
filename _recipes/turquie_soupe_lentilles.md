@@ -4,7 +4,7 @@ country: turquie
 categories:
   - plat
 post:
-  url: "/voyages/todo/"
+  url: /voyages/2019/09/25/ferme-selcuk-golpazari/
 image: R-soupe-lentille.jpg
 ---
 
