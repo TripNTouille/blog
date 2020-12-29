@@ -74,11 +74,6 @@ Nous montons à 3 000 mètres via des lacets s’étirant sur la montagne, avec 
 
 {% include photo.html photo="G-tushetiroute.jpg" alt="Lacets effrayants de la route vers Tusheti" %}
 
-TODO vérifier cette photo
-{:.ten.columns.post-content}
-
-{% include photo.html photo="G-route66-tusheti.JPG" alt="Route 66 vers Tusheti" %}
-
 En fin d’après-midi, nous atteignons le minuscule village d’Omalo. Après avoir desserré nos mâchoires, nous découvrons cette bourgade paisible, habitée quelques mois par an et inaccessible le reste de l’année, une fois la route détruite par les avalanches.
 {:.ten.columns.post-content}
 
