@@ -23,14 +23,14 @@ Cet homme robuste était banquier, militaire, manager, boucher et stambouliote. 
 {% include photo.html photo="T-saugesechee.jpg" alt="Feuilles de sauge sèchées" %}
 {% include photo.html photo="T-pistachesauvage.jpg" alt="Pistaches sauvages" %}
 
+Son projet mêle principes de permaculture et respect des agriculteurs de la région. Dans sa ferme, Selçuk expérimente macérations de plantes, cosmétiques à base d’aromates, savons au café, huile d’olive, vinaigres et légumes fermentés. Simultanément, il soutient les producteurs locaux puisqu’il ne cultive pas les fruits et légumes traditionnels mais se fournit chez ses voisins agriculteurs, leur assurant un revenu chaque semaine. Ainsi, il les encourage à faire pousser les légumes sans produits chimiques, le plus naturellement possible. Plus de 30 producteurs le suivent et pourront bientôt prétendre au label biologique. Belle victoire ici, où les lobbies des produits chimiques y voyaient un nouveau marché à conquérir !
+{:.ten.columns.post-content}
+
 {% recommend %}
 - [La ferme permaculture de Selçuk](https://www.zeytinlibogaz.com/)
 - [Où trouver sa ferme](https://g.page/zeytinlibogaz-permaculture-farm?share)
 - [Contacter le directement sur instagram](https://www.instagram.com/zeytinlibogaz/)
 {% endrecommend %}
-
-Son projet mêle principes de permaculture et respect des agriculteurs de la région. Dans sa ferme, Selçuk expérimente macérations de plantes, cosmétiques à base d’aromates, savons au café, huile d’olive, vinaigres et légumes fermentés. Simultanément, il soutient les producteurs locaux puisqu’il ne cultive pas les fruits et légumes traditionnels mais se fournit chez ses voisins agriculteurs, leur assurant un revenu chaque semaine. Ainsi, il les encourage à faire pousser les légumes sans produits chimiques, le plus naturellement possible. Plus de 30 producteurs le suivent et pourront bientôt prétendre au label biologique. Belle victoire ici, où les lobbies des produits chimiques y voyaient un nouveau marché à conquérir !
-{:.ten.columns.post-content}
 
 {% include photo.html photo="T-selcukbazar.jpg" alt="Selçuc salue un villageois sur le Bazar" %}
 {% include photo.html photo="T-glaces.jpg" alt="Nous posons avec le glacier du village" %}
