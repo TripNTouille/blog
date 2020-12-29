@@ -1,2 +1,6 @@
 plugins:
   - jekyll-admin
+
+pagination:
+  enabled: true
+  per_page: 100
