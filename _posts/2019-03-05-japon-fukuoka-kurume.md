@@ -17,17 +17,18 @@ Arrivée à Fukuoka
 
 {% include photo.html photo="IMG_20190307_221503.jpg" alt="Bol avec baguettes" %}
 
-Nous quittons Paris pour 20h de voyage et 8h de décalage horaire pour
-arriver à Fukuoka.  Nous logeons dans le Marine Hotel, central, propre et
-très bon marché, où vous aurez sûrement la surprise de découvrir des
-prospectus d'hôtesses japonaises, qui doivent être aussi présents que les
-bibles dans nos hôtels.
+Après notre expérience d’une année de voyage dans les Balkans en 2018, nous reprenons la route ce 1er mars 2019. Mais cette fois-ci, c’est le monde à l’envers : nous décollons de Paris pour survoler la terre et nous retrouver à l’autre bout du globe en un claquement de doigts.
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
 
+Après 20h de vol, 10 000 km de voyage et 8h de décalage : nous atterrissons au Japon, dans la ville de Fukuoka située au Sud du pays. Nous logeons dans le Marine Hotel, central, propre et très bon marché, où vous aurez sûrement la surprise de découvrir des
+prospectus d'hôtesses japonaises, qui doivent être aussi présents que les
+bibles dans nos hôtels.
+{:.ten.columns.post-content}
+
 {% recommend %}
-[Marine Hotel, 24€ la nuit pour deux](https://www.booking.com/hotel/jp/marine-shinkan.fr.html)
+- [Marine Hotel, 24€ la nuit pour deux](https://www.booking.com/hotel/jp/marine-shinkan.fr.html)
 {% endrecommend %}
 
 Après avoir récupérés du voyage, nous parcourons la ville, très construite
@@ -52,17 +53,11 @@ conseils de la personne à l'accueil.
 
 {% include photo.html photo="IMG_20190305_195145.jpg" alt="Façade restaurant"  %}
 
-Et pour terminer notre journée, nos estomacs sont en quête d'un dîner
-typique... séduits par la façade d'un petit troquet illuminé, nous faisons
-coulisser la porte de bois, passons les tissus accrochés au niveau de notre
-tête, et sommes accueillis par un bonjour général de l'équipe. Installés
-côte à côte face à la cuisine - comme de nombreux restaurants ici - nous
-commandons au hasard des plats "kasu". Quelle découverte : c'est un
-restaurant spécialiste des abats, notamment des tripes ! Avis aux amateurs.
+Pour notre première soirée au bout du monde, nous trouvons une devanture illuminée dont quelques symboles semblent évoquer de quoi manger. Nous poussons timidement la porte coulissante et entrons, salués chaleureusement par toute l’équipe, dans des vapeurs aux odeurs de friture. Le menu est en Kanji, nous y piochons donc quelques plats au hasard. Surprise surprise : c’est une triperie où l’on cuisine des abats inconnus dans nos livres de recettes françaises ! Vive la tripaille et le fou rire.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Restaurant "Ryu no su"](https://maps.app.goo.gl/ufqBx)
+- [Restaurant "Ryu no su"](https://maps.app.goo.gl/ufqBx)
 {% endrecommend %}
 
 Deux jours à Kurume
@@ -70,10 +65,7 @@ Deux jours à Kurume
 
 {% include photo.html photo="IMG_20190307_202109.jpg" alt="Famille" %}
 
-Nous partons pour deux jours chez Takahiro, Atsuko et leurs deux filles
-dans la banlieue éloignée de Fukuoka, à Kurume.
-Pour cela, nous achetons deux billets de train en borne à la gare de
-Fukuoka. Bon à savoir : si vous décidez d'aller plus loin que la station
+Nous nous sentons tels des enfants découvrant un monde où tout est nouveau. Boudha gigantesque, végétation luxuriante, boutiques colorées, alphabet indéchiffrable, gestuelle... Nous perdons nos repères et décidons dès le lendemain d’aller vivre dans le logement Air bnb de Takahiro et Atsuko à Kurume, banlieue de Fukuoka, pour mieux comprendre ce nouvel univers. Bon à savoir : si vous décidez d'aller plus loin que la station
 pour laquelle vous avez acheté votre billet, il est possible - avant de
 passer les petites portes de sortie de la station - de payer le complément en
 borne!
@@ -84,13 +76,12 @@ borne!
 - Mais surtout l'application [hyperdia](https://play.google.com/store/apps/details?id=com.hyperdia.android.activity&hl=en_US)
 {% endrecommend %}
 
-Immersion parfaite pour une arrivée au Japon puisque nos hôtes nous
-invitent à diner un curry familial dans leur maisonette spariate oú nous
-déplions les futons sur les tatamis du salon.
+Un métro bondé nous avale et se lance à vive allure. Tel un serpent, il se faufile entre les buildings, suspendus à quelques dizaines de mètres du sol. La ville s’étale à perte de vue et les minutes s’égrainent. Une heure plus tard, nous poussons la porte de maisonnette de cette jeune famille. Ils occupent la chambre et nous ouvrons nos futons sur les tatamis du salon, qui est aussi le terrain de jeu de leurs deux petites filles. Dans cette cabane en pleine ville, ils nous invitent à partager un curry maison au dîner et leurs enfants nous enseignent quelques grues sauvages et lys en origami pour prolonger la soirée.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Airbnb de Takahiro et Atsuko](https://www.airbnb.fr/rooms/5775393)
+- [Airbnb de Takahiro et Atsuko](https://www.airbnb.fr/rooms/5775393)
+- [Recette de la kabochia goûté chez eux](/recettes/japon-kabochia)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190310_210643.jpg" alt="Futons" %}
@@ -104,7 +95,8 @@ rouge, pour se mettre à nus dans une salle pleine de casiers.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Onsen de Kurume, 750¥ l'entrée](https://maps.app.goo.gl/u3qKs)
+- [Onsen de Kurume, 750¥ l'entrée](https://maps.app.goo.gl/u3qKs)
+- [Qu'est-ce qu'un Onsen ?](/voyages/2019/03/10/visite-de-beppu/)
 {% endrecommend %}
 
 On comprend vite que la nudité n'est pas un problème dans ces espaces, l'hygiène étant la principale préoccupation. Ici, on aura l'occasion d'utiliser sauna avec télévision, bains glacés, chauds, à bulles en intérieur ou encore bouillant en extérieur.
@@ -118,7 +110,7 @@ Difficile de rater cette statue qui sert de repère dans la ville, invitant
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Budha "Jibodaikannon" et son temple](https://maps.app.goo.gl/SgLpX)
+- [Budha "Jibodaikannon" et son temple](https://maps.app.goo.gl/SgLpX)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190307_125838.jpg" alt="Buddha" %}
@@ -130,7 +122,7 @@ milieu de ceux du voisin chinois.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[daiso : 100¥ shop](https://en.m.wikipedia.org/wiki/Daiso)
+- [daiso : 100¥ shop](https://en.m.wikipedia.org/wiki/Daiso)
 {% endrecommend %}
 
 Les cafés et salons thé se font apparemment rare ici, nous avons tout de
@@ -141,7 +133,7 @@ de chaudes boiseries : un délice pour les yeux et les papilles.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Cofa coo Fe, jazz bar](http://www.kumin.ne.jp/cofacoo/index.html)
+- [Cofa coo Fe, jazz bar](http://www.kumin.ne.jp/cofacoo/index.html)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190307_213924.jpg" alt="Tasses dans le café" %}

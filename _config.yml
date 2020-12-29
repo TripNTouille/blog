@@ -57,6 +57,8 @@ exclude:
   - scripts/
   - .travis.xml
   - config
+  - .git/
+  - .idea/
 
 jekyll-archives:
   enabled:

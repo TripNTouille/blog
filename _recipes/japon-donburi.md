@@ -4,7 +4,7 @@ country: japon
 categories:
   - plat
 post:
-  url: "/voyages/todo/"
+  url: /voyages/2019/04/26/japon-naoshima-iwao/
 image: R-domburi.jpg
 ---
 

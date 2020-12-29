@@ -4,7 +4,7 @@ country: georgie
 categories:
   - entree
 post:
-  url: "/voyages/todo/"
+  url: /voyages/2019/07/07/roadtrip-vashlovani-fromage/
 image: R-betterave-nukri.jpg
 ---
 

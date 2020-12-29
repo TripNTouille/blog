@@ -4,6 +4,8 @@ country: georgie
 categories:
   - entree
 image: R-choufleur.jpg
+post:
+  url: /voyages/2019/07/20/merisi-bonheur-famille/
 ---
 
 En découvrant cette recette avec Manana, nous avons tout d’abord trouvé indécent d’utiliser autant de matières grasses… Mais essayez, vous pourrez plus vous arrêter d’en manger.

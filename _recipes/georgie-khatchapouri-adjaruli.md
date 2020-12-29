@@ -4,6 +4,8 @@ country: georgie
 categories:
   - plat
 image: R-khachapuriimeruli.jpg
+post:
+  url: /voyages/2019/07/20/merisi-bonheur-famille/
 ---
 
 Pain au fromage de la région d'Adjara

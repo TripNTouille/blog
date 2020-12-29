@@ -24,50 +24,36 @@ points:
 image: IMG_20190414_070658.jpg
 ---
 
-En ce début de printemps, l'optimisme japonais nous envahis : la floraison
-des Sakura est un état d'être, une attente et une fête dans le cœur de
-chaque japonais rencontré.
+La floraison des Sakura est une fête pour chaque Japonais. Nous vivons avec eux l’arrivée du printemps, l’éclosion de fleurs duveteuses et l’éclatement d’une mosaïque colorée !
 {:.ten.columns.post-content}
 
-Nous vous partageons les bribes saisies pour vivre avec vous l'arrivée des
-beaux jours, l'éclosion de ces fleurs duveteuses et l'éclatement des
-couleurs ! En suivant la côte de Wakayama jusqu'aux montagnes d'Okayama,
-nous avons remonté le temps et vécu ainsi plusieurs printemps : l'éclosion
-étant décalée en fonction du climat. À  quelques jours de l'éclosion, nous
-sentons l'excitation monter.
+À quelques jours de l’éclosion, nous sentons l’excitation monter. Chacun guette les bourgeons, observe la forêt se réveiller, commente l’avancée de ces petites fleurs. 
 {:.ten.columns.post-content}
 
 <!--fin extrait-->
 
-Chacun guette les bourgeons, observe la forêt se réveiller, commente
-l'avancée de ces petites fleurs qui font tant rêver. Ici, lorsque les
-arbres se parent de pétales, les japonais dégustent leur bento (boîte à
-pique nique) sous les arbres le jour du Sakura Karnival, comme nous avons
-pu le découvrir sur le bord de la rivière à Okayama ou à Kurashiki.
+
+Ici, lorsque les arbres se parent de pétales, les Japonais dégustent leur bento (boîte à pique-nique traditionnellement laquée, aujourd’hui en plastique jetable) sous les arbres le jour du Sakura Karnival comme nous avons pu le découvrir sur le bord de la rivière à Okayama ou à Kurashiki.
 {:.ten.columns.post-content}
 
 
 {% include photo.html photo="IMG_20190414_070658.jpg" alt="" %}
 {% include photo.html photo="IMG_20190407_114341.jpg" alt="" %}
 
-Cela ne dure que deux semaines, deux petites semaines de plaisir à
-contempler les forêts, à s'arrêter sous les branches, à allumer les
-lampions dans les allées et à vivre l'évolution de cette belle Nature.
-Certaines région mettent d'ailleurs en avant leur plus vieil arbre, en
+Cela ne dure que deux semaines, deux petites semaines à contempler les forêts, s’arrêter sous les branches et allumer les lampions dans les allées. Certaines région mettent d'ailleurs en avant leur plus vieil arbre, en
 faisant des phénomènes d'attraction à cette période : nous avons pu aller
 voir par deux fois le "daigo zakura", célèbre dans la région de Okayama,
 avec ses bourgeons puis finalement ses fleurs tant attendues !
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Daigozakura](http://ge0.me/w21eg6-dkH/Daigozakura_Cherry_Blossoms)
+- [Daigozakura](http://ge0.me/w21eg6-dkH/Daigozakura_Cherry_Blossoms)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190411_150130.jpg" alt="" %}
 
-Ensuite, le vent transforme les fleurs en flocons de neige qui sont dévorés
-par les rivières et emportés au gré des virages, laissant place au vert
-printanier. Cette douceur nous l'avons savourée avec Yukiko...
+Ensuite, le vent transforme les fleurs en flocons de neige qui sont dévorés par les rivières et emportés au gré des virages, laissant place au vert printanier. Cette douceur nous l’avons savourée avec Yukiko que nous voulons vous présenter.
+{:.ten.columns.post-content}
 {:.ten.columns.post-content}
 
 Pour la rejoindre au nord d'Okayama, nous prendrons 12 petits trains locaux
@@ -76,9 +62,8 @@ afin de sillonner les côtes et grimper dans les collines.
 
 {% include photo.html photo="IMG_20190416_123415.jpg" alt="" %}
 
-Yukiko est un rayon de soleil avec sa bonne humeur, sa bienveillance et son
-auto dérision ! À 70 ans, elle vit avec son époux Noburo, marqué par le
-temps, concentré et réfléchi dans ses rizières.
+Yukiko est un rayon de soleil avec sa bonne humeur, sa bienveillance et son autodérision.
+Yukiko a 70 ans, elle vit avec son époux Noburo, marqué par le temps, concentré et réfléchi dans ses rizières. 
 {:.ten.columns.post-content}
 
 À peine arrivés, elle nous embarque dans la découverte d'une tradition
@@ -93,7 +78,7 @@ tout genre de choses !
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Maison-musée](http://ge0.me/021eA9OlzC/Musée_%3F)
+- [Maison-musée](http://ge0.me/021eA9OlzC/Musée_%3F)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190403_142858.jpg" alt="" %}
@@ -107,13 +92,7 @@ vent : encore une fois, une p par membre de la famille.
 
 {% include photo.html photo="IMG_20190510_182435~2.jpg" alt="" %}
 
-Dans l'immense potager en espalier en pleine montagne de Yukiko, nous
-pouvons trouver toute sorte de légumes : daikon (radis blanc présent dans
-tout jardin japonais), oignons, choux multiples, arbres fruitiers, elle
-nous fait découvrir les saisons japonaises et nous transmet les
-savoir-faire appris avec son beau père autrefois. Elle fabrique son charbon
-de bois, préserve des graines de plantes ancestrales, cuisine divinement
-bien.
+Elle cultive des légumes dans son immense potager en terrasses en pleine montagne. Forêt de champignons, oignons, choux multiples, arbres fruitiers, elle nous fait découvrir les saisons japonaises et nous transmet des savoir-faire appris avec son beau-père autrefois. Yukiko fabrique son charbon de bois, préserve des graines de plantes ancestrales, cuisine divinement bien. 
 {:.ten.columns.post-content}
 
 {% include photo.html photo="IMG_20190412_105028.jpg" alt="" %}
@@ -124,7 +103,7 @@ déposer leurs légumes et en acheter d'autres.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Magasins agricoles](http://ge0.me/021eBMBKq5/Magasins_agricoles)
+- [Magasins agricoles](http://ge0.me/021eBMBKq5/Magasins_agricoles)
 {% endrecommend %}
 
 Alors qu'on nous annonce dans le journal qu'un passionné lance une culture
@@ -150,6 +129,11 @@ poêlé à l'huile d'olive avec une noix de beurre dans son chapeau au moment
 de le croquer sur son lit de feuilles de Wasabi ! Bon appétit !
 {:.ten.columns.post-content}
 
+{% recommend %}
+- [Recette Shiitake et feuille de wasabi](/recettes/japon-shiitake-wasabi)
+- [Recette de l'Okonomiyaki](/recettes/japon-okonomiyaki)
+{% endrecommend %}
+
 Sous tous ces aspects traditionnels, Yukiko est également femme de notre
 monde moderne ! Elle rejoint son groupe d'anglais chaque semaine, sillonne
 les routes avec son petit camion blanc décoré de coussins en crochet et
@@ -172,7 +156,7 @@ récolté plus tôt lui rappelant son enfance.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Restaurant Shiitake](http://ge0.me/0210AEUJgc/Shiitake_restaurant)
+- [Restaurant Shiitake](http://ge0.me/0210AEUJgc/Shiitake_restaurant)
 {% endrecommend %}
 
 {% include photo.html photo="IMG_20190411_182211.jpg" alt="" %}
@@ -189,7 +173,7 @@ d'ailleurs dans ses bungalows durant l'été.
 {:.ten.columns.post-content}
 
 {% recommend %}
-[Les bungalows de Yukiko](http://ge0.me/s21cpipCaA/Bungalow)
+- [Les bungalows de Yukiko](http://ge0.me/s21cpipCaA/Bungalow)
 {% endrecommend %}
 
 Yukiko la curieuse a sauté sur l'occasion de voyager de sa ferme en

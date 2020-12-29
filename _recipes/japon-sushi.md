@@ -4,6 +4,8 @@ country: japon
 categories:
   - plat
 image: R-sushi.jpg
+post:
+  url: /voyages/2019/03/25/prefecture-wakayama/
 ---
 
 La “sushi party” consiste à tout mettre sur la table et à laisser chacun composer ses sushis comme bon lui semble. Roulez votre feuille de nori en cône et fourrez-la de riz, poissons et légumes avant de la dévorer.

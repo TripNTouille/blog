@@ -4,6 +4,8 @@ country: georgie
 categories:
   - entree
 image: R-painperdu-piotr.jpg
+post:
+  url: /voyages/2019/07/01/fabrication-vin-kakheti/
 ---
 
 Création de Piotr au petit matin
