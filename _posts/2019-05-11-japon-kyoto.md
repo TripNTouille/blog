@@ -6,25 +6,25 @@ points:
 - - Grand Hotel Nijojo, Kyoto
   - 35.009169
   - 135.750989
-  - Château de Nijō, Kyoto
+- - Château de Nijō, Kyoto
   - 35.013148
   - 135.748151
-  - Papeterie aux mille trésors, Kyoto
+- - Papeterie aux mille trésors, Kyoto
   - 35.0224
   - 135.66978
-  - Forêt de bamboo Arashiyama, Kyoto
+- - Forêt de bamboo Arashiyama, Kyoto
   - 35.01793
   - 135.674568
-  - Marché couvert, Kyoto
+- - Marché couvert, Kyoto
   - 35.004997
   - 135.763914
-  - Boutique de tissu, Kyoto
+- - Boutique de tissu, Kyoto
   - 35.003585
   - 135.76591
-  - Gion Quarter, Kyoto
+- - Gion Quarter, Kyoto
   - 35.002524
   - 135.774785
-  - Fushimi Inari-taisha, Kyoto
+- - Fushimi Inari-taisha, Kyoto
   - 34.96821
   - 135.779091
 image: IMG_20190511_144410.jpg

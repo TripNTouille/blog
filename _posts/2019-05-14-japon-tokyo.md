@@ -6,10 +6,10 @@ points:
 - - Hostel wahaku kotobuki
   - 35.706565
   - 139.791993
-  - Odaiba
+- - Odaiba
   - 35.626722
   - 139.7721
-  - Senso-ji, Asakusa, Tokyo
+- - Senso-ji, Asakusa, Tokyo
   - 35.713603
   - 139.79594
 image: IMG_20190515_162013.jpg

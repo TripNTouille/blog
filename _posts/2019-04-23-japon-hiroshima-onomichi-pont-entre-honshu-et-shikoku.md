@@ -6,10 +6,10 @@ points:
 - - Anago no nedoko, Onomichi
   - 34.409215
   - 133.202008
-  - Office de tourisme, Onomichi
+- - Office de tourisme, Onomichi
   - 34.404846
   - 133.193805
-  - Pagode Tennenji, Onomichi
+- - Pagode Tennenji, Onomichi
   - 34.410079
   - 133.199833
 image: IMG_20190423_143138.jpg

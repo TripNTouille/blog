@@ -6,7 +6,7 @@ points:
 - - Iwao's Seven Island, Naoshima
   - 34.461969
   - 133.995201
-  - Citrouille jaune, Naoshima
+- - Citrouille jaune, Naoshima
   - 34.4464
   - 133.9956
 image: IMG_20190505_172604.jpg
