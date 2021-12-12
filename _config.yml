@@ -17,6 +17,7 @@ title: Trip'n Touille
 email: contact@tripntouille.com
 description: "Escapade en cuisine avec les habitants du monde : des recettes grapillées en infiltrant les cuisines, des rencontres époustouflantes épiçant les plats et des bonnes adresses relevant le voyage. Le tout avec notre regard curieux sur le monde."
 baseurl: "" # the subpath of your site, e.g. /blog
+welcome: "/blog"
 url: "https://www.tripntouille.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 # github_username:
