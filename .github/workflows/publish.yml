@@ -1,0 +1,25 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.5
+          bundler-cache: true
+
+      - run: bundle exec jekyll build
+      - run: bundle exec jekyll algolia
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.9
+        with:
+          branch: gh-pages
+          folder: _site
